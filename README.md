@@ -1,2 +1,2 @@
-# FUSOU-testdata
+# FUSOU-TESTDATA
 test data for FUSOU
