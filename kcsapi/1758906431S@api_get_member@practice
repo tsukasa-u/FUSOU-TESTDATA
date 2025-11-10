@@ -1,0 +1,76 @@
+{
+  "api_data": {
+    "api_create_kind": 0,
+    "api_entry_limit": null,
+    "api_list": [
+      {
+        "api_enemy_comment": "そばかす、淡い初恋",
+        "api_enemy_comment_id": "187794194",
+        "api_enemy_flag": 3,
+        "api_enemy_flag_ship": 468,
+        "api_enemy_id": 16056661,
+        "api_enemy_level": 120,
+        "api_enemy_name": "暇人になりたい",
+        "api_enemy_name_id": "119636189",
+        "api_enemy_rank": "元帥",
+        "api_medals": 10,
+        "api_state": 0
+      },
+      {
+        "api_enemy_comment": "イッツ大泊",
+        "api_enemy_comment_id": "189577232",
+        "api_enemy_flag": 3,
+        "api_enemy_flag_ship": 194,
+        "api_enemy_id": 16040648,
+        "api_enemy_level": 120,
+        "api_enemy_name": "かわうK6",
+        "api_enemy_name_id": "119249978",
+        "api_enemy_rank": "大将",
+        "api_medals": 18,
+        "api_state": 0
+      },
+      {
+        "api_enemy_comment": "電の父",
+        "api_enemy_comment_id": "186008820",
+        "api_enemy_flag": 3,
+        "api_enemy_flag_ship": 640,
+        "api_enemy_id": 16140797,
+        "api_enemy_level": 120,
+        "api_enemy_name": "MASA",
+        "api_enemy_name_id": "136082797",
+        "api_enemy_rank": "大将",
+        "api_medals": 7,
+        "api_state": 0
+      },
+      {
+        "api_enemy_comment": "丙が身の丈に合ってる",
+        "api_enemy_comment_id": "187916930",
+        "api_enemy_flag": 3,
+        "api_enemy_flag_ship": 498,
+        "api_enemy_id": 16178593,
+        "api_enemy_level": 120,
+        "api_enemy_name": "ウィルフリッド",
+        "api_enemy_name_id": "168011045",
+        "api_enemy_rank": "大将",
+        "api_medals": 0,
+        "api_state": 0
+      },
+      {
+        "api_enemy_comment": "ホロ...月が綺麗ですね",
+        "api_enemy_comment_id": "136336589",
+        "api_enemy_flag": 3,
+        "api_enemy_flag_ship": 377,
+        "api_enemy_id": 16028092,
+        "api_enemy_level": 120,
+        "api_enemy_name": "sidious",
+        "api_enemy_name_id": "119105309",
+        "api_enemy_rank": "大将",
+        "api_medals": 16,
+        "api_state": 0
+      }
+    ],
+    "api_selected_kind": 0
+  },
+  "api_result": 1,
+  "api_result_msg": "成功"
+}

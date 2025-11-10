@@ -1,0 +1,69 @@
+{
+  "api_data": {
+    "api_cmt": "電の父",
+    "api_cmt_id": "186008820",
+    "api_deck": {
+      "api_ships": [
+        {
+          "api_id": 931458040,
+          "api_level": 86,
+          "api_ship_id": 640,
+          "api_star": 4
+        },
+        {
+          "api_id": 289260321,
+          "api_level": 152,
+          "api_ship_id": 462,
+          "api_star": 4
+        },
+        {
+          "api_id": 986339548,
+          "api_level": 31,
+          "api_ship_id": 421,
+          "api_star": 4
+        },
+        {
+          "api_id": 1060936156,
+          "api_level": 40,
+          "api_ship_id": 942,
+          "api_star": 4
+        },
+        {
+          "api_id": 1029101648,
+          "api_level": 77,
+          "api_ship_id": 967,
+          "api_star": 4
+        },
+        {
+          "api_id": 653967389,
+          "api_level": 98,
+          "api_ship_id": 507,
+          "api_star": 4
+        }
+      ]
+    },
+    "api_deckname": "E2-1-2",
+    "api_deckname_id": "",
+    "api_experience": [
+      30578504,
+      0
+    ],
+    "api_friend": 0,
+    "api_furniture": 423,
+    "api_level": 120,
+    "api_member_id": 16140797,
+    "api_nickname": "MASA",
+    "api_nickname_id": "136082797",
+    "api_rank": 2,
+    "api_ship": [
+      563,
+      570
+    ],
+    "api_slotitem": [
+      2553,
+      2597
+    ]
+  },
+  "api_result": 1,
+  "api_result_msg": "成功"
+}

@@ -1,0 +1,10 @@
+{
+  "api_data": {
+    "api_caution_flag": 0,
+    "api_flag": null,
+    "api_max_chara": null,
+    "api_max_slotitem": null
+  },
+  "api_result": 1,
+  "api_result_msg": "成功"
+}

@@ -1,0 +1,90 @@
+{
+  "api_data": [
+    {
+      "api_flagship": "0",
+      "api_id": 1,
+      "api_member_id": 16189463,
+      "api_mission": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "api_name": "第1艦隊",
+      "api_name_id": "",
+      "api_ship": [
+        3245,
+        3337,
+        439,
+        4299,
+        544,
+        647
+      ]
+    },
+    {
+      "api_flagship": "0",
+      "api_id": 2,
+      "api_member_id": 16189463,
+      "api_mission": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "api_name": "北方鼠輸送作戦遠征艦隊",
+      "api_name_id": "",
+      "api_ship": [
+        2872,
+        1,
+        894,
+        589,
+        454,
+        569
+      ]
+    },
+    {
+      "api_flagship": "0",
+      "api_id": 3,
+      "api_member_id": 16189463,
+      "api_mission": [
+        1,
+        40,
+        1759514196883,
+        0
+      ],
+      "api_name": "水上機前線輸送遠征艦隊",
+      "api_name_id": "189737390",
+      "api_ship": [
+        175,
+        7701,
+        4448,
+        4827,
+        1227,
+        5773
+      ]
+    },
+    {
+      "api_flagship": "0",
+      "api_id": 4,
+      "api_member_id": 16189463,
+      "api_mission": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "api_name": "鼠輸送作戦遠征艦隊",
+      "api_name_id": "",
+      "api_ship": [
+        927,
+        13053,
+        4762,
+        7535,
+        3006,
+        2472
+      ]
+    }
+  ],
+  "api_result": 1,
+  "api_result_msg": "成功"
+}

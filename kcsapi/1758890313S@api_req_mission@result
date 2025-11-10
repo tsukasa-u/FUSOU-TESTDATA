@@ -1,0 +1,69 @@
+{
+  "api_data": {
+    "api_clear_result": 1,
+    "api_detail": "水雷戦隊にドラム缶を積載、北方<br>方面の友軍への糧食補給を図れ！",
+    "api_get_exp": 45,
+    "api_get_exp_lvup": [
+      [
+        692813,
+        701500
+      ],
+      [
+        58059,
+        59500
+      ],
+      [
+        47357,
+        49600
+      ],
+      [
+        115764,
+        117600
+      ],
+      [
+        129815,
+        132700
+      ],
+      [
+        216177,
+        219500
+      ]
+    ],
+    "api_get_item1": null,
+    "api_get_item2": null,
+    "api_get_material": [
+      390,
+      329,
+      0,
+      0
+    ],
+    "api_get_ship_exp": [
+      82,
+      55,
+      55,
+      55,
+      55,
+      55
+    ],
+    "api_maparea_name": "北方海域",
+    "api_member_exp": 9140626,
+    "api_member_lv": 114,
+    "api_quest_level": 6,
+    "api_quest_name": "北方鼠輸送作戦",
+    "api_ship_id": [
+      -1,
+      2872,
+      1,
+      894,
+      589,
+      454,
+      569
+    ],
+    "api_useitem_flag": [
+      0,
+      0
+    ]
+  },
+  "api_result": 1,
+  "api_result_msg": "成功"
+}

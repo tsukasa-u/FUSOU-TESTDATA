@@ -1,0 +1,76 @@
+{
+  "api_data": {
+    "api_create_kind": 0,
+    "api_entry_limit": 17986,
+    "api_list": [
+      {
+        "api_enemy_comment": "時間切れだった",
+        "api_enemy_comment_id": "184522135",
+        "api_enemy_flag": 3,
+        "api_enemy_flag_ship": 983,
+        "api_enemy_id": 16039114,
+        "api_enemy_level": 120,
+        "api_enemy_name": "ヨロレイヒ～",
+        "api_enemy_name_id": "119199714",
+        "api_enemy_rank": "元帥",
+        "api_medals": 15,
+        "api_state": 0
+      },
+      {
+        "api_enemy_comment": "",
+        "api_enemy_comment_id": "",
+        "api_enemy_flag": 3,
+        "api_enemy_flag_ship": 660,
+        "api_enemy_id": 16117776,
+        "api_enemy_level": 118,
+        "api_enemy_name": "戸の穂",
+        "api_enemy_name_id": "133389141",
+        "api_enemy_rank": "大将",
+        "api_medals": 0,
+        "api_state": 0
+      },
+      {
+        "api_enemy_comment": "·͜· ♡",
+        "api_enemy_comment_id": "183548065",
+        "api_enemy_flag": 3,
+        "api_enemy_flag_ship": 232,
+        "api_enemy_id": 16108297,
+        "api_enemy_level": 120,
+        "api_enemy_name": "折原",
+        "api_enemy_name_id": "127868629",
+        "api_enemy_rank": "大将",
+        "api_medals": 4,
+        "api_state": 0
+      },
+      {
+        "api_enemy_comment": "今年も鷹柱みえるかな",
+        "api_enemy_comment_id": "176493691",
+        "api_enemy_flag": 3,
+        "api_enemy_flag_ship": 365,
+        "api_enemy_id": 16060202,
+        "api_enemy_level": 120,
+        "api_enemy_name": "ともえまみ",
+        "api_enemy_name_id": "119722880",
+        "api_enemy_rank": "大将",
+        "api_medals": 7,
+        "api_state": 0
+      },
+      {
+        "api_enemy_comment": "",
+        "api_enemy_comment_id": "",
+        "api_enemy_flag": 3,
+        "api_enemy_flag_ship": 721,
+        "api_enemy_id": 16087233,
+        "api_enemy_level": 120,
+        "api_enemy_name": "姫月",
+        "api_enemy_name_id": "123700656",
+        "api_enemy_rank": "大将",
+        "api_medals": 3,
+        "api_state": 0
+      }
+    ],
+    "api_selected_kind": 0
+  },
+  "api_result": 1,
+  "api_result_msg": "成功"
+}

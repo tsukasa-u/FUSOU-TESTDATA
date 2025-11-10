@@ -1,0 +1,69 @@
+{
+  "api_data": {
+    "api_cmt": "そばかす、淡い初恋",
+    "api_cmt_id": "187794194",
+    "api_deck": {
+      "api_ships": [
+        {
+          "api_id": 10801580,
+          "api_level": 141,
+          "api_ship_id": 468,
+          "api_star": 4
+        },
+        {
+          "api_id": -1,
+          "api_level": null,
+          "api_ship_id": null,
+          "api_star": null
+        },
+        {
+          "api_id": -1,
+          "api_level": null,
+          "api_ship_id": null,
+          "api_star": null
+        },
+        {
+          "api_id": -1,
+          "api_level": null,
+          "api_ship_id": null,
+          "api_star": null
+        },
+        {
+          "api_id": -1,
+          "api_level": null,
+          "api_ship_id": null,
+          "api_star": null
+        },
+        {
+          "api_id": -1,
+          "api_level": null,
+          "api_ship_id": null,
+          "api_star": null
+        }
+      ]
+    },
+    "api_deckname": "2-1空母叩き",
+    "api_deckname_id": "",
+    "api_experience": [
+      65937765,
+      0
+    ],
+    "api_friend": 0,
+    "api_furniture": 92,
+    "api_level": 120,
+    "api_member_id": 16056661,
+    "api_nickname": "暇人になりたい",
+    "api_nickname_id": "119636189",
+    "api_rank": 1,
+    "api_ship": [
+      679,
+      690
+    ],
+    "api_slotitem": [
+      3031,
+      3059
+    ]
+  },
+  "api_result": 1,
+  "api_result_msg": "成功"
+}
