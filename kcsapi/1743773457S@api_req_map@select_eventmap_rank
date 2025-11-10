@@ -1,0 +1,20 @@
+{
+  "api_data": {
+    "api_air_base_decks": null,
+    "api_m10": null,
+    "api_maphp": {
+      "api_gauge_num": 1,
+      "api_gauge_type": 2,
+      "api_max_maphp": 1400,
+      "api_now_maphp": 1400
+    },
+    "api_s_no": 1,
+    "api_sally_flag": [
+      1,
+      0,
+      0
+    ]
+  },
+  "api_result": 1,
+  "api_result_msg": "成功"
+}

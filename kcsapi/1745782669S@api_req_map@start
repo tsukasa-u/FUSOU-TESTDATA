@@ -1,0 +1,192 @@
+{
+  "api_data": {
+    "api_airsearch": {
+      "api_plane_type": 0,
+      "api_result": 0
+    },
+    "api_bosscell_no": 28,
+    "api_bosscomp": 0,
+    "api_cell_data": [
+      {
+        "api_color_no": 0,
+        "api_distance": null,
+        "api_id": 10400,
+        "api_no": 0,
+        "api_passed": 0
+      },
+      {
+        "api_color_no": 4,
+        "api_distance": 2,
+        "api_id": 10401,
+        "api_no": 1,
+        "api_passed": 1
+      },
+      {
+        "api_color_no": 4,
+        "api_distance": 2,
+        "api_id": 10402,
+        "api_no": 2,
+        "api_passed": 1
+      },
+      {
+        "api_color_no": 4,
+        "api_distance": 2,
+        "api_id": 10403,
+        "api_no": 3,
+        "api_passed": 1
+      },
+      {
+        "api_color_no": 10,
+        "api_distance": 3,
+        "api_id": 10404,
+        "api_no": 4,
+        "api_passed": 1
+      },
+      {
+        "api_color_no": 4,
+        "api_distance": 4,
+        "api_id": 10405,
+        "api_no": 5,
+        "api_passed": 1
+      },
+      {
+        "api_color_no": 4,
+        "api_distance": 4,
+        "api_id": 10406,
+        "api_no": 6,
+        "api_passed": 1
+      },
+      {
+        "api_color_no": 8,
+        "api_distance": 4,
+        "api_id": 10407,
+        "api_no": 7,
+        "api_passed": 1
+      },
+      {
+        "api_color_no": 4,
+        "api_distance": 2,
+        "api_id": 10408,
+        "api_no": 8,
+        "api_passed": 1
+      },
+      {
+        "api_color_no": 4,
+        "api_distance": 3,
+        "api_id": 10409,
+        "api_no": 9,
+        "api_passed": 0
+      },
+      {
+        "api_color_no": 4,
+        "api_distance": 3,
+        "api_id": 10410,
+        "api_no": 10,
+        "api_passed": 0
+      },
+      {
+        "api_color_no": 10,
+        "api_distance": 3,
+        "api_id": 10411,
+        "api_no": 11,
+        "api_passed": 1
+      },
+      {
+        "api_color_no": 4,
+        "api_distance": 3,
+        "api_id": 10412,
+        "api_no": 12,
+        "api_passed": 1
+      },
+      {
+        "api_color_no": 10,
+        "api_distance": 3,
+        "api_id": 10413,
+        "api_no": 13,
+        "api_passed": 1
+      },
+      {
+        "api_color_no": 10,
+        "api_distance": 3,
+        "api_id": 10414,
+        "api_no": 14,
+        "api_passed": 1
+      },
+      {
+        "api_color_no": 4,
+        "api_distance": 3,
+        "api_id": 10415,
+        "api_no": 15,
+        "api_passed": 0
+      },
+      {
+        "api_color_no": 4,
+        "api_distance": 5,
+        "api_id": 10416,
+        "api_no": 16,
+        "api_passed": 0
+      },
+      {
+        "api_color_no": 4,
+        "api_distance": 3,
+        "api_id": 10417,
+        "api_no": 17,
+        "api_passed": 1
+      },
+      {
+        "api_color_no": 4,
+        "api_distance": 2,
+        "api_id": 10418,
+        "api_no": 18,
+        "api_passed": 1
+      },
+      {
+        "api_color_no": 4,
+        "api_distance": 3,
+        "api_id": 10419,
+        "api_no": 19,
+        "api_passed": 0
+      },
+      {
+        "api_color_no": 4,
+        "api_distance": 4,
+        "api_id": 10420,
+        "api_no": 20,
+        "api_passed": 1
+      },
+      {
+        "api_color_no": 0,
+        "api_distance": 99,
+        "api_id": 10421,
+        "api_no": 21,
+        "api_passed": 0
+      }
+    ],
+    "api_cell_flavor": {
+      "api_message": "第一艦隊、警戒を厳に！<br>侵攻する敵戦力を撃滅せよッ！",
+      "api_type": 0
+    },
+    "api_color_no": 4,
+    "api_e_deck_info": null,
+    "api_event_id": 6,
+    "api_event_kind": 0,
+    "api_eventmap": {
+      "api_dmg": 0,
+      "api_max_maphp": 1400,
+      "api_now_maphp": 1400
+    },
+    "api_from_no": 21,
+    "api_happening": null,
+    "api_itemget": null,
+    "api_limit_state": 0,
+    "api_maparea_id": 60,
+    "api_mapinfo_no": 1,
+    "api_next": 1,
+    "api_no": 19,
+    "api_rashin_flg": 1,
+    "api_rashin_id": 4,
+    "api_select_route": null
+  },
+  "api_result": 1,
+  "api_result_msg": "成功"
+}
