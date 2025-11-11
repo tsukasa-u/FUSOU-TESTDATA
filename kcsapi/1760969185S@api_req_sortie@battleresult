@@ -1,0 +1,84 @@
+{
+  "api_data": {
+    "api_dests": 5,
+    "api_destsf": 0,
+    "api_enemy_info": {
+      "api_deck_name": "敵鉄底海峡任務部隊 重巡戦隊",
+      "api_level": "",
+      "api_rank": ""
+    },
+    "api_escape": null,
+    "api_escape_flag": 0,
+    "api_first_clear": 0,
+    "api_get_base_exp": 210,
+    "api_get_eventflag": 0,
+    "api_get_eventitem": null,
+    "api_get_exmap_rate": 0,
+    "api_get_exmap_useitem_id": 0,
+    "api_get_exp": 152,
+    "api_get_exp_lvup": [
+      [
+        922316,
+        1000000
+      ],
+      [
+        402827,
+        411500
+      ],
+      [
+        309305,
+        319000
+      ],
+      [
+        302851,
+        307400
+      ],
+      [
+        289767,
+        296200
+      ],
+      [
+        287571,
+        296200
+      ]
+    ],
+    "api_get_flag": [
+      0,
+      0,
+      0
+    ],
+    "api_get_ship": null,
+    "api_get_ship_exp": [
+      -1,
+      630,
+      210,
+      210,
+      210,
+      210,
+      210
+    ],
+    "api_get_useitem": null,
+    "api_landing_hp": null,
+    "api_m1": null,
+    "api_m_suffix": null,
+    "api_mapcell_incentive": 0,
+    "api_member_exp": 9283376,
+    "api_member_lv": 114,
+    "api_mvp": 1,
+    "api_next_map_ids": null,
+    "api_quest_level": 9,
+    "api_quest_name": "サブ島沖海域",
+    "api_select_reward_dict": null,
+    "api_ship_id": [
+      1527,
+      1527,
+      1522,
+      1518,
+      1576,
+      1576
+    ],
+    "api_win_rank": "A"
+  },
+  "api_result": 1,
+  "api_result_msg": "成功"
+}

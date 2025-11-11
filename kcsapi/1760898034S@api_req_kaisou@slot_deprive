@@ -1,0 +1,266 @@
+{
+  "api_data": {
+    "api_ship_data": {
+      "api_set_ship": {
+        "api_backs": 4,
+        "api_bull": 10,
+        "api_cond": 49,
+        "api_exp": [
+          5788,
+          812,
+          26
+        ],
+        "api_fuel": 10,
+        "api_id": 15457,
+        "api_kaihi": [
+          46,
+          81
+        ],
+        "api_karyoku": [
+          8,
+          14
+        ],
+        "api_kyouka": [
+          5,
+          0,
+          9,
+          5,
+          0,
+          0,
+          0
+        ],
+        "api_leng": 1,
+        "api_locked": 1,
+        "api_locked_equip": 1,
+        "api_lucky": [
+          19,
+          85
+        ],
+        "api_lv": 11,
+        "api_maxhp": 8,
+        "api_ndock_item": [
+          0,
+          0
+        ],
+        "api_ndock_time": 0,
+        "api_nowhp": 8,
+        "api_onslot": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "api_raisou": [
+          0,
+          0
+        ],
+        "api_sakuteki": [
+          5,
+          13
+        ],
+        "api_sally_area": null,
+        "api_ship_id": 898,
+        "api_slot": [
+          18760,
+          -1,
+          -1,
+          -1,
+          -1
+        ],
+        "api_slot_ex": 0,
+        "api_slotnum": 1,
+        "api_soku": 5,
+        "api_sortno": 498,
+        "api_soukou": [
+          9,
+          15
+        ],
+        "api_sp_effect_items": null,
+        "api_srate": 2,
+        "api_taiku": [
+          14,
+          18
+        ],
+        "api_taisen": [
+          34,
+          71
+        ]
+      },
+      "api_unset_ship": {
+        "api_backs": 6,
+        "api_bull": 6,
+        "api_cond": 49,
+        "api_exp": [
+          1746402,
+          38598,
+          45
+        ],
+        "api_fuel": 6,
+        "api_id": 6,
+        "api_kaihi": [
+          106,
+          89
+        ],
+        "api_karyoku": [
+          83,
+          74
+        ],
+        "api_kyouka": [
+          57,
+          57,
+          43,
+          38,
+          4,
+          0,
+          0
+        ],
+        "api_leng": 1,
+        "api_locked": 1,
+        "api_locked_equip": 1,
+        "api_lucky": [
+          26,
+          65
+        ],
+        "api_lv": 129,
+        "api_maxhp": 36,
+        "api_ndock_item": [
+          0,
+          0
+        ],
+        "api_ndock_time": 0,
+        "api_nowhp": 36,
+        "api_onslot": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "api_raisou": [
+          96,
+          94
+        ],
+        "api_sakuteki": [
+          64,
+          49
+        ],
+        "api_sally_area": null,
+        "api_ship_id": 144,
+        "api_slot": [
+          8819,
+          1937,
+          14402,
+          -1,
+          -1
+        ],
+        "api_slot_ex": -1,
+        "api_slotnum": 3,
+        "api_soku": 10,
+        "api_sortno": 144,
+        "api_soukou": [
+          53,
+          52
+        ],
+        "api_sp_effect_items": null,
+        "api_srate": 4,
+        "api_taiku": [
+          81,
+          59
+        ],
+        "api_taisen": [
+          81,
+          69
+        ]
+      }
+    },
+    "api_unset_list": {
+      "api_slot_list": [
+        747,
+        904,
+        1935,
+        2325,
+        3005,
+        3404,
+        3577,
+        4473,
+        4683,
+        4684,
+        4717,
+        4718,
+        6852,
+        8840,
+        9665,
+        12534,
+        13051,
+        13135,
+        13482,
+        22682,
+        330,
+        1216,
+        2131,
+        21918,
+        22043,
+        24063,
+        24077,
+        24135,
+        24203,
+        24215,
+        25704,
+        25890,
+        25944,
+        25967,
+        26025,
+        26107,
+        26169,
+        26403,
+        1101,
+        1250,
+        1782,
+        1936,
+        3709,
+        3763,
+        4115,
+        5020,
+        8963,
+        9267,
+        9664,
+        9666,
+        17161,
+        3818,
+        4710,
+        4711,
+        16279,
+        16280,
+        19543,
+        22245,
+        24561,
+        24562,
+        5163,
+        12797,
+        10916,
+        10917,
+        1881,
+        2048,
+        2216,
+        2288,
+        2734,
+        3792,
+        4870,
+        5036,
+        6412,
+        9266,
+        9669,
+        16571,
+        19448,
+        21134,
+        24101,
+        24116,
+        26524
+      ],
+      "api_type3No": 15
+    }
+  },
+  "api_result": 1,
+  "api_result_msg": "成功"
+}

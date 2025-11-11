@@ -1,0 +1,73 @@
+{
+  "api_data": {
+    "api_clear_result": 1,
+    "api_detail": "快速の水雷戦隊を集中運用して、<br>激戦の諸島へ物資を輸送しよう！",
+    "api_get_exp": 70,
+    "api_get_exp_lvup": [
+      [
+        384657,
+        397000
+      ],
+      [
+        30256,
+        32500
+      ],
+      [
+        63994,
+        66600
+      ],
+      [
+        52949,
+        56100
+      ],
+      [
+        51053,
+        52800
+      ],
+      [
+        37216,
+        37800
+      ]
+    ],
+    "api_get_item1": {
+      "api_useitem_count": 1,
+      "api_useitem_id": -1,
+      "api_useitem_name": null
+    },
+    "api_get_item2": null,
+    "api_get_material": [
+      276,
+      345,
+      0,
+      0
+    ],
+    "api_get_ship_exp": [
+      180,
+      120,
+      120,
+      120,
+      120,
+      120
+    ],
+    "api_maparea_name": "南西諸島海域",
+    "api_member_exp": 9283960,
+    "api_member_lv": 114,
+    "api_quest_level": 5,
+    "api_quest_name": "鼠輸送作戦",
+    "api_ship_id": [
+      -1,
+      927,
+      13053,
+      4762,
+      7535,
+      3006,
+      2472
+    ],
+    "api_useitem_flag": [
+      1,
+      0
+    ]
+  },
+  "api_result": 1,
+  "api_result_msg": "成功"
+}
