@@ -1,0 +1,84 @@
+{
+  "api_data": {
+    "api_dests": 4,
+    "api_destsf": 0,
+    "api_enemy_info": {
+      "api_deck_name": "敵前衛任務部隊 I群",
+      "api_level": "",
+      "api_rank": ""
+    },
+    "api_escape": null,
+    "api_escape_flag": 0,
+    "api_first_clear": 0,
+    "api_get_base_exp": 110,
+    "api_get_eventflag": 0,
+    "api_get_eventitem": null,
+    "api_get_exmap_rate": 0,
+    "api_get_exmap_useitem_id": 0,
+    "api_get_exp": 48,
+    "api_get_exp_lvup": [
+      [
+        6247,
+        6600
+      ],
+      [
+        222396,
+        228000
+      ],
+      [
+        1049280,
+        1055000
+      ],
+      [
+        74073,
+        74100,
+        78000
+      ],
+      [
+        1853129,
+        1860000
+      ],
+      [
+        230720,
+        236800
+      ]
+    ],
+    "api_get_flag": [
+      0,
+      0,
+      0
+    ],
+    "api_get_ship": null,
+    "api_get_ship_exp": [
+      -1,
+      165,
+      110,
+      110,
+      110,
+      220,
+      110
+    ],
+    "api_get_useitem": null,
+    "api_landing_hp": null,
+    "api_m1": null,
+    "api_m_suffix": null,
+    "api_mapcell_incentive": 0,
+    "api_member_exp": 9274151,
+    "api_member_lv": 114,
+    "api_mvp": 5,
+    "api_next_map_ids": null,
+    "api_quest_level": 3,
+    "api_quest_name": "南西諸島防衛線",
+    "api_select_reward_dict": null,
+    "api_ship_id": [
+      1510,
+      1510,
+      1506,
+      1502,
+      1502
+    ],
+    "api_win_rank": "A"
+  },
+  "api_result": 1,
+  "api_result_msg": "成功"
+}
