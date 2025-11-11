@@ -1,0 +1,149 @@
+{
+  "api_data": {
+    "api_atoll_cell": 0,
+    "api_balloon_cell": 0,
+    "api_deck_id": 1,
+    "api_eParam": [
+      [
+        14,
+        24,
+        10,
+        15
+      ],
+      [
+        7,
+        16,
+        7,
+        6
+      ],
+      [
+        7,
+        16,
+        7,
+        6
+      ]
+    ],
+    "api_eSlot": [
+      [
+        1504,
+        1525,
+        -1,
+        -1,
+        -1
+      ],
+      [
+        1502,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      [
+        1502,
+        -1,
+        -1,
+        -1,
+        -1
+      ]
+    ],
+    "api_e_maxhps": [
+      33,
+      22,
+      22
+    ],
+    "api_e_nowhps": [
+      33,
+      0,
+      0
+    ],
+    "api_escape_idx": null,
+    "api_fParam": [
+      [
+        67,
+        91,
+        87,
+        57
+      ],
+      [
+        10,
+        27,
+        12,
+        6
+      ]
+    ],
+    "api_f_maxhps": [
+      39,
+      15
+    ],
+    "api_f_nowhps": [
+      36,
+      2
+    ],
+    "api_flare_pos": [
+      -1,
+      -1
+    ],
+    "api_formation": [
+      1,
+      1,
+      2
+    ],
+    "api_friendly_battle": null,
+    "api_friendly_info": null,
+    "api_hougeki": {
+      "api_at_eflag": [
+        0
+      ],
+      "api_at_list": [
+        0
+      ],
+      "api_cl_list": [
+        [
+          1,
+          1
+        ]
+      ],
+      "api_damage": [
+        [
+          209.0,
+          210.0
+        ]
+      ],
+      "api_df_list": [
+        [
+          0,
+          0
+        ]
+      ],
+      "api_n_mother_list": [
+        0
+      ],
+      "api_si_list": [
+        [
+          "266",
+          "266"
+        ]
+      ],
+      "api_sp_list": [
+        1
+      ]
+    },
+    "api_ship_ke": [
+      1505,
+      1502,
+      1502
+    ],
+    "api_ship_lv": [
+      1,
+      1,
+      1
+    ],
+    "api_smoke_type": 0,
+    "api_touch_plane": [
+      -1,
+      -1
+    ]
+  },
+  "api_result": 1,
+  "api_result_msg": "成功"
+}
