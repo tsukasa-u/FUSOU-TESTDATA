@@ -1,0 +1,63 @@
+{
+  "api_data": {
+    "api_material": [
+      57652,
+      57333,
+      218159,
+      42109
+    ],
+    "api_ship": [
+      {
+        "api_bull": 20,
+        "api_fuel": 15,
+        "api_id": 544,
+        "api_onslot": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "api_bull": 25,
+        "api_fuel": 15,
+        "api_id": 1455,
+        "api_onslot": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "api_bull": 20,
+        "api_fuel": 15,
+        "api_id": 4850,
+        "api_onslot": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "api_bull": 20,
+        "api_fuel": 15,
+        "api_id": 1809,
+        "api_onslot": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      }
+    ],
+    "api_use_bou": 0
+  },
+  "api_result": 1,
+  "api_result_msg": "成功"
+}
