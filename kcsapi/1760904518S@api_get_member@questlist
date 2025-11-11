@@ -1,0 +1,97 @@
+{
+  "api_data": {
+    "api_c_list": null,
+    "api_completed_kind": 1,
+    "api_count": 4,
+    "api_exec_count": 4,
+    "api_exec_type": 2518033,
+    "api_list": [
+      {
+        "api_bonus_flag": 1,
+        "api_category": 2,
+        "api_detail": "艦隊を出撃させ、敵艦隊を捕捉、これを撃滅せよ！",
+        "api_get_material": [
+          50,
+          50,
+          0,
+          0
+        ],
+        "api_invalid_flag": 0,
+        "api_label_type": 2,
+        "api_lost_badges": null,
+        "api_no": 201,
+        "api_progress_flag": 0,
+        "api_select_rewards": null,
+        "api_state": 3,
+        "api_title": "敵艦隊を撃破せよ！",
+        "api_type": 1,
+        "api_voice_id": 0
+      },
+      {
+        "api_bonus_flag": 1,
+        "api_category": 4,
+        "api_detail": "本日中に「遠征」３回成功させよう！",
+        "api_get_material": [
+          100,
+          100,
+          100,
+          100
+        ],
+        "api_invalid_flag": 0,
+        "api_label_type": 2,
+        "api_lost_badges": null,
+        "api_no": 402,
+        "api_progress_flag": 0,
+        "api_select_rewards": null,
+        "api_state": 2,
+        "api_title": "「遠征」を３回成功させよう！",
+        "api_type": 1,
+        "api_voice_id": 0
+      },
+      {
+        "api_bonus_flag": 1,
+        "api_category": 5,
+        "api_detail": "各艦隊から整備が必要な艦を5隻以上ドック入りさせ、大規模な整備をしよう！",
+        "api_get_material": [
+          30,
+          30,
+          30,
+          30
+        ],
+        "api_invalid_flag": 0,
+        "api_label_type": 2,
+        "api_lost_badges": null,
+        "api_no": 503,
+        "api_progress_flag": 1,
+        "api_select_rewards": null,
+        "api_state": 2,
+        "api_title": "艦隊大整備！",
+        "api_type": 1,
+        "api_voice_id": 0
+      },
+      {
+        "api_bonus_flag": 1,
+        "api_category": 10,
+        "api_detail": "「Minneapolis」「Tuscaloosa」「Gambier Bay」「Jervis」「朧」「夕立」「村雨」「朝潮」「野分」<br>「巻波」旗艦含む3隻以上の強襲艦隊でキス島沖、北方AL海域、中部北海域ピーコック島沖の敵を撃滅せよ！",
+        "api_get_material": [
+          2025,
+          1031,
+          0,
+          0
+        ],
+        "api_invalid_flag": 0,
+        "api_label_type": 1,
+        "api_lost_badges": null,
+        "api_no": 1002,
+        "api_progress_flag": 0,
+        "api_select_rewards": null,
+        "api_state": 2,
+        "api_title": "【限定拡張任務】南瓜祭り2025、拡張作戦！",
+        "api_type": 4,
+        "api_voice_id": 0
+      }
+    ]
+  },
+  "api_result": 1,
+  "api_result_msg": "成功"
+}
