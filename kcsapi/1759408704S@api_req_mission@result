@@ -1,0 +1,73 @@
+{
+  "api_data": {
+    "api_clear_result": 1,
+    "api_detail": "軽巡旗艦と複数の水上機母艦で、<br>水上機の前線輸送を実施せよ！",
+    "api_get_exp": 60,
+    "api_get_exp_lvup": [
+      [
+        538428,
+        545500
+      ],
+      [
+        213446,
+        219500
+      ],
+      [
+        92409,
+        94600
+      ],
+      [
+        314049,
+        319000
+      ],
+      [
+        474677,
+        491500
+      ],
+      [
+        235638,
+        236800
+      ]
+    ],
+    "api_get_item1": {
+      "api_useitem_count": 3,
+      "api_useitem_id": 10,
+      "api_useitem_name": "家具箱（小）"
+    },
+    "api_get_item2": null,
+    "api_get_material": [
+      360,
+      360,
+      0,
+      120
+    ],
+    "api_get_ship_exp": [
+      210,
+      140,
+      140,
+      140,
+      140,
+      140
+    ],
+    "api_maparea_name": "南方海域",
+    "api_member_exp": 9198172,
+    "api_member_lv": 114,
+    "api_quest_level": 8,
+    "api_quest_name": "水上機前線輸送",
+    "api_ship_id": [
+      -1,
+      175,
+      7701,
+      4448,
+      4827,
+      1227,
+      5773
+    ],
+    "api_useitem_flag": [
+      4,
+      0
+    ]
+  },
+  "api_result": 1,
+  "api_result_msg": "成功"
+}
