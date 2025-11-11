@@ -1,0 +1,58 @@
+{
+  "api_data": {
+    "api_enemy_info": {
+      "api_deck_name": "__MASKED_API_DECK_NAME__",
+      "api_level": 120,
+      "api_rank": "元帥",
+      "api_user_name": "__MASKED_API_USER_NAME__"
+    },
+    "api_get_base_exp": 801,
+    "api_get_exp": 160,
+    "api_get_exp_lvup": [
+      [
+        48790,
+        49600,
+        52800
+      ],
+      [
+        829717,
+        851500
+      ],
+      [
+        508905,
+        509000,
+        527000
+      ],
+      [
+        696042,
+        701500
+      ],
+      [
+        424111,
+        426500
+      ],
+      [
+        477634,
+        491500
+      ]
+    ],
+    "api_get_ship_exp": [
+      -1,
+      1201,
+      801,
+      801,
+      1602,
+      801,
+      801
+    ],
+    "api_member_exp": 9140976,
+    "api_member_lv": 114,
+    "api_mvp": 4,
+    "api_ship_id": [
+      468
+    ],
+    "api_win_rank": "S"
+  },
+  "api_result": 1,
+  "api_result_msg": "成功"
+}
