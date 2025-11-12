@@ -1,0 +1,563 @@
+{
+  "api_data": {
+    "api_deck_data": [
+      {
+        "api_flagship": "0",
+        "api_id": 1,
+        "api_member_id": -9223372036854775808,
+        "api_mission": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "api_name": "__MASKED_API_NAME__",
+        "api_name_id": "__MASKED_API_NAME_ID__",
+        "api_ship": [
+          16204,
+          1162,
+          4299,
+          1927,
+          1668,
+          12894
+        ]
+      }
+    ],
+    "api_ship_data": [
+      {
+        "api_backs": 8,
+        "api_bull": 57,
+        "api_cond": 100,
+        "api_exp": [
+          1111969,
+          13031,
+          27
+        ],
+        "api_fuel": 48,
+        "api_id": 1162,
+        "api_kaihi": [
+          84,
+          70
+        ],
+        "api_karyoku": [
+          62,
+          56
+        ],
+        "api_kyouka": [
+          56,
+          0,
+          48,
+          39,
+          4,
+          0,
+          0
+        ],
+        "api_leng": 2,
+        "api_locked": 1,
+        "api_locked_equip": 1,
+        "api_lucky": [
+          22,
+          74
+        ],
+        "api_lv": 114,
+        "api_maxhp": 92,
+        "api_ndock_item": [
+          32,
+          60
+        ],
+        "api_ndock_time": 14430000,
+        "api_nowhp": 82,
+        "api_onslot": [
+          18,
+          19,
+          40,
+          12,
+          3
+        ],
+        "api_raisou": [
+          29,
+          0
+        ],
+        "api_sakuteki": [
+          116,
+          90
+        ],
+        "api_sally_area": null,
+        "api_ship_id": 698,
+        "api_slot": [
+          14276,
+          3874,
+          13122,
+          4073,
+          13371
+        ],
+        "api_slot_ex": 6211,
+        "api_slotnum": 5,
+        "api_soku": 10,
+        "api_sortno": 405,
+        "api_soukou": [
+          80,
+          80
+        ],
+        "api_sp_effect_items": null,
+        "api_srate": 4,
+        "api_taiku": [
+          118,
+          84
+        ],
+        "api_taisen": [
+          12,
+          0
+        ]
+      },
+      {
+        "api_backs": 6,
+        "api_bull": 12,
+        "api_cond": 50,
+        "api_exp": [
+          245161,
+          739,
+          91
+        ],
+        "api_fuel": 10,
+        "api_id": 1668,
+        "api_kaihi": [
+          93,
+          89
+        ],
+        "api_karyoku": [
+          69,
+          55
+        ],
+        "api_kyouka": [
+          40,
+          46,
+          46,
+          36,
+          0,
+          0,
+          0
+        ],
+        "api_leng": 3,
+        "api_locked": 1,
+        "api_locked_equip": 1,
+        "api_lucky": [
+          40,
+          82
+        ],
+        "api_lv": 67,
+        "api_maxhp": 34,
+        "api_ndock_item": [
+          2,
+          4
+        ],
+        "api_ndock_time": 1850000,
+        "api_nowhp": 30,
+        "api_onslot": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "api_raisou": [
+          72,
+          72
+        ],
+        "api_sakuteki": [
+          61,
+          60
+        ],
+        "api_sally_area": null,
+        "api_ship_id": 689,
+        "api_slot": [
+          7166,
+          6821,
+          26000,
+          -1,
+          -1
+        ],
+        "api_slot_ex": 26170,
+        "api_slotnum": 3,
+        "api_soku": 10,
+        "api_sortno": 1489,
+        "api_soukou": [
+          56,
+          52
+        ],
+        "api_sp_effect_items": null,
+        "api_srate": 4,
+        "api_taiku": [
+          108,
+          90
+        ],
+        "api_taisen": [
+          80,
+          90
+        ]
+      },
+      {
+        "api_backs": 8,
+        "api_bull": 18,
+        "api_cond": 50,
+        "api_exp": [
+          2135504,
+          74496,
+          21
+        ],
+        "api_fuel": 12,
+        "api_id": 1927,
+        "api_kaihi": [
+          123,
+          93
+        ],
+        "api_karyoku": [
+          81,
+          70
+        ],
+        "api_kyouka": [
+          42,
+          56,
+          37,
+          38,
+          5,
+          0,
+          0
+        ],
+        "api_leng": 1,
+        "api_locked": 1,
+        "api_locked_equip": 1,
+        "api_lucky": [
+          23,
+          85
+        ],
+        "api_lv": 134,
+        "api_maxhp": 44,
+        "api_ndock_item": [
+          3,
+          6
+        ],
+        "api_ndock_time": 3350000,
+        "api_nowhp": 40,
+        "api_onslot": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "api_raisou": [
+          84,
+          82
+        ],
+        "api_sakuteki": [
+          77,
+          54
+        ],
+        "api_sally_area": null,
+        "api_ship_id": 968,
+        "api_slot": [
+          25886,
+          3104,
+          847,
+          3153,
+          -1
+        ],
+        "api_slot_ex": 22662,
+        "api_slotnum": 4,
+        "api_soku": 10,
+        "api_sortno": 568,
+        "api_soukou": [
+          66,
+          57
+        ],
+        "api_sp_effect_items": [
+          {
+            "api_houg": null,
+            "api_kaih": null,
+            "api_kind": 1,
+            "api_raig": 1,
+            "api_souk": 1
+          }
+        ],
+        "api_srate": 4,
+        "api_taiku": [
+          152,
+          118
+        ],
+        "api_taisen": [
+          105,
+          75
+        ]
+      },
+      {
+        "api_backs": 8,
+        "api_bull": 30,
+        "api_cond": 54,
+        "api_exp": [
+          2039753,
+          75247,
+          16
+        ],
+        "api_fuel": 22,
+        "api_id": 4299,
+        "api_kaihi": [
+          113,
+          86
+        ],
+        "api_karyoku": [
+          95,
+          81
+        ],
+        "api_kyouka": [
+          51,
+          64,
+          52,
+          42,
+          5,
+          0,
+          0
+        ],
+        "api_leng": 2,
+        "api_locked": 1,
+        "api_locked_equip": 1,
+        "api_lucky": [
+          22,
+          89
+        ],
+        "api_lv": 133,
+        "api_maxhp": 60,
+        "api_ndock_item": [
+          11,
+          21
+        ],
+        "api_ndock_time": 6630000,
+        "api_nowhp": 52,
+        "api_onslot": [
+          1,
+          1,
+          2,
+          2,
+          0
+        ],
+        "api_raisou": [
+          102,
+          88
+        ],
+        "api_sakuteki": [
+          84,
+          60
+        ],
+        "api_sally_area": null,
+        "api_ship_id": 668,
+        "api_slot": [
+          7355,
+          7571,
+          8735,
+          3006,
+          -1
+        ],
+        "api_slot_ex": 6865,
+        "api_slotnum": 4,
+        "api_soku": 10,
+        "api_sortno": 468,
+        "api_soukou": [
+          76,
+          74
+        ],
+        "api_sp_effect_items": [
+          {
+            "api_houg": 2,
+            "api_kaih": 2,
+            "api_kind": 2,
+            "api_raig": null,
+            "api_souk": null
+          }
+        ],
+        "api_srate": 4,
+        "api_taiku": [
+          107,
+          88
+        ],
+        "api_taisen": [
+          97,
+          80
+        ]
+      },
+      {
+        "api_backs": 5,
+        "api_bull": 33,
+        "api_cond": 50,
+        "api_exp": [
+          9048,
+          52,
+          96
+        ],
+        "api_fuel": 17,
+        "api_id": 12894,
+        "api_kaihi": [
+          65,
+          67
+        ],
+        "api_karyoku": [
+          41,
+          59
+        ],
+        "api_kyouka": [
+          12,
+          16,
+          14,
+          8,
+          0,
+          0,
+          0
+        ],
+        "api_leng": 2,
+        "api_locked": 1,
+        "api_locked_equip": 1,
+        "api_lucky": [
+          17,
+          77
+        ],
+        "api_lv": 13,
+        "api_maxhp": 38,
+        "api_ndock_item": [
+          0,
+          0
+        ],
+        "api_ndock_time": 0,
+        "api_nowhp": 38,
+        "api_onslot": [
+          0,
+          1,
+          3,
+          0,
+          0
+        ],
+        "api_raisou": [
+          16,
+          33
+        ],
+        "api_sakuteki": [
+          24,
+          67
+        ],
+        "api_sally_area": null,
+        "api_ship_id": 896,
+        "api_slot": [
+          15611,
+          12717,
+          19363,
+          -1,
+          -1
+        ],
+        "api_slot_ex": 0,
+        "api_slotnum": 3,
+        "api_soku": 10,
+        "api_sortno": 497,
+        "api_soukou": [
+          24,
+          39
+        ],
+        "api_sp_effect_items": null,
+        "api_srate": 1,
+        "api_taiku": [
+          40,
+          70
+        ],
+        "api_taisen": [
+          4,
+          35
+        ]
+      },
+      {
+        "api_backs": 5,
+        "api_bull": 18,
+        "api_cond": 56,
+        "api_exp": [
+          540,
+          60,
+          80
+        ],
+        "api_fuel": 12,
+        "api_id": 16204,
+        "api_kaihi": [
+          26,
+          36
+        ],
+        "api_karyoku": [
+          9,
+          15
+        ],
+        "api_kyouka": [
+          1,
+          0,
+          2,
+          1,
+          0,
+          0,
+          0
+        ],
+        "api_leng": 1,
+        "api_locked": 1,
+        "api_locked_equip": 0,
+        "api_lucky": [
+          12,
+          60
+        ],
+        "api_lv": 3,
+        "api_maxhp": 28,
+        "api_ndock_item": [
+          0,
+          0
+        ],
+        "api_ndock_time": 0,
+        "api_nowhp": 28,
+        "api_onslot": [
+          15,
+          11,
+          0,
+          0,
+          0
+        ],
+        "api_raisou": [
+          0,
+          0
+        ],
+        "api_sakuteki": [
+          36,
+          60
+        ],
+        "api_sally_area": null,
+        "api_ship_id": 544,
+        "api_slot": [
+          25716,
+          25218,
+          -1,
+          -1,
+          -1
+        ],
+        "api_slot_ex": 0,
+        "api_slotnum": 2,
+        "api_soku": 5,
+        "api_sortno": 344,
+        "api_soukou": [
+          10,
+          19
+        ],
+        "api_sp_effect_items": null,
+        "api_srate": 0,
+        "api_taiku": [
+          36,
+          38
+        ],
+        "api_taisen": [
+          23,
+          60
+        ]
+      }
+    ]
+  },
+  "api_result": 1,
+  "api_result_msg": "成功"
+}

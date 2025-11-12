@@ -1,0 +1,69 @@
+{
+  "api_data": {
+    "api_cmt": "__MASKED_API_CMT__",
+    "api_cmt_id": "__MASKED_API_CMT_ID__",
+    "api_deck": {
+      "api_ships": [
+        {
+          "api_id": -9223372036854775808,
+          "api_level": 16,
+          "api_ship_id": 124,
+          "api_star": 3
+        },
+        {
+          "api_id": -9223372036854775808,
+          "api_level": 46,
+          "api_ship_id": 284,
+          "api_star": 4
+        },
+        {
+          "api_id": -9223372036854775808,
+          "api_level": 20,
+          "api_ship_id": 76,
+          "api_star": 3
+        },
+        {
+          "api_id": -9223372036854775808,
+          "api_level": 12,
+          "api_ship_id": 89,
+          "api_star": 1
+        },
+        {
+          "api_id": -9223372036854775808,
+          "api_level": 13,
+          "api_ship_id": 74,
+          "api_star": 1
+        },
+        {
+          "api_id": -9223372036854775808,
+          "api_level": 13,
+          "api_ship_id": 75,
+          "api_star": 1
+        }
+      ]
+    },
+    "api_deckname": "__MASKED_API_DECKNAME__",
+    "api_deckname_id": "__MASKED_API_DECKNAME_ID__",
+    "api_experience": [
+      444564,
+      458000
+    ],
+    "api_friend": 0,
+    "api_furniture": 70,
+    "api_level": 84,
+    "api_member_id": -9223372036854775808,
+    "api_nickname": "__MASKED_API_NICKNAME__",
+    "api_nickname_id": "__MASKED_API_NICKNAME_ID__",
+    "api_rank": 2,
+    "api_ship": [
+      104,
+      120
+    ],
+    "api_slotitem": [
+      452,
+      721
+    ]
+  },
+  "api_result": 1,
+  "api_result_msg": "成功"
+}
