@@ -1,0 +1,118 @@
+{
+  "api_data": {
+    "api_c_list": null,
+    "api_completed_kind": 1,
+    "api_count": 5,
+    "api_exec_count": 5,
+    "api_exec_type": 2518041,
+    "api_list": [
+      {
+        "api_bonus_flag": 1,
+        "api_category": 2,
+        "api_detail": "艦隊全力出撃！遊弋する敵艦隊を10回邀撃せよ！",
+        "api_get_material": [
+          150,
+          150,
+          200,
+          100
+        ],
+        "api_invalid_flag": 0,
+        "api_label_type": 2,
+        "api_lost_badges": null,
+        "api_no": 210,
+        "api_progress_flag": 0,
+        "api_select_rewards": null,
+        "api_state": 3,
+        "api_title": "敵艦隊を10回邀撃せよ！",
+        "api_type": 1,
+        "api_voice_id": 0
+      },
+      {
+        "api_bonus_flag": 1,
+        "api_category": 2,
+        "api_detail": "1週間の全力出撃を行い、敵輸送船団を捕捉・撃滅、敵の補給路を寸断せよ！",
+        "api_get_material": [
+          400,
+          0,
+          800,
+          0
+        ],
+        "api_invalid_flag": 0,
+        "api_label_type": 3,
+        "api_lost_badges": null,
+        "api_no": 221,
+        "api_progress_flag": 2,
+        "api_select_rewards": null,
+        "api_state": 2,
+        "api_title": "ろ号作戦",
+        "api_type": 2,
+        "api_voice_id": 0
+      },
+      {
+        "api_bonus_flag": 1,
+        "api_category": 4,
+        "api_detail": "本日中に「遠征」３回成功させよう！",
+        "api_get_material": [
+          100,
+          100,
+          100,
+          100
+        ],
+        "api_invalid_flag": 0,
+        "api_label_type": 2,
+        "api_lost_badges": null,
+        "api_no": 402,
+        "api_progress_flag": 0,
+        "api_select_rewards": null,
+        "api_state": 2,
+        "api_title": "「遠征」を３回成功させよう！",
+        "api_type": 1,
+        "api_voice_id": 0
+      },
+      {
+        "api_bonus_flag": 1,
+        "api_category": 4,
+        "api_detail": "今週中に「遠征」30回成功させよう！",
+        "api_get_material": [
+          300,
+          500,
+          500,
+          300
+        ],
+        "api_invalid_flag": 0,
+        "api_label_type": 3,
+        "api_lost_badges": null,
+        "api_no": 404,
+        "api_progress_flag": 2,
+        "api_select_rewards": null,
+        "api_state": 2,
+        "api_title": "大規模遠征作戦、発令！",
+        "api_type": 2,
+        "api_voice_id": 0
+      },
+      {
+        "api_bonus_flag": 1,
+        "api_category": 9,
+        "api_detail": "「Gambier Bay」「Minneapolis」「Tuscaloosa」「Brooklyn」「Johnston」「Luigi Torelli」のうち<br>3隻以上を含む特務艦隊でモーレイ海の敵艦隊を撃滅、沖ノ島海域及び中部海域哨戒線を哨戒せよ！",
+        "api_get_material": [
+          0,
+          0,
+          780,
+          780
+        ],
+        "api_invalid_flag": 0,
+        "api_label_type": 1,
+        "api_lost_badges": null,
+        "api_no": 986,
+        "api_progress_flag": 2,
+        "api_select_rewards": null,
+        "api_state": 2,
+        "api_title": "【期間限定任務】米特務強襲艦隊+α、出撃！",
+        "api_type": 4,
+        "api_voice_id": 0
+      }
+    ]
+  },
+  "api_result": 1,
+  "api_result_msg": "成功"
+}
