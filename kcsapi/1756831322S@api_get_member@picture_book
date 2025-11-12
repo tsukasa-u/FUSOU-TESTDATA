@@ -1,0 +1,58 @@
+{
+  "api_data": {
+    "api_list": [
+      {
+        "api_baku": 16,
+        "api_cnum": null,
+        "api_ctype": null,
+        "api_flag": [
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0
+        ],
+        "api_houg": 3,
+        "api_houk": 0,
+        "api_houm": 0,
+        "api_index_no": 561,
+        "api_info": "科学の国である兄弟によって開発された、時代を超越した未来<br>的なフォルムを持つ、実在した全翼型戦闘爆撃機です。<br>現代ステルス爆撃機や高性能戦闘ドローンのような、無尾翼の<br>全翼機で、1tもの爆弾を搭載、超高速飛行も可能。さらに当時<br>のレーダーに対して十分有効なステルス性まで備えた、極めて<br>先進的な全翼型航空機です。※if発展機も登場予定です。",
+        "api_kaih": null,
+        "api_leng": 5,
+        "api_name": "Ho229",
+        "api_q_voice_info": null,
+        "api_raig": 0,
+        "api_saku": 3,
+        "api_sinfo": null,
+        "api_soku": 0,
+        "api_souk": 0,
+        "api_state": [
+          1,
+          0,
+          0,
+          0,
+          0
+        ],
+        "api_stype": null,
+        "api_table_id": [
+          561
+        ],
+        "api_taik": null,
+        "api_tais": 0,
+        "api_tyku": 8,
+        "api_type": [
+          21,
+          51,
+          91,
+          59
+        ],
+        "api_yomi": null
+      }
+    ]
+  },
+  "api_result": 1,
+  "api_result_msg": "成功"
+}

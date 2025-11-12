@@ -1,0 +1,39 @@
+{
+  "api_data": {
+    "api_material": [
+      62869,
+      63261,
+      189441,
+      42145
+    ],
+    "api_ship": [
+      {
+        "api_bull": 34,
+        "api_fuel": 40,
+        "api_id": 2384,
+        "api_onslot": [
+          34,
+          24,
+          12,
+          6,
+          0
+        ]
+      },
+      {
+        "api_bull": 36,
+        "api_fuel": 38,
+        "api_id": 576,
+        "api_onslot": [
+          21,
+          21,
+          32,
+          12,
+          4
+        ]
+      }
+    ],
+    "api_use_bou": 40
+  },
+  "api_result": 1,
+  "api_result_msg": "成功"
+}

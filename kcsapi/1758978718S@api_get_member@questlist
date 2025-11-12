@@ -1,0 +1,188 @@
+{
+  "api_data": {
+    "api_c_list": [
+      {
+        "api_c_flag": 0,
+        "api_no": 1119,
+        "api_progress_flag": 0,
+        "api_state": 2
+      }
+    ],
+    "api_completed_kind": 0,
+    "api_count": 8,
+    "api_exec_count": 5,
+    "api_exec_type": 3920595,
+    "api_list": [
+      {
+        "api_bonus_flag": 1,
+        "api_category": 2,
+        "api_detail": "1週間で敵輸送船を20隻以上撃沈せよ！",
+        "api_get_material": [
+          500,
+          0,
+          400,
+          0
+        ],
+        "api_invalid_flag": 0,
+        "api_label_type": 3,
+        "api_lost_badges": null,
+        "api_no": 213,
+        "api_progress_flag": 0,
+        "api_select_rewards": null,
+        "api_state": 2,
+        "api_title": "海上通商破壊作戦",
+        "api_type": 2,
+        "api_voice_id": 0
+      },
+      {
+        "api_bonus_flag": 1,
+        "api_category": 2,
+        "api_detail": "1週間の全力出撃を行い、可能な限り多くの敵艦隊を捕捉、これを迎撃せよ！",
+        "api_get_material": [
+          300,
+          300,
+          300,
+          100
+        ],
+        "api_invalid_flag": 0,
+        "api_label_type": 3,
+        "api_lost_badges": null,
+        "api_no": 214,
+        "api_progress_flag": 1,
+        "api_select_rewards": null,
+        "api_state": 2,
+        "api_title": "あ号作戦",
+        "api_type": 2,
+        "api_voice_id": 0
+      },
+      {
+        "api_bonus_flag": 1,
+        "api_category": 2,
+        "api_detail": "有力な母艦航空隊で1週間の全力出撃を行い、可能な限り多くの敵空母を撃滅せよ！",
+        "api_get_material": [
+          0,
+          500,
+          0,
+          500
+        ],
+        "api_invalid_flag": 0,
+        "api_label_type": 3,
+        "api_lost_badges": null,
+        "api_no": 220,
+        "api_progress_flag": 1,
+        "api_select_rewards": null,
+        "api_state": 2,
+        "api_title": "い号作戦",
+        "api_type": 2,
+        "api_voice_id": 0
+      },
+      {
+        "api_bonus_flag": 1,
+        "api_category": 3,
+        "api_detail": "【期間限定演習】第三十二駆逐隊、夕雲型駆逐艦「玉波」「涼波」「藤波」「早波」「浜波」のうち<br>3隻以上を含む演習艦隊で、本日中に演習【S判定】勝利3回以上を達成せよ！演習、始めっ！",
+        "api_get_material": [
+          320,
+          320,
+          0,
+          320
+        ],
+        "api_invalid_flag": 0,
+        "api_label_type": 3,
+        "api_lost_badges": null,
+        "api_no": 374,
+        "api_progress_flag": 0,
+        "api_select_rewards": null,
+        "api_state": 1,
+        "api_title": "【期間限定任務】「三十二駆」特別演習！",
+        "api_type": 2,
+        "api_voice_id": 0
+      },
+      {
+        "api_bonus_flag": 1,
+        "api_category": 4,
+        "api_detail": "今週中に「遠征」30回成功させよう！",
+        "api_get_material": [
+          300,
+          500,
+          500,
+          300
+        ],
+        "api_invalid_flag": 0,
+        "api_label_type": 3,
+        "api_lost_badges": null,
+        "api_no": 404,
+        "api_progress_flag": 0,
+        "api_select_rewards": null,
+        "api_state": 1,
+        "api_title": "大規模遠征作戦、発令！",
+        "api_type": 2,
+        "api_voice_id": 0
+      },
+      {
+        "api_bonus_flag": 1,
+        "api_category": 4,
+        "api_detail": "激戦海域である南方海域への「東京急行」系遠征を敢行、これを成功させよ！",
+        "api_get_material": [
+          150,
+          0,
+          0,
+          0
+        ],
+        "api_invalid_flag": 0,
+        "api_label_type": 3,
+        "api_lost_badges": null,
+        "api_no": 410,
+        "api_progress_flag": 0,
+        "api_select_rewards": null,
+        "api_state": 1,
+        "api_title": "南方への輸送作戦を成功させよ！",
+        "api_type": 2,
+        "api_voice_id": 0
+      },
+      {
+        "api_bonus_flag": 1,
+        "api_category": 7,
+        "api_detail": "一週間の間に、近代化改修を１5回成功させよ！",
+        "api_get_material": [
+          200,
+          200,
+          300,
+          100
+        ],
+        "api_invalid_flag": 0,
+        "api_label_type": 3,
+        "api_lost_badges": null,
+        "api_no": 703,
+        "api_progress_flag": 0,
+        "api_select_rewards": null,
+        "api_state": 1,
+        "api_title": "「近代化改修」を進め、戦備を整えよ！",
+        "api_type": 2,
+        "api_voice_id": 0
+      },
+      {
+        "api_bonus_flag": 1,
+        "api_category": 11,
+        "api_detail": "「小口径主砲」「中口径主砲」「水上偵察機」各x8を廃棄、「20.3cm連装砲」x8、「九九式艦爆」<br>x8、家具コイン1031を準備せよ！(任務達成後、準備した装備・家具コインは消費します)",
+        "api_get_material": [
+          0,
+          0,
+          880,
+          0
+        ],
+        "api_invalid_flag": 0,
+        "api_label_type": 3,
+        "api_lost_badges": null,
+        "api_no": 1119,
+        "api_progress_flag": 0,
+        "api_select_rewards": null,
+        "api_state": 2,
+        "api_title": "【期間限定】Halloweenの南瓜、食べりゅ?",
+        "api_type": 2,
+        "api_voice_id": 0
+      }
+    ]
+  },
+  "api_result": 1,
+  "api_result_msg": "成功"
+}

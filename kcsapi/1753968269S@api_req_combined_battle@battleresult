@@ -1,0 +1,92 @@
+{
+  "api_data": {
+    "api_dests": 12,
+    "api_destsf": 1,
+    "api_enemy_info": {
+      "api_deck_name": "任務部隊 主力群",
+      "api_level": "",
+      "api_rank": ""
+    },
+    "api_escape": null,
+    "api_escape_flag": 0,
+    "api_first_clear": 0,
+    "api_get_base_exp": 600,
+    "api_get_eventflag": 0,
+    "api_get_eventitem": null,
+    "api_get_exmap_rate": 0,
+    "api_get_exmap_useitem_id": 0,
+    "api_get_exp": 3520,
+    "api_get_exp_lvup": [
+      [
+        1208809,
+        1223000
+      ],
+      [
+        1350024,
+        1372000
+      ],
+      [
+        2971107,
+        3021000
+      ],
+      [
+        1357228,
+        1372000
+      ],
+      [
+        1767733,
+        1785000
+      ],
+      [
+        2078628,
+        2115000
+      ]
+    ],
+    "api_get_exp_lvup_combined": null,
+    "api_get_flag": [
+      0,
+      1,
+      0
+    ],
+    "api_get_ship": {
+      "api_ship_getmes": "翔鶴型航空母艦２番艦、妹の瑞鶴です。<br>幸運の空母ですって？そうじゃないの、一生懸命やってるだけ…<br>よ。艦載機がある限り、負けないわ！",
+      "api_ship_id": 111,
+      "api_ship_name": "瑞鶴",
+      "api_ship_type": "正規空母"
+    },
+    "api_get_ship_exp": [
+      -1,
+      1080,
+      720,
+      720,
+      1440,
+      720,
+      720
+    ],
+    "api_get_ship_exp_combined": null,
+    "api_get_useitem": null,
+    "api_landing_hp": null,
+    "api_m1": null,
+    "api_m_suffix": null,
+    "api_member_exp": 8948139,
+    "api_member_lv": 113,
+    "api_mvp": 4,
+    "api_mvp_combined": null,
+    "api_next_map_ids": null,
+    "api_ope_suffix": null,
+    "api_quest_level": 7,
+    "api_quest_name": "KW環礁沖海域",
+    "api_select_reward_dict": null,
+    "api_ship_id": [
+      1586,
+      1615,
+      1527,
+      1592,
+      1576,
+      1576
+    ],
+    "api_win_rank": "S"
+  },
+  "api_result": 1,
+  "api_result_msg": "成功"
+}

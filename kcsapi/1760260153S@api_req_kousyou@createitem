@@ -1,0 +1,24 @@
+{
+  "api_data": {
+    "api_create_flag": 0,
+    "api_get_items": [
+      {
+        "api_id": -1,
+        "api_slotitem_id": -1
+      }
+    ],
+    "api_material": [
+      67249,
+      66398,
+      190509,
+      38670,
+      1066,
+      1068,
+      49,
+      87
+    ],
+    "api_unset_items": null
+  },
+  "api_result": 1,
+  "api_result_msg": "成功"
+}

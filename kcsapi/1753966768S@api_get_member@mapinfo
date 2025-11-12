@@ -1,0 +1,704 @@
+{
+  "api_data": {
+    "api_air_base": [
+      {
+        "api_action_kind": 1,
+        "api_area_id": 6,
+        "api_distance": {
+          "api_base": 5,
+          "api_bonus": 2
+        },
+        "api_name": "__MASKED_API_NAME__",
+        "api_plane_info": [
+          {
+            "api_cond": 0,
+            "api_count": 3,
+            "api_max_count": 4,
+            "api_slotid": 2716,
+            "api_squadron_id": 1,
+            "api_state": 1
+          },
+          {
+            "api_cond": 0,
+            "api_count": 13,
+            "api_max_count": 18,
+            "api_slotid": 21523,
+            "api_squadron_id": 2,
+            "api_state": 1
+          },
+          {
+            "api_cond": 0,
+            "api_count": 10,
+            "api_max_count": 18,
+            "api_slotid": 22185,
+            "api_squadron_id": 3,
+            "api_state": 1
+          },
+          {
+            "api_cond": 0,
+            "api_count": 7,
+            "api_max_count": 9,
+            "api_slotid": 11163,
+            "api_squadron_id": 4,
+            "api_state": 1
+          }
+        ],
+        "api_rid": 1
+      },
+      {
+        "api_action_kind": 1,
+        "api_area_id": 6,
+        "api_distance": {
+          "api_base": 7,
+          "api_bonus": 0
+        },
+        "api_name": "__MASKED_API_NAME__",
+        "api_plane_info": [
+          {
+            "api_cond": 0,
+            "api_count": 13,
+            "api_max_count": 18,
+            "api_slotid": 9575,
+            "api_squadron_id": 1,
+            "api_state": 1
+          },
+          {
+            "api_cond": 0,
+            "api_count": 15,
+            "api_max_count": 18,
+            "api_slotid": 13381,
+            "api_squadron_id": 2,
+            "api_state": 1
+          },
+          {
+            "api_cond": 0,
+            "api_count": 12,
+            "api_max_count": 18,
+            "api_slotid": 13420,
+            "api_squadron_id": 3,
+            "api_state": 1
+          },
+          {
+            "api_cond": 0,
+            "api_count": 10,
+            "api_max_count": 18,
+            "api_slotid": 16572,
+            "api_squadron_id": 4,
+            "api_state": 1
+          }
+        ],
+        "api_rid": 2
+      },
+      {
+        "api_action_kind": 2,
+        "api_area_id": 6,
+        "api_distance": {
+          "api_base": 1,
+          "api_bonus": 0
+        },
+        "api_name": "__MASKED_API_NAME__",
+        "api_plane_info": [
+          {
+            "api_cond": 0,
+            "api_count": 18,
+            "api_max_count": 18,
+            "api_slotid": 5733,
+            "api_squadron_id": 1,
+            "api_state": 1
+          },
+          {
+            "api_cond": 0,
+            "api_count": 18,
+            "api_max_count": 18,
+            "api_slotid": 5734,
+            "api_squadron_id": 2,
+            "api_state": 1
+          },
+          {
+            "api_cond": 0,
+            "api_count": 18,
+            "api_max_count": 18,
+            "api_slotid": 9688,
+            "api_squadron_id": 3,
+            "api_state": 1
+          },
+          {
+            "api_cond": 0,
+            "api_count": 18,
+            "api_max_count": 18,
+            "api_slotid": 14277,
+            "api_squadron_id": 4,
+            "api_state": 1
+          }
+        ],
+        "api_rid": 3
+      },
+      {
+        "api_action_kind": 3,
+        "api_area_id": 7,
+        "api_distance": {
+          "api_base": 2,
+          "api_bonus": 0
+        },
+        "api_name": "__MASKED_API_NAME__",
+        "api_plane_info": [
+          {
+            "api_cond": 0,
+            "api_count": 18,
+            "api_max_count": 18,
+            "api_slotid": 21522,
+            "api_squadron_id": 1,
+            "api_state": 1
+          },
+          {
+            "api_cond": 0,
+            "api_count": 18,
+            "api_max_count": 18,
+            "api_slotid": 11952,
+            "api_squadron_id": 2,
+            "api_state": 1
+          },
+          {
+            "api_cond": 0,
+            "api_count": 18,
+            "api_max_count": 18,
+            "api_slotid": 9463,
+            "api_squadron_id": 3,
+            "api_state": 1
+          },
+          {
+            "api_cond": 0,
+            "api_count": 18,
+            "api_max_count": 18,
+            "api_slotid": 1273,
+            "api_squadron_id": 4,
+            "api_state": 1
+          }
+        ],
+        "api_rid": 1
+      },
+      {
+        "api_action_kind": 0,
+        "api_area_id": 7,
+        "api_distance": {
+          "api_base": 4,
+          "api_bonus": 0
+        },
+        "api_name": "__MASKED_API_NAME__",
+        "api_plane_info": [
+          {
+            "api_cond": 0,
+            "api_count": 18,
+            "api_max_count": 18,
+            "api_slotid": 25578,
+            "api_squadron_id": 1,
+            "api_state": 1
+          },
+          {
+            "api_cond": null,
+            "api_count": null,
+            "api_max_count": null,
+            "api_slotid": 0,
+            "api_squadron_id": 2,
+            "api_state": 0
+          },
+          {
+            "api_cond": null,
+            "api_count": null,
+            "api_max_count": null,
+            "api_slotid": 0,
+            "api_squadron_id": 3,
+            "api_state": 0
+          },
+          {
+            "api_cond": null,
+            "api_count": null,
+            "api_max_count": null,
+            "api_slotid": 0,
+            "api_squadron_id": 4,
+            "api_state": 0
+          }
+        ],
+        "api_rid": 2
+      }
+    ],
+    "api_air_base_expanded_info": [
+      {
+        "api_area_id": 60,
+        "api_maintenance_level": 0
+      }
+    ],
+    "api_map_info": [
+      {
+        "api_air_base_decks": null,
+        "api_cleared": 1,
+        "api_defeat_count": null,
+        "api_eventmap": null,
+        "api_gauge_num": null,
+        "api_gauge_type": null,
+        "api_id": 11,
+        "api_m10": null,
+        "api_required_defeat_count": null,
+        "api_s_no": null,
+        "api_sally_flag": null
+      },
+      {
+        "api_air_base_decks": null,
+        "api_cleared": 1,
+        "api_defeat_count": null,
+        "api_eventmap": null,
+        "api_gauge_num": null,
+        "api_gauge_type": null,
+        "api_id": 12,
+        "api_m10": null,
+        "api_required_defeat_count": null,
+        "api_s_no": null,
+        "api_sally_flag": null
+      },
+      {
+        "api_air_base_decks": null,
+        "api_cleared": 1,
+        "api_defeat_count": null,
+        "api_eventmap": null,
+        "api_gauge_num": null,
+        "api_gauge_type": null,
+        "api_id": 13,
+        "api_m10": null,
+        "api_required_defeat_count": null,
+        "api_s_no": null,
+        "api_sally_flag": null
+      },
+      {
+        "api_air_base_decks": null,
+        "api_cleared": 1,
+        "api_defeat_count": null,
+        "api_eventmap": null,
+        "api_gauge_num": null,
+        "api_gauge_type": null,
+        "api_id": 14,
+        "api_m10": null,
+        "api_required_defeat_count": null,
+        "api_s_no": null,
+        "api_sally_flag": null
+      },
+      {
+        "api_air_base_decks": null,
+        "api_cleared": 1,
+        "api_defeat_count": null,
+        "api_eventmap": null,
+        "api_gauge_num": 1,
+        "api_gauge_type": 1,
+        "api_id": 15,
+        "api_m10": null,
+        "api_required_defeat_count": null,
+        "api_s_no": null,
+        "api_sally_flag": null
+      },
+      {
+        "api_air_base_decks": null,
+        "api_cleared": 0,
+        "api_defeat_count": 0,
+        "api_eventmap": null,
+        "api_gauge_num": 1,
+        "api_gauge_type": 1,
+        "api_id": 16,
+        "api_m10": null,
+        "api_required_defeat_count": 7,
+        "api_s_no": null,
+        "api_sally_flag": null
+      },
+      {
+        "api_air_base_decks": null,
+        "api_cleared": 1,
+        "api_defeat_count": null,
+        "api_eventmap": null,
+        "api_gauge_num": null,
+        "api_gauge_type": null,
+        "api_id": 21,
+        "api_m10": null,
+        "api_required_defeat_count": null,
+        "api_s_no": null,
+        "api_sally_flag": null
+      },
+      {
+        "api_air_base_decks": null,
+        "api_cleared": 1,
+        "api_defeat_count": null,
+        "api_eventmap": null,
+        "api_gauge_num": null,
+        "api_gauge_type": null,
+        "api_id": 22,
+        "api_m10": null,
+        "api_required_defeat_count": null,
+        "api_s_no": null,
+        "api_sally_flag": null
+      },
+      {
+        "api_air_base_decks": null,
+        "api_cleared": 1,
+        "api_defeat_count": null,
+        "api_eventmap": null,
+        "api_gauge_num": null,
+        "api_gauge_type": null,
+        "api_id": 23,
+        "api_m10": null,
+        "api_required_defeat_count": null,
+        "api_s_no": null,
+        "api_sally_flag": null
+      },
+      {
+        "api_air_base_decks": null,
+        "api_cleared": 1,
+        "api_defeat_count": null,
+        "api_eventmap": null,
+        "api_gauge_num": null,
+        "api_gauge_type": null,
+        "api_id": 24,
+        "api_m10": null,
+        "api_required_defeat_count": null,
+        "api_s_no": null,
+        "api_sally_flag": null
+      },
+      {
+        "api_air_base_decks": null,
+        "api_cleared": 1,
+        "api_defeat_count": null,
+        "api_eventmap": null,
+        "api_gauge_num": 1,
+        "api_gauge_type": 1,
+        "api_id": 25,
+        "api_m10": null,
+        "api_required_defeat_count": null,
+        "api_s_no": null,
+        "api_sally_flag": null
+      },
+      {
+        "api_air_base_decks": null,
+        "api_cleared": 1,
+        "api_defeat_count": null,
+        "api_eventmap": null,
+        "api_gauge_num": null,
+        "api_gauge_type": null,
+        "api_id": 31,
+        "api_m10": null,
+        "api_required_defeat_count": null,
+        "api_s_no": null,
+        "api_sally_flag": null
+      },
+      {
+        "api_air_base_decks": null,
+        "api_cleared": 1,
+        "api_defeat_count": null,
+        "api_eventmap": null,
+        "api_gauge_num": null,
+        "api_gauge_type": null,
+        "api_id": 32,
+        "api_m10": null,
+        "api_required_defeat_count": null,
+        "api_s_no": null,
+        "api_sally_flag": null
+      },
+      {
+        "api_air_base_decks": null,
+        "api_cleared": 1,
+        "api_defeat_count": null,
+        "api_eventmap": null,
+        "api_gauge_num": null,
+        "api_gauge_type": null,
+        "api_id": 33,
+        "api_m10": null,
+        "api_required_defeat_count": null,
+        "api_s_no": null,
+        "api_sally_flag": null
+      },
+      {
+        "api_air_base_decks": null,
+        "api_cleared": 1,
+        "api_defeat_count": null,
+        "api_eventmap": null,
+        "api_gauge_num": null,
+        "api_gauge_type": null,
+        "api_id": 34,
+        "api_m10": null,
+        "api_required_defeat_count": null,
+        "api_s_no": null,
+        "api_sally_flag": null
+      },
+      {
+        "api_air_base_decks": null,
+        "api_cleared": 1,
+        "api_defeat_count": null,
+        "api_eventmap": null,
+        "api_gauge_num": 1,
+        "api_gauge_type": 1,
+        "api_id": 35,
+        "api_m10": null,
+        "api_required_defeat_count": null,
+        "api_s_no": null,
+        "api_sally_flag": null
+      },
+      {
+        "api_air_base_decks": null,
+        "api_cleared": 1,
+        "api_defeat_count": null,
+        "api_eventmap": null,
+        "api_gauge_num": null,
+        "api_gauge_type": null,
+        "api_id": 41,
+        "api_m10": null,
+        "api_required_defeat_count": null,
+        "api_s_no": null,
+        "api_sally_flag": null
+      },
+      {
+        "api_air_base_decks": null,
+        "api_cleared": 1,
+        "api_defeat_count": null,
+        "api_eventmap": null,
+        "api_gauge_num": null,
+        "api_gauge_type": null,
+        "api_id": 42,
+        "api_m10": null,
+        "api_required_defeat_count": null,
+        "api_s_no": null,
+        "api_sally_flag": null
+      },
+      {
+        "api_air_base_decks": null,
+        "api_cleared": 1,
+        "api_defeat_count": null,
+        "api_eventmap": null,
+        "api_gauge_num": null,
+        "api_gauge_type": null,
+        "api_id": 43,
+        "api_m10": null,
+        "api_required_defeat_count": null,
+        "api_s_no": null,
+        "api_sally_flag": null
+      },
+      {
+        "api_air_base_decks": null,
+        "api_cleared": 1,
+        "api_defeat_count": null,
+        "api_eventmap": null,
+        "api_gauge_num": 1,
+        "api_gauge_type": 1,
+        "api_id": 44,
+        "api_m10": null,
+        "api_required_defeat_count": null,
+        "api_s_no": null,
+        "api_sally_flag": null
+      },
+      {
+        "api_air_base_decks": null,
+        "api_cleared": 1,
+        "api_defeat_count": null,
+        "api_eventmap": null,
+        "api_gauge_num": 1,
+        "api_gauge_type": 1,
+        "api_id": 45,
+        "api_m10": null,
+        "api_required_defeat_count": null,
+        "api_s_no": null,
+        "api_sally_flag": null
+      },
+      {
+        "api_air_base_decks": null,
+        "api_cleared": 1,
+        "api_defeat_count": null,
+        "api_eventmap": null,
+        "api_gauge_num": null,
+        "api_gauge_type": null,
+        "api_id": 51,
+        "api_m10": null,
+        "api_required_defeat_count": null,
+        "api_s_no": null,
+        "api_sally_flag": null
+      },
+      {
+        "api_air_base_decks": null,
+        "api_cleared": 1,
+        "api_defeat_count": null,
+        "api_eventmap": null,
+        "api_gauge_num": 1,
+        "api_gauge_type": 1,
+        "api_id": 52,
+        "api_m10": null,
+        "api_required_defeat_count": null,
+        "api_s_no": null,
+        "api_sally_flag": null
+      },
+      {
+        "api_air_base_decks": null,
+        "api_cleared": 1,
+        "api_defeat_count": null,
+        "api_eventmap": null,
+        "api_gauge_num": 1,
+        "api_gauge_type": 1,
+        "api_id": 53,
+        "api_m10": null,
+        "api_required_defeat_count": null,
+        "api_s_no": null,
+        "api_sally_flag": null
+      },
+      {
+        "api_air_base_decks": null,
+        "api_cleared": 1,
+        "api_defeat_count": null,
+        "api_eventmap": null,
+        "api_gauge_num": 1,
+        "api_gauge_type": 1,
+        "api_id": 54,
+        "api_m10": null,
+        "api_required_defeat_count": null,
+        "api_s_no": null,
+        "api_sally_flag": null
+      },
+      {
+        "api_air_base_decks": null,
+        "api_cleared": 1,
+        "api_defeat_count": null,
+        "api_eventmap": null,
+        "api_gauge_num": 1,
+        "api_gauge_type": 1,
+        "api_id": 55,
+        "api_m10": null,
+        "api_required_defeat_count": null,
+        "api_s_no": null,
+        "api_sally_flag": null
+      },
+      {
+        "api_air_base_decks": null,
+        "api_cleared": 1,
+        "api_defeat_count": null,
+        "api_eventmap": null,
+        "api_gauge_num": null,
+        "api_gauge_type": null,
+        "api_id": 61,
+        "api_m10": null,
+        "api_required_defeat_count": null,
+        "api_s_no": null,
+        "api_sally_flag": null
+      },
+      {
+        "api_air_base_decks": null,
+        "api_cleared": 1,
+        "api_defeat_count": null,
+        "api_eventmap": null,
+        "api_gauge_num": 1,
+        "api_gauge_type": 1,
+        "api_id": 62,
+        "api_m10": null,
+        "api_required_defeat_count": null,
+        "api_s_no": null,
+        "api_sally_flag": null
+      },
+      {
+        "api_air_base_decks": null,
+        "api_cleared": 1,
+        "api_defeat_count": null,
+        "api_eventmap": null,
+        "api_gauge_num": 1,
+        "api_gauge_type": 1,
+        "api_id": 63,
+        "api_m10": null,
+        "api_required_defeat_count": null,
+        "api_s_no": null,
+        "api_sally_flag": null
+      },
+      {
+        "api_air_base_decks": 1,
+        "api_cleared": 1,
+        "api_defeat_count": null,
+        "api_eventmap": null,
+        "api_gauge_num": 1,
+        "api_gauge_type": 1,
+        "api_id": 64,
+        "api_m10": null,
+        "api_required_defeat_count": null,
+        "api_s_no": null,
+        "api_sally_flag": null
+      },
+      {
+        "api_air_base_decks": 2,
+        "api_cleared": 0,
+        "api_defeat_count": 2,
+        "api_eventmap": null,
+        "api_gauge_num": 1,
+        "api_gauge_type": 1,
+        "api_id": 65,
+        "api_m10": null,
+        "api_required_defeat_count": 6,
+        "api_s_no": null,
+        "api_sally_flag": null
+      },
+      {
+        "api_air_base_decks": null,
+        "api_cleared": 1,
+        "api_defeat_count": null,
+        "api_eventmap": null,
+        "api_gauge_num": 1,
+        "api_gauge_type": 1,
+        "api_id": 71,
+        "api_m10": null,
+        "api_required_defeat_count": null,
+        "api_s_no": null,
+        "api_sally_flag": null
+      },
+      {
+        "api_air_base_decks": null,
+        "api_cleared": 1,
+        "api_defeat_count": 0,
+        "api_eventmap": null,
+        "api_gauge_num": 1,
+        "api_gauge_type": 1,
+        "api_id": 72,
+        "api_m10": null,
+        "api_required_defeat_count": 3,
+        "api_s_no": null,
+        "api_sally_flag": null
+      },
+      {
+        "api_air_base_decks": null,
+        "api_cleared": 1,
+        "api_defeat_count": 0,
+        "api_eventmap": null,
+        "api_gauge_num": 1,
+        "api_gauge_type": 1,
+        "api_id": 73,
+        "api_m10": null,
+        "api_required_defeat_count": 3,
+        "api_s_no": null,
+        "api_sally_flag": null
+      },
+      {
+        "api_air_base_decks": 1,
+        "api_cleared": 1,
+        "api_defeat_count": 0,
+        "api_eventmap": null,
+        "api_gauge_num": 1,
+        "api_gauge_type": 1,
+        "api_id": 74,
+        "api_m10": null,
+        "api_required_defeat_count": 5,
+        "api_s_no": null,
+        "api_sally_flag": null
+      },
+      {
+        "api_air_base_decks": null,
+        "api_cleared": 0,
+        "api_defeat_count": 0,
+        "api_eventmap": null,
+        "api_gauge_num": 1,
+        "api_gauge_type": 1,
+        "api_id": 75,
+        "api_m10": null,
+        "api_required_defeat_count": 2,
+        "api_s_no": null,
+        "api_sally_flag": null
+      }
+    ]
+  },
+  "api_result": 1,
+  "api_result_msg": "成功"
+}

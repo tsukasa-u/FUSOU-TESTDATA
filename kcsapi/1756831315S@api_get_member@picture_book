@@ -1,0 +1,3402 @@
+{
+  "api_data": {
+    "api_list": [
+      {
+        "api_baku": null,
+        "api_cnum": 1,
+        "api_ctype": 5,
+        "api_flag": null,
+        "api_houg": 10,
+        "api_houk": null,
+        "api_houm": null,
+        "api_index_no": 71,
+        "api_info": null,
+        "api_kaih": 42,
+        "api_leng": 1,
+        "api_name": "暁",
+        "api_q_voice_info": null,
+        "api_raig": 27,
+        "api_saku": null,
+        "api_sinfo": "特Ⅲ型駆逐艦１番艦の暁よ。<br>吹雪型をベースに航行性能や航続距離を向上させた<br>の。特型駆逐艦の最終完成形なんだから！<br>ちゃんとレディーとして活躍したのよ！<br>ほ、ほんとなんだからっ。",
+        "api_soku": null,
+        "api_souk": 6,
+        "api_state": [
+          [
+            1,
+            1,
+            0,
+            0,
+            0
+          ]
+        ],
+        "api_stype": 2,
+        "api_table_id": [
+          34
+        ],
+        "api_taik": 15,
+        "api_tais": 20,
+        "api_tyku": 12,
+        "api_type": null,
+        "api_yomi": "あかつき"
+      },
+      {
+        "api_baku": null,
+        "api_cnum": 2,
+        "api_ctype": 5,
+        "api_flag": null,
+        "api_houg": 10,
+        "api_houk": null,
+        "api_houm": null,
+        "api_index_no": 72,
+        "api_info": null,
+        "api_kaih": 42,
+        "api_leng": 1,
+        "api_name": "響",
+        "api_q_voice_info": null,
+        "api_raig": 27,
+        "api_saku": null,
+        "api_sinfo": "数ある特型駆逐艦の中で、最後まで生き残ったのが、<br>響。転戦の後、あの大和水上特攻時には修理で同行で<br>きなかったんだ。<br>賠償艦としてソ連に引き渡され「信頼できる」という<br>意味の艦名になったんだ。",
+        "api_soku": null,
+        "api_souk": 6,
+        "api_state": [
+          [
+            1,
+            1,
+            0,
+            0,
+            0
+          ]
+        ],
+        "api_stype": 2,
+        "api_table_id": [
+          35
+        ],
+        "api_taik": 15,
+        "api_tais": 20,
+        "api_tyku": 12,
+        "api_type": null,
+        "api_yomi": "ひびき"
+      },
+      {
+        "api_baku": null,
+        "api_cnum": 3,
+        "api_ctype": 5,
+        "api_flag": null,
+        "api_houg": 10,
+        "api_houk": null,
+        "api_houm": null,
+        "api_index_no": 73,
+        "api_info": null,
+        "api_kaih": 42,
+        "api_leng": 1,
+        "api_name": "雷",
+        "api_q_voice_info": null,
+        "api_raig": 27,
+        "api_saku": null,
+        "api_sinfo": "スラバヤ沖海戦では駆逐艦電と一緒に協力して、沈没<br>した敵艦隊の生存者の救助に当たったのよ。<br>ただ強いだけじゃ、だめだと思うの。<br>ね、司令官！",
+        "api_soku": null,
+        "api_souk": 6,
+        "api_state": [
+          [
+            1,
+            1,
+            0,
+            0,
+            0
+          ],
+          [
+            1,
+            1,
+            0,
+            0,
+            0
+          ]
+        ],
+        "api_stype": 2,
+        "api_table_id": [
+          36,
+          5214
+        ],
+        "api_taik": 15,
+        "api_tais": 20,
+        "api_tyku": 12,
+        "api_type": null,
+        "api_yomi": "いかづち"
+      },
+      {
+        "api_baku": null,
+        "api_cnum": 4,
+        "api_ctype": 5,
+        "api_flag": null,
+        "api_houg": 10,
+        "api_houk": null,
+        "api_houm": null,
+        "api_index_no": 74,
+        "api_info": null,
+        "api_kaih": 42,
+        "api_leng": 1,
+        "api_name": "電",
+        "api_q_voice_info": null,
+        "api_raig": 27,
+        "api_saku": null,
+        "api_sinfo": "スラバヤ沖海戦で撃沈した敵艦の乗員の救助に努めた<br>後、キスカ、ソロモン、ニューギニア、アッツ島な<br>ど、各戦域を転戦しました…<br>頑張ったの…です…。",
+        "api_soku": null,
+        "api_souk": 6,
+        "api_state": [
+          [
+            1,
+            1,
+            0,
+            0,
+            0
+          ],
+          [
+            1,
+            1,
+            0,
+            0,
+            0
+          ]
+        ],
+        "api_stype": 2,
+        "api_table_id": [
+          37,
+          5215
+        ],
+        "api_taik": 15,
+        "api_tais": 20,
+        "api_tyku": 12,
+        "api_type": null,
+        "api_yomi": "いなづま"
+      },
+      {
+        "api_baku": null,
+        "api_cnum": 1,
+        "api_ctype": 10,
+        "api_flag": null,
+        "api_houg": 10,
+        "api_houk": null,
+        "api_houm": null,
+        "api_index_no": 75,
+        "api_info": null,
+        "api_kaih": 43,
+        "api_leng": 1,
+        "api_name": "初春",
+        "api_q_voice_info": null,
+        "api_raig": 27,
+        "api_saku": null,
+        "api_sinfo": "初春型駆逐艦、１番艦の初春じゃ。<br>わらわは、北方部隊に所属。戦雲渦巻くアッツやキス<br>カなどの北方海域で活躍したぞ。<br>北海道周辺も好きな海域じゃな。マニラ湾やオルモッ<br>ク…？ああ、熱いところは苦手じゃ。",
+        "api_soku": null,
+        "api_souk": 6,
+        "api_state": [
+          [
+            1,
+            1,
+            0,
+            0,
+            0
+          ]
+        ],
+        "api_stype": 2,
+        "api_table_id": [
+          38
+        ],
+        "api_taik": 16,
+        "api_tais": 21,
+        "api_tyku": 12,
+        "api_type": null,
+        "api_yomi": "はつはる"
+      },
+      {
+        "api_baku": null,
+        "api_cnum": 2,
+        "api_ctype": 10,
+        "api_flag": null,
+        "api_houg": 10,
+        "api_houk": null,
+        "api_houm": null,
+        "api_index_no": 76,
+        "api_info": null,
+        "api_kaih": 43,
+        "api_leng": 1,
+        "api_name": "子日",
+        "api_q_voice_info": null,
+        "api_raig": 27,
+        "api_saku": null,
+        "api_sinfo": "丸一計画で建造された、初春型駆逐艦２番艦の子日だ<br>よ。<br>初春などの姉妹艦で第２１駆逐隊を編成して色々と頑<br>張ったんだよ。<br>なに？潜水艦…？嫌いキライ！",
+        "api_soku": null,
+        "api_souk": 6,
+        "api_state": [
+          [
+            1,
+            1,
+            0,
+            0,
+            0
+          ],
+          [
+            1,
+            1,
+            0,
+            0,
+            0
+          ]
+        ],
+        "api_stype": 2,
+        "api_table_id": [
+          39,
+          5242
+        ],
+        "api_taik": 16,
+        "api_tais": 21,
+        "api_tyku": 9,
+        "api_type": null,
+        "api_yomi": "ねのひ"
+      },
+      {
+        "api_baku": null,
+        "api_cnum": 3,
+        "api_ctype": 10,
+        "api_flag": null,
+        "api_houg": 10,
+        "api_houk": null,
+        "api_houm": null,
+        "api_index_no": 77,
+        "api_info": null,
+        "api_kaih": 43,
+        "api_leng": 1,
+        "api_name": "若葉",
+        "api_q_voice_info": null,
+        "api_raig": 27,
+        "api_saku": null,
+        "api_sinfo": "初春型駆逐艦３番艦、若葉だ。<br>アッツ島沖海戦やキスカ島撤退作戦などに参加した。<br>そうだ、北方海域だ。<br>ああ、濃霧には注意が必要だ。ぶつかりやすい。<br>特に「初霜」、お前は要注意だ。",
+        "api_soku": null,
+        "api_souk": 6,
+        "api_state": [
+          [
+            1,
+            1,
+            0,
+            0,
+            0
+          ]
+        ],
+        "api_stype": 2,
+        "api_table_id": [
+          40
+        ],
+        "api_taik": 16,
+        "api_tais": 21,
+        "api_tyku": 9,
+        "api_type": null,
+        "api_yomi": "わかば"
+      },
+      {
+        "api_baku": null,
+        "api_cnum": 4,
+        "api_ctype": 10,
+        "api_flag": null,
+        "api_houg": 10,
+        "api_houk": null,
+        "api_houm": null,
+        "api_index_no": 78,
+        "api_info": null,
+        "api_kaih": 43,
+        "api_leng": 1,
+        "api_name": "初霜",
+        "api_q_voice_info": null,
+        "api_raig": 27,
+        "api_saku": null,
+        "api_sinfo": "初春型駆逐艦の４番艦、初霜です。<br>アリューシャン作戦、アッツ島沖海戦、キスカ島撤退<br>作戦、マリアナ沖海戦、北号作戦、坊ノ岬沖海戦な<br>ど、様々な激戦に参加しました！<br>ほんと、頑張ったんです！",
+        "api_soku": null,
+        "api_souk": 6,
+        "api_state": [
+          [
+            1,
+            1,
+            0,
+            0,
+            0
+          ]
+        ],
+        "api_stype": 2,
+        "api_table_id": [
+          41
+        ],
+        "api_taik": 16,
+        "api_tais": 21,
+        "api_tyku": 9,
+        "api_type": null,
+        "api_yomi": "はつしも"
+      },
+      {
+        "api_baku": null,
+        "api_cnum": 1,
+        "api_ctype": 23,
+        "api_flag": null,
+        "api_houg": 10,
+        "api_houk": null,
+        "api_houm": null,
+        "api_index_no": 79,
+        "api_info": null,
+        "api_kaih": 43,
+        "api_leng": 1,
+        "api_name": "白露",
+        "api_q_voice_info": null,
+        "api_raig": 24,
+        "api_saku": null,
+        "api_sinfo": "初春型駆逐艦の次に開発された白露型の１番艦、白露<br>だよ！　そう、１番艦だよ、１番艦。<br>色々と改良された艦隊型駆逐艦なんだから！<br>え？慌ててタンカーと衝突しないようにって？大丈<br>夫！",
+        "api_soku": null,
+        "api_souk": 6,
+        "api_state": [
+          [
+            1,
+            1,
+            0,
+            0,
+            0
+          ],
+          [
+            1,
+            1,
+            0,
+            0,
+            0
+          ],
+          [
+            1,
+            1,
+            0,
+            0,
+            0
+          ],
+          [
+            1,
+            1,
+            0,
+            0,
+            0
+          ],
+          [
+            1,
+            1,
+            0,
+            0,
+            0
+          ],
+          [
+            1,
+            1,
+            0,
+            0,
+            0
+          ]
+        ],
+        "api_stype": 2,
+        "api_table_id": [
+          42,
+          242,
+          5198,
+          5168,
+          5115,
+          5042
+        ],
+        "api_taik": 16,
+        "api_tais": 21,
+        "api_tyku": 12,
+        "api_type": null,
+        "api_yomi": "しらつゆ"
+      },
+      {
+        "api_baku": null,
+        "api_cnum": 2,
+        "api_ctype": 23,
+        "api_flag": null,
+        "api_houg": 10,
+        "api_houk": null,
+        "api_houm": null,
+        "api_index_no": 80,
+        "api_info": null,
+        "api_kaih": 43,
+        "api_leng": 1,
+        "api_name": "時雨",
+        "api_q_voice_info": [
+          {
+            "api_icon_id": 2,
+            "api_no": 1,
+            "api_voice_id": 428
+          },
+          {
+            "api_icon_id": 1,
+            "api_no": 2,
+            "api_voice_id": 10434
+          },
+          {
+            "api_icon_id": 2,
+            "api_no": 3,
+            "api_voice_id": 1188
+          },
+          {
+            "api_icon_id": 2,
+            "api_no": 4,
+            "api_voice_id": 1187
+          }
+        ],
+        "api_raig": 24,
+        "api_saku": null,
+        "api_sinfo": "僕は白露型駆逐艦２番艦の時雨だよ。<br>あのレイテ沖海戦では、西村艦隊に所属して、運命の<br>スリガオ海峡に突入したんだ。<br>扶桑も山城も凄かったよ……。<br>皆が忘れても、僕だけはずっと覚えているから……。",
+        "api_soku": null,
+        "api_souk": 6,
+        "api_state": [
+          [
+            1,
+            1,
+            0,
+            0,
+            0
+          ]
+        ],
+        "api_stype": 2,
+        "api_table_id": [
+          43
+        ],
+        "api_taik": 16,
+        "api_tais": 21,
+        "api_tyku": 9,
+        "api_type": null,
+        "api_yomi": "しぐれ"
+      },
+      {
+        "api_baku": null,
+        "api_cnum": 3,
+        "api_ctype": 23,
+        "api_flag": null,
+        "api_houg": 10,
+        "api_houk": null,
+        "api_houm": null,
+        "api_index_no": 81,
+        "api_info": null,
+        "api_kaih": 43,
+        "api_leng": 1,
+        "api_name": "村雨",
+        "api_q_voice_info": [
+          {
+            "api_icon_id": 1,
+            "api_no": 1,
+            "api_voice_id": 10443
+          }
+        ],
+        "api_raig": 24,
+        "api_saku": null,
+        "api_sinfo": "白露型駆逐艦３番艦、村雨よ。<br>雨の名前の駆逐艦群なんてお洒落よね？<br>姉妹艦の夕立たちと一緒に第２駆逐隊を編成したの。<br>鼠輸送ですって？　失礼しちゃう、ガダルカナル島輸<br>送作戦でも活躍したわ！",
+        "api_soku": null,
+        "api_souk": 6,
+        "api_state": [
+          [
+            1,
+            1,
+            0,
+            0,
+            0
+          ],
+          [
+            1,
+            1,
+            0,
+            0,
+            0
+          ],
+          [
+            1,
+            1,
+            0,
+            0,
+            0
+          ],
+          [
+            1,
+            1,
+            0,
+            0,
+            0
+          ],
+          [
+            1,
+            1,
+            0,
+            0,
+            0
+          ],
+          [
+            1,
+            1,
+            0,
+            0,
+            0
+          ],
+          [
+            1,
+            1,
+            0,
+            0,
+            0
+          ]
+        ],
+        "api_stype": 2,
+        "api_table_id": [
+          44,
+          244,
+          5191,
+          5201,
+          5226,
+          5309,
+          5478
+        ],
+        "api_taik": 16,
+        "api_tais": 21,
+        "api_tyku": 9,
+        "api_type": null,
+        "api_yomi": "むらさめ"
+      },
+      {
+        "api_baku": null,
+        "api_cnum": 4,
+        "api_ctype": 23,
+        "api_flag": null,
+        "api_houg": 10,
+        "api_houk": null,
+        "api_houm": null,
+        "api_index_no": 82,
+        "api_info": null,
+        "api_kaih": 43,
+        "api_leng": 1,
+        "api_name": "夕立",
+        "api_q_voice_info": [
+          {
+            "api_icon_id": 1,
+            "api_no": 1,
+            "api_voice_id": 10451
+          }
+        ],
+        "api_raig": 24,
+        "api_saku": null,
+        "api_sinfo": "白露型駆逐艦の４番艦、夕立です。<br>第三次ソロモン海戦では、けっこう頑張ったっぽい？<br>でも、何気に「アイアンボトム・サウンド」って、ホ<br>ントに怖い言葉よね？",
+        "api_soku": null,
+        "api_souk": 6,
+        "api_state": [
+          [
+            1,
+            1,
+            0,
+            0,
+            0
+          ],
+          [
+            1,
+            1,
+            0,
+            0,
+            0
+          ]
+        ],
+        "api_stype": 2,
+        "api_table_id": [
+          45,
+          5411
+        ],
+        "api_taik": 16,
+        "api_tais": 21,
+        "api_tyku": 9,
+        "api_type": null,
+        "api_yomi": "ゆうだち"
+      },
+      {
+        "api_baku": null,
+        "api_cnum": 6,
+        "api_ctype": 23,
+        "api_flag": null,
+        "api_houg": 10,
+        "api_houk": null,
+        "api_houm": null,
+        "api_index_no": 83,
+        "api_info": null,
+        "api_kaih": 43,
+        "api_leng": 1,
+        "api_name": "五月雨",
+        "api_q_voice_info": null,
+        "api_raig": 24,
+        "api_saku": null,
+        "api_sinfo": "五月雨です。<br>村雨・夕立・春雨とは第２駆逐隊でお友達でした。<br>そうそう、輸送任務中に白露と衝突してしまったこと<br>も…ホント、私ってば、ドジでごめんなさい。<br>でも、頑張ります！",
+        "api_soku": null,
+        "api_souk": 6,
+        "api_state": [
+          [
+            1,
+            1,
+            0,
+            0,
+            0
+          ]
+        ],
+        "api_stype": 2,
+        "api_table_id": [
+          46
+        ],
+        "api_taik": 16,
+        "api_tais": 21,
+        "api_tyku": 9,
+        "api_type": null,
+        "api_yomi": "さみだれ"
+      },
+      {
+        "api_baku": null,
+        "api_cnum": 10,
+        "api_ctype": 23,
+        "api_flag": null,
+        "api_houg": 10,
+        "api_houk": null,
+        "api_houm": null,
+        "api_index_no": 84,
+        "api_info": null,
+        "api_kaih": 43,
+        "api_leng": 1,
+        "api_name": "涼風",
+        "api_q_voice_info": null,
+        "api_raig": 24,
+        "api_saku": null,
+        "api_sinfo": "涼風だよ。<br>特型駆逐艦として数々の攻略作戦の支援に参加したん<br>だ。<br>その後は戦艦や空母の護衛にも従事したよ。<br>頼りにしてね！最後まで戦うから！",
+        "api_soku": null,
+        "api_souk": 6,
+        "api_state": [
+          [
+            1,
+            1,
+            0,
+            0,
+            0
+          ]
+        ],
+        "api_stype": 2,
+        "api_table_id": [
+          47
+        ],
+        "api_taik": 16,
+        "api_tais": 21,
+        "api_tyku": 9,
+        "api_type": null,
+        "api_yomi": "すずかぜ"
+      },
+      {
+        "api_baku": null,
+        "api_cnum": 1,
+        "api_ctype": 18,
+        "api_flag": null,
+        "api_houg": 10,
+        "api_houk": null,
+        "api_houm": null,
+        "api_index_no": 85,
+        "api_info": null,
+        "api_kaih": 43,
+        "api_leng": 1,
+        "api_name": "朝潮",
+        "api_q_voice_info": null,
+        "api_raig": 24,
+        "api_saku": null,
+        "api_sinfo": "朝潮型駆逐艦のネームシップ、朝潮よ。<br>バランスのとれた量産型駆逐艦として建造され、戦線<br>を支えたの。<br>私の進化改良型が陽炎型になるわね。",
+        "api_soku": null,
+        "api_souk": 6,
+        "api_state": [
+          [
+            1,
+            1,
+            0,
+            0,
+            0
+          ],
+          [
+            1,
+            1,
+            0,
+            0,
+            0
+          ]
+        ],
+        "api_stype": 2,
+        "api_table_id": [
+          95,
+          5354
+        ],
+        "api_taik": 16,
+        "api_tais": 21,
+        "api_tyku": 12,
+        "api_type": null,
+        "api_yomi": "あさしお"
+      },
+      {
+        "api_baku": null,
+        "api_cnum": 2,
+        "api_ctype": 18,
+        "api_flag": null,
+        "api_houg": 10,
+        "api_houk": null,
+        "api_houm": null,
+        "api_index_no": 86,
+        "api_info": null,
+        "api_kaih": 43,
+        "api_leng": 1,
+        "api_name": "大潮",
+        "api_q_voice_info": null,
+        "api_raig": 24,
+        "api_saku": null,
+        "api_sinfo": "朝潮型駆逐艦の２番艦、大潮です！<br>各戦線で活躍した後、あのガダルカナル島撤収作戦に<br>も3回出動しました。<br>支えてみせます！",
+        "api_soku": null,
+        "api_souk": 6,
+        "api_state": [
+          [
+            1,
+            1,
+            0,
+            0,
+            0
+          ],
+          [
+            1,
+            1,
+            0,
+            0,
+            0
+          ]
+        ],
+        "api_stype": 2,
+        "api_table_id": [
+          96,
+          5347
+        ],
+        "api_taik": 16,
+        "api_tais": 21,
+        "api_tyku": 9,
+        "api_type": null,
+        "api_yomi": "おおしお"
+      },
+      {
+        "api_baku": null,
+        "api_cnum": 3,
+        "api_ctype": 18,
+        "api_flag": null,
+        "api_houg": 10,
+        "api_houk": null,
+        "api_houm": null,
+        "api_index_no": 87,
+        "api_info": null,
+        "api_kaih": 43,
+        "api_leng": 1,
+        "api_name": "満潮",
+        "api_q_voice_info": [
+          {
+            "api_icon_id": 1,
+            "api_no": 3,
+            "api_voice_id": 10974
+          },
+          {
+            "api_icon_id": 2,
+            "api_no": 4,
+            "api_voice_id": 1187
+          }
+        ],
+        "api_raig": 24,
+        "api_saku": null,
+        "api_sinfo": "駆逐艦、満潮よ。<br>姉妹艦の朝潮、大潮、荒潮とは第８駆逐隊で腐れ縁の<br>仲。でも、最後は離れ離れ。<br>私は西村艦隊の一員として、レイテに突入を図った<br>わ。",
+        "api_soku": null,
+        "api_souk": 6,
+        "api_state": [
+          [
+            1,
+            1,
+            0,
+            0,
+            0
+          ],
+          [
+            1,
+            1,
+            0,
+            0,
+            0
+          ]
+        ],
+        "api_stype": 2,
+        "api_table_id": [
+          97,
+          5345
+        ],
+        "api_taik": 16,
+        "api_tais": 21,
+        "api_tyku": 9,
+        "api_type": null,
+        "api_yomi": "みちしお"
+      },
+      {
+        "api_baku": null,
+        "api_cnum": 4,
+        "api_ctype": 18,
+        "api_flag": null,
+        "api_houg": 10,
+        "api_houk": null,
+        "api_houm": null,
+        "api_index_no": 88,
+        "api_info": null,
+        "api_kaih": 43,
+        "api_leng": 1,
+        "api_name": "荒潮",
+        "api_q_voice_info": null,
+        "api_raig": 24,
+        "api_saku": null,
+        "api_sinfo": "神戸娘の駆逐艦よ？そう、名前は荒潮。<br>姉妹達とけっこう色々頑張ったのよ。<br>でも、私の煙突に爆弾落とすのだけは、ちょっとやめ<br>てほしいわ。",
+        "api_soku": null,
+        "api_souk": 6,
+        "api_state": [
+          [
+            1,
+            1,
+            0,
+            0,
+            0
+          ],
+          [
+            1,
+            1,
+            0,
+            0,
+            0
+          ]
+        ],
+        "api_stype": 2,
+        "api_table_id": [
+          98,
+          5373
+        ],
+        "api_taik": 16,
+        "api_tais": 21,
+        "api_tyku": 9,
+        "api_type": null,
+        "api_yomi": "あらしお"
+      },
+      {
+        "api_baku": null,
+        "api_cnum": 9,
+        "api_ctype": 18,
+        "api_flag": null,
+        "api_houg": 10,
+        "api_houk": null,
+        "api_houm": null,
+        "api_index_no": 89,
+        "api_info": null,
+        "api_kaih": 43,
+        "api_leng": 1,
+        "api_name": "霰",
+        "api_q_voice_info": null,
+        "api_raig": 24,
+        "api_saku": null,
+        "api_sinfo": "霰は、マル２計画で建造された最後の駆逐艦…。<br>朝潮型シリーズの…最終艦でも…あるの…。<br>この後は…陽炎型だから…",
+        "api_soku": null,
+        "api_souk": 6,
+        "api_state": [
+          [
+            1,
+            1,
+            0,
+            0,
+            0
+          ],
+          [
+            1,
+            1,
+            0,
+            0,
+            0
+          ]
+        ],
+        "api_stype": 2,
+        "api_table_id": [
+          48,
+          5016
+        ],
+        "api_taik": 16,
+        "api_tais": 21,
+        "api_tyku": 9,
+        "api_type": null,
+        "api_yomi": "あられ"
+      },
+      {
+        "api_baku": null,
+        "api_cnum": 10,
+        "api_ctype": 18,
+        "api_flag": null,
+        "api_houg": 10,
+        "api_houk": null,
+        "api_houm": null,
+        "api_index_no": 90,
+        "api_info": null,
+        "api_kaih": 43,
+        "api_leng": 1,
+        "api_name": "霞",
+        "api_q_voice_info": null,
+        "api_raig": 24,
+        "api_saku": null,
+        "api_sinfo": "歴戦の主力駆逐艦として奮戦したわ。<br>最後は戦艦大和と共に坊ノ岬沖海戦で米艦載機の猛攻<br>と戦ったの。<br>負けないわ！",
+        "api_soku": null,
+        "api_souk": 6,
+        "api_state": [
+          [
+            1,
+            1,
+            0,
+            0,
+            0
+          ]
+        ],
+        "api_stype": 2,
+        "api_table_id": [
+          49
+        ],
+        "api_taik": 16,
+        "api_tais": 21,
+        "api_tyku": 9,
+        "api_type": null,
+        "api_yomi": "かすみ"
+      },
+      {
+        "api_baku": null,
+        "api_cnum": 1,
+        "api_ctype": 30,
+        "api_flag": null,
+        "api_houg": 10,
+        "api_houk": null,
+        "api_houm": null,
+        "api_index_no": 91,
+        "api_info": null,
+        "api_kaih": 44,
+        "api_leng": 1,
+        "api_name": "陽炎",
+        "api_q_voice_info": null,
+        "api_raig": 24,
+        "api_saku": null,
+        "api_sinfo": "第四次軍備充実計画で建造された陽炎型駆逐艦、ネー<br>ムシップの陽炎よ。<br>新鋭の主力駆逐艦として、ハワイ攻撃機動部隊を始<br>め、様々な作戦に参加したわ！<br>よろしくね！",
+        "api_soku": null,
+        "api_souk": 6,
+        "api_state": [
+          [
+            1,
+            1,
+            0,
+            0,
+            0
+          ]
+        ],
+        "api_stype": 2,
+        "api_table_id": [
+          17
+        ],
+        "api_taik": 16,
+        "api_tais": 24,
+        "api_tyku": 12,
+        "api_type": null,
+        "api_yomi": "かげろう"
+      },
+      {
+        "api_baku": null,
+        "api_cnum": 2,
+        "api_ctype": 30,
+        "api_flag": null,
+        "api_houg": 10,
+        "api_houk": null,
+        "api_houm": null,
+        "api_index_no": 92,
+        "api_info": null,
+        "api_kaih": 44,
+        "api_leng": 1,
+        "api_name": "不知火",
+        "api_q_voice_info": [
+          {
+            "api_icon_id": 1,
+            "api_no": 1,
+            "api_voice_id": 10181
+          }
+        ],
+        "api_raig": 24,
+        "api_saku": null,
+        "api_sinfo": "陽炎型駆逐艦２番艦、不知火です。<br>陽炎らと共にハワイ作戦部隊の護衛も務めました。<br>運命のレイテ沖海戦では志摩艦隊に所属、スリガオ海<br>峡に突入しました。",
+        "api_soku": null,
+        "api_souk": 6,
+        "api_state": [
+          [
+            1,
+            1,
+            0,
+            0,
+            0
+          ],
+          [
+            1,
+            1,
+            0,
+            0,
+            0
+          ],
+          [
+            1,
+            1,
+            0,
+            0,
+            0
+          ]
+        ],
+        "api_stype": 2,
+        "api_table_id": [
+          18,
+          5028,
+          5303
+        ],
+        "api_taik": 16,
+        "api_tais": 24,
+        "api_tyku": 9,
+        "api_type": null,
+        "api_yomi": "しらぬい"
+      },
+      {
+        "api_baku": null,
+        "api_cnum": 3,
+        "api_ctype": 30,
+        "api_flag": null,
+        "api_houg": 10,
+        "api_houk": null,
+        "api_houm": null,
+        "api_index_no": 93,
+        "api_info": null,
+        "api_kaih": 44,
+        "api_leng": 1,
+        "api_name": "黒潮",
+        "api_q_voice_info": null,
+        "api_raig": 24,
+        "api_saku": null,
+        "api_sinfo": "大阪の民間造船所で建造された、陽炎型駆逐艦の３番<br>艦、黒潮や。<br>こう見えても、スラバヤ沖海戦、南太平洋海戦、第三<br>次ソロモン海戦などの激戦に参加したんやで。",
+        "api_soku": null,
+        "api_souk": 6,
+        "api_state": [
+          [
+            1,
+            1,
+            0,
+            0,
+            0
+          ]
+        ],
+        "api_stype": 2,
+        "api_table_id": [
+          19
+        ],
+        "api_taik": 16,
+        "api_tais": 24,
+        "api_tyku": 9,
+        "api_type": null,
+        "api_yomi": "くろしお"
+      },
+      {
+        "api_baku": null,
+        "api_cnum": 1,
+        "api_ctype": 11,
+        "api_flag": null,
+        "api_houg": 0,
+        "api_houk": null,
+        "api_houm": null,
+        "api_index_no": 94,
+        "api_info": null,
+        "api_kaih": 28,
+        "api_leng": 1,
+        "api_name": "祥鳳",
+        "api_q_voice_info": null,
+        "api_raig": 0,
+        "api_saku": null,
+        "api_sinfo": "祥鳳型航空母艦１番艦です。<br>元々は潜水母艦だったんです。<br>前衛艦隊や主力じゃない小艦隊に空母を配属するな<br>ら、ぜひ私を使ってね！運用によってはお役に立つは<br>ずです！",
+        "api_soku": null,
+        "api_souk": 19,
+        "api_state": [
+          [
+            1,
+            1,
+            0,
+            0,
+            0
+          ],
+          [
+            1,
+            1,
+            0,
+            0,
+            0
+          ],
+          [
+            1,
+            1,
+            0,
+            0,
+            0
+          ],
+          [
+            1,
+            1,
+            0,
+            0,
+            0
+          ]
+        ],
+        "api_stype": 7,
+        "api_table_id": [
+          74,
+          282,
+          5190,
+          5346
+        ],
+        "api_taik": 32,
+        "api_tais": 0,
+        "api_tyku": 14,
+        "api_type": null,
+        "api_yomi": "しょうほう"
+      },
+      {
+        "api_baku": null,
+        "api_cnum": 1,
+        "api_ctype": 15,
+        "api_flag": null,
+        "api_houg": 9,
+        "api_houk": null,
+        "api_houm": null,
+        "api_index_no": 95,
+        "api_info": null,
+        "api_kaih": 25,
+        "api_leng": 1,
+        "api_name": "千歳改",
+        "api_q_voice_info": null,
+        "api_raig": 0,
+        "api_saku": null,
+        "api_sinfo": "水上機母艦千歳です。<br>水上機を沢山運用できる優れものですが、給油艦とし<br>て重油を他の艦に補給もできちゃうの。後期には、航<br>空母艦に改装され、第一線で戦ったのよ。",
+        "api_soku": null,
+        "api_souk": 20,
+        "api_state": [
+          [
+            1,
+            1,
+            0,
+            0,
+            0
+          ]
+        ],
+        "api_stype": 16,
+        "api_table_id": [
+          104
+        ],
+        "api_taik": 41,
+        "api_tais": 0,
+        "api_tyku": 15,
+        "api_type": null,
+        "api_yomi": "ちとせ"
+      },
+      {
+        "api_baku": null,
+        "api_cnum": 2,
+        "api_ctype": 15,
+        "api_flag": null,
+        "api_houg": 9,
+        "api_houk": null,
+        "api_houm": null,
+        "api_index_no": 96,
+        "api_info": null,
+        "api_kaih": 25,
+        "api_leng": 1,
+        "api_name": "千代田改",
+        "api_q_voice_info": null,
+        "api_raig": 0,
+        "api_saku": null,
+        "api_sinfo": "水上機母艦として建造された千歳型２番艦、千代田で<br>す。甲標的母艦としても運用できるようになっている<br>のよ。千歳お姉と一緒に頑張りますね！",
+        "api_soku": null,
+        "api_souk": 20,
+        "api_state": [
+          [
+            1,
+            1,
+            0,
+            0,
+            0
+          ]
+        ],
+        "api_stype": 16,
+        "api_table_id": [
+          105
+        ],
+        "api_taik": 41,
+        "api_tais": 0,
+        "api_tyku": 15,
+        "api_type": null,
+        "api_yomi": "ちよだ"
+      },
+      {
+        "api_baku": null,
+        "api_cnum": 4,
+        "api_ctype": 4,
+        "api_flag": null,
+        "api_houg": 8,
+        "api_houk": null,
+        "api_houm": null,
+        "api_index_no": 97,
+        "api_info": null,
+        "api_kaih": 37,
+        "api_leng": 2,
+        "api_name": "大井改",
+        "api_q_voice_info": null,
+        "api_raig": 80,
+        "api_saku": null,
+        "api_sinfo": "重雷装艦バージョンの大井です。<br>圧倒的な水雷戦力を期待されたけど、<br>出番がなかなかなかったの。<br>今度は活躍してみせるわ。見ていてね！",
+        "api_soku": null,
+        "api_souk": 12,
+        "api_state": [
+          [
+            1,
+            1,
+            0,
+            0,
+            0
+          ]
+        ],
+        "api_stype": 4,
+        "api_table_id": [
+          57
+        ],
+        "api_taik": 32,
+        "api_tais": 25,
+        "api_tyku": 13,
+        "api_type": null,
+        "api_yomi": "おおい"
+      },
+      {
+        "api_baku": null,
+        "api_cnum": 3,
+        "api_ctype": 4,
+        "api_flag": null,
+        "api_houg": 8,
+        "api_houk": null,
+        "api_houm": null,
+        "api_index_no": 98,
+        "api_info": null,
+        "api_kaih": 37,
+        "api_leng": 2,
+        "api_name": "北上改",
+        "api_q_voice_info": null,
+        "api_raig": 80,
+        "api_saku": null,
+        "api_sinfo": "九三式酸素魚雷を満載、片舷20門、全40門の魚雷発<br>射管を誇る、重雷装艦へと改装されたスーパー北上さ<br>まだよ。<br>その威力は圧倒的と言われていたけれど、活躍する機<br>会が微妙になかったんだよね。ちぇっ。",
+        "api_soku": null,
+        "api_souk": 12,
+        "api_state": [
+          [
+            1,
+            1,
+            0,
+            0,
+            0
+          ]
+        ],
+        "api_stype": 4,
+        "api_table_id": [
+          58
+        ],
+        "api_taik": 32,
+        "api_tais": 25,
+        "api_tyku": 13,
+        "api_type": null,
+        "api_yomi": "きたかみ"
+      },
+      {
+        "api_baku": null,
+        "api_cnum": 1,
+        "api_ctype": 15,
+        "api_flag": null,
+        "api_houg": 9,
+        "api_houk": null,
+        "api_houm": null,
+        "api_index_no": 99,
+        "api_info": null,
+        "api_kaih": 27,
+        "api_leng": 1,
+        "api_name": "千歳甲",
+        "api_q_voice_info": null,
+        "api_raig": 15,
+        "api_saku": null,
+        "api_sinfo": "水上機母艦千歳です。<br>水上機を沢山運用できる優れものですが、給油艦とし<br>て重油を他の艦に補給もできちゃうの。後期には、航<br>空母艦に改装され、第一線で戦ったのよ。",
+        "api_soku": null,
+        "api_souk": 21,
+        "api_state": [
+          [
+            1,
+            1,
+            0,
+            0,
+            0
+          ]
+        ],
+        "api_stype": 16,
+        "api_table_id": [
+          106
+        ],
+        "api_taik": 42,
+        "api_tais": 0,
+        "api_tyku": 17,
+        "api_type": null,
+        "api_yomi": "ちとせ"
+      },
+      {
+        "api_baku": null,
+        "api_cnum": 2,
+        "api_ctype": 15,
+        "api_flag": null,
+        "api_houg": 9,
+        "api_houk": null,
+        "api_houm": null,
+        "api_index_no": 100,
+        "api_info": null,
+        "api_kaih": 27,
+        "api_leng": 1,
+        "api_name": "千代田甲",
+        "api_q_voice_info": null,
+        "api_raig": 15,
+        "api_saku": null,
+        "api_sinfo": "水上機母艦として建造された千歳型２番艦、千代田で<br>す。甲標的母艦としても運用できるようになっている<br>のよ。千歳お姉と一緒に頑張りますね！",
+        "api_soku": null,
+        "api_souk": 21,
+        "api_state": [
+          [
+            1,
+            1,
+            0,
+            0,
+            0
+          ]
+        ],
+        "api_stype": 16,
+        "api_table_id": [
+          107
+        ],
+        "api_taik": 42,
+        "api_tais": 0,
+        "api_tyku": 17,
+        "api_type": null,
+        "api_yomi": "ちよだ"
+      },
+      {
+        "api_baku": null,
+        "api_cnum": 1,
+        "api_ctype": 9,
+        "api_flag": null,
+        "api_houg": 24,
+        "api_houk": null,
+        "api_houm": null,
+        "api_index_no": 101,
+        "api_info": null,
+        "api_kaih": 35,
+        "api_leng": 2,
+        "api_name": "最上改",
+        "api_q_voice_info": [
+          {
+            "api_icon_id": 1,
+            "api_no": 1,
+            "api_voice_id": 10731
+          }
+        ],
+        "api_raig": 18,
+        "api_saku": null,
+        "api_sinfo": "最上型重巡洋艦１番艦。<br>最上の後部主砲を全て取り払って、代わりに水上機を<br>運用する航空甲板を設置した、航空巡洋艦だよ。<br>水上機母艦並の航空力と火力、どうよ！",
+        "api_soku": null,
+        "api_souk": 37,
+        "api_state": [
+          [
+            1,
+            1,
+            0,
+            0,
+            0
+          ]
+        ],
+        "api_stype": 6,
+        "api_table_id": [
+          73
+        ],
+        "api_taik": 50,
+        "api_tais": 0,
+        "api_tyku": 20,
+        "api_type": null,
+        "api_yomi": "もがみ"
+      },
+      {
+        "api_baku": null,
+        "api_cnum": 1,
+        "api_ctype": 2,
+        "api_flag": null,
+        "api_houg": 63,
+        "api_houk": null,
+        "api_houm": null,
+        "api_index_no": 102,
+        "api_info": null,
+        "api_kaih": 36,
+        "api_leng": 3,
+        "api_name": "伊勢改",
+        "api_q_voice_info": null,
+        "api_raig": 0,
+        "api_saku": null,
+        "api_sinfo": "洋上航空戦力強化のために、主砲を一部外して、かわ<br>りに飛行甲板を設置、軽空母並の航空戦力を運用可能<br>な航空戦艦、伊勢です。<br>海自の新鋭ＤＤＨにもその名は受け継がれているわ。",
+        "api_soku": null,
+        "api_souk": 74,
+        "api_state": [
+          [
+            1,
+            1,
+            0,
+            0,
+            0
+          ],
+          [
+            1,
+            1,
+            0,
+            0,
+            0
+          ],
+          [
+            1,
+            1,
+            0,
+            0,
+            0
+          ]
+        ],
+        "api_stype": 10,
+        "api_table_id": [
+          82,
+          5069,
+          5305
+        ],
+        "api_taik": 77,
+        "api_tais": 0,
+        "api_tyku": 45,
+        "api_type": null,
+        "api_yomi": "いせ"
+      },
+      {
+        "api_baku": null,
+        "api_cnum": 2,
+        "api_ctype": 2,
+        "api_flag": null,
+        "api_houg": 63,
+        "api_houk": null,
+        "api_houm": null,
+        "api_index_no": 103,
+        "api_info": null,
+        "api_kaih": 36,
+        "api_leng": 3,
+        "api_name": "日向改",
+        "api_q_voice_info": null,
+        "api_raig": 0,
+        "api_saku": null,
+        "api_sinfo": "航空運用能力を付与された航空戦艦、日向だ。<br>レイテでも奮戦したぞ。<br>戦略物資輸送作戦「北号作戦」も思い出深いな。<br>ああ、そうだ、海自のＤＤＨ「ひゅうが」に名は受け<br>継がれている。",
+        "api_soku": null,
+        "api_souk": 74,
+        "api_state": [
+          [
+            1,
+            1,
+            0,
+            0,
+            0
+          ],
+          [
+            1,
+            1,
+            0,
+            0,
+            0
+          ],
+          [
+            1,
+            1,
+            0,
+            0,
+            0
+          ]
+        ],
+        "api_stype": 10,
+        "api_table_id": [
+          88,
+          5070,
+          5306
+        ],
+        "api_taik": 77,
+        "api_tais": 0,
+        "api_tyku": 45,
+        "api_type": null,
+        "api_yomi": "ひゅうが"
+      },
+      {
+        "api_baku": null,
+        "api_cnum": 1,
+        "api_ctype": 15,
+        "api_flag": null,
+        "api_houg": 0,
+        "api_houk": null,
+        "api_houm": null,
+        "api_index_no": 104,
+        "api_info": null,
+        "api_kaih": 37,
+        "api_leng": 1,
+        "api_name": "千歳航",
+        "api_q_voice_info": null,
+        "api_raig": 0,
+        "api_saku": null,
+        "api_sinfo": "水上機母艦から空母に改装された千歳です。<br>ダイエットして体も絞って、脚も速くなったのよ。こ<br>れなら機動部隊の一翼を担えるわ！頑張ります！",
+        "api_soku": null,
+        "api_souk": 25,
+        "api_state": [
+          [
+            1,
+            1,
+            0,
+            0,
+            0
+          ]
+        ],
+        "api_stype": 7,
+        "api_table_id": [
+          108
+        ],
+        "api_taik": 47,
+        "api_tais": 0,
+        "api_tyku": 20,
+        "api_type": null,
+        "api_yomi": "ちとせ"
+      },
+      {
+        "api_baku": null,
+        "api_cnum": 2,
+        "api_ctype": 15,
+        "api_flag": null,
+        "api_houg": 0,
+        "api_houk": null,
+        "api_houm": null,
+        "api_index_no": 105,
+        "api_info": null,
+        "api_kaih": 37,
+        "api_leng": 1,
+        "api_name": "千代田航",
+        "api_q_voice_info": null,
+        "api_raig": 0,
+        "api_saku": null,
+        "api_sinfo": "水上機母艦から大改装を受けて、航空母艦にジョブ<br>チェンジした千代田です。結構ちゃんとした空母で<br>しょ？千歳お姉と一緒に敵機動部隊と戦うわ！",
+        "api_soku": null,
+        "api_souk": 25,
+        "api_state": [
+          [
+            1,
+            1,
+            0,
+            0,
+            0
+          ]
+        ],
+        "api_stype": 7,
+        "api_table_id": [
+          109
+        ],
+        "api_taik": 47,
+        "api_tais": 0,
+        "api_tyku": 20,
+        "api_type": null,
+        "api_yomi": "ちよだ"
+      },
+      {
+        "api_baku": null,
+        "api_cnum": 1,
+        "api_ctype": 33,
+        "api_flag": null,
+        "api_houg": 0,
+        "api_houk": null,
+        "api_houm": null,
+        "api_index_no": 106,
+        "api_info": null,
+        "api_kaih": 36,
+        "api_leng": 1,
+        "api_name": "翔鶴",
+        "api_q_voice_info": null,
+        "api_raig": 0,
+        "api_saku": null,
+        "api_sinfo": "翔鶴型航空母艦１番艦の翔鶴です。<br>海軍軍縮条約失効後に設計建造された、本格的な大型<br>正規空母として就役しました。妹の瑞鶴と共に第五航<br>空戦隊を編成します。あの惨劇の後は、先輩方の後を<br>継いで戦線を支えました。",
+        "api_soku": null,
+        "api_souk": 33,
+        "api_state": [
+          [
+            1,
+            1,
+            0,
+            0,
+            0
+          ],
+          [
+            1,
+            1,
+            0,
+            0,
+            0
+          ],
+          [
+            1,
+            1,
+            0,
+            0,
+            0
+          ],
+          [
+            1,
+            1,
+            0,
+            0,
+            0
+          ]
+        ],
+        "api_stype": 11,
+        "api_table_id": [
+          110,
+          5022,
+          5617,
+          5854
+        ],
+        "api_taik": 62,
+        "api_tais": 0,
+        "api_tyku": 29,
+        "api_type": null,
+        "api_yomi": "しょうかく"
+      },
+      {
+        "api_baku": null,
+        "api_cnum": 2,
+        "api_ctype": 33,
+        "api_flag": null,
+        "api_houg": 0,
+        "api_houk": null,
+        "api_houm": null,
+        "api_index_no": 107,
+        "api_info": null,
+        "api_kaih": 39,
+        "api_leng": 1,
+        "api_name": "瑞鶴",
+        "api_q_voice_info": null,
+        "api_raig": 0,
+        "api_saku": null,
+        "api_sinfo": "翔鶴型航空母艦２番艦、瑞鶴です。<br>翔鶴姉と共に、ミッドウェーの後の第一機動部隊の中<br>核として、矢尽き刀折れるまで奮戦しました。文字通<br>り、最後の機動部隊が壊滅する、その日まで…。",
+        "api_soku": null,
+        "api_souk": 33,
+        "api_state": [
+          [
+            1,
+            1,
+            0,
+            0,
+            0
+          ],
+          [
+            1,
+            1,
+            0,
+            0,
+            0
+          ],
+          [
+            1,
+            1,
+            0,
+            0,
+            0
+          ]
+        ],
+        "api_stype": 11,
+        "api_table_id": [
+          111,
+          5367,
+          5804
+        ],
+        "api_taik": 62,
+        "api_tais": 0,
+        "api_tyku": 29,
+        "api_type": null,
+        "api_yomi": "ずいかく"
+      },
+      {
+        "api_baku": null,
+        "api_cnum": 2,
+        "api_ctype": 33,
+        "api_flag": null,
+        "api_houg": 0,
+        "api_houk": null,
+        "api_houm": null,
+        "api_index_no": 108,
+        "api_info": null,
+        "api_kaih": 42,
+        "api_leng": 1,
+        "api_name": "瑞鶴改",
+        "api_q_voice_info": null,
+        "api_raig": 0,
+        "api_saku": null,
+        "api_sinfo": "翔鶴型航空母艦２番艦、瑞鶴です。<br>翔鶴姉と共に、ミッドウェーの後の第一機動部隊の中<br>核として、矢尽き刀折れるまで奮戦しました。文字通<br>り、最後の機動部隊が壊滅する、その日まで…。",
+        "api_soku": null,
+        "api_souk": 42,
+        "api_state": [
+          [
+            1,
+            1,
+            0,
+            0,
+            0
+          ],
+          [
+            1,
+            1,
+            0,
+            0,
+            0
+          ]
+        ],
+        "api_stype": 11,
+        "api_table_id": [
+          112,
+          5805
+        ],
+        "api_taik": 75,
+        "api_tais": 0,
+        "api_tyku": 40,
+        "api_type": null,
+        "api_yomi": "ずいかく"
+      },
+      {
+        "api_baku": null,
+        "api_cnum": 5,
+        "api_ctype": 20,
+        "api_flag": null,
+        "api_houg": 14,
+        "api_houk": null,
+        "api_houm": null,
+        "api_index_no": 109,
+        "api_info": null,
+        "api_kaih": 38,
+        "api_leng": 2,
+        "api_name": "鬼怒",
+        "api_q_voice_info": null,
+        "api_raig": 24,
+        "api_saku": null,
+        "api_sinfo": "神戸生まれの鬼怒だよ。<br>舞鶴の学校で訓練に励んだんだ。色々と大変になって<br>きた後は、南西方面で頑張ったよ…いやぁ、大変だっ<br>たなあ。球磨ちゃんには随分と助けてもらったんだ。<br>でも…パナイ島だけはマジパナイ！",
+        "api_soku": null,
+        "api_souk": 10,
+        "api_state": [
+          [
+            1,
+            1,
+            0,
+            0,
+            0
+          ]
+        ],
+        "api_stype": 3,
+        "api_table_id": [
+          113
+        ],
+        "api_taik": 26,
+        "api_tais": 20,
+        "api_tyku": 13,
+        "api_type": null,
+        "api_yomi": "きぬ"
+      },
+      {
+        "api_baku": null,
+        "api_cnum": 6,
+        "api_ctype": 20,
+        "api_flag": null,
+        "api_houg": 14,
+        "api_houk": null,
+        "api_houm": null,
+        "api_index_no": 110,
+        "api_info": null,
+        "api_kaih": 39,
+        "api_leng": 2,
+        "api_name": "阿武隈",
+        "api_q_voice_info": [
+          {
+            "api_icon_id": 1,
+            "api_no": 1,
+            "api_voice_id": 11141
+          }
+        ],
+        "api_raig": 24,
+        "api_saku": null,
+        "api_sinfo": "長良型軽巡洋艦の阿武隈です。<br>はい…正直いって、北上さんは苦手です。なに、あの<br>人…でも、艦首もきれいに直して頑張りました！<br>潮ちゃんも…ありがとね…。",
+        "api_soku": null,
+        "api_souk": 10,
+        "api_state": [
+          [
+            1,
+            1,
+            0,
+            0,
+            0
+          ]
+        ],
+        "api_stype": 3,
+        "api_table_id": [
+          114
+        ],
+        "api_taik": 27,
+        "api_tais": 20,
+        "api_tyku": 13,
+        "api_type": null,
+        "api_yomi": "あぶくま"
+      },
+      {
+        "api_baku": null,
+        "api_cnum": 1,
+        "api_ctype": 34,
+        "api_flag": null,
+        "api_houg": 17,
+        "api_houk": null,
+        "api_houm": null,
+        "api_index_no": 111,
+        "api_info": null,
+        "api_kaih": 42,
+        "api_leng": 2,
+        "api_name": "夕張",
+        "api_q_voice_info": null,
+        "api_raig": 20,
+        "api_saku": null,
+        "api_sinfo": "コンパクトボディに充実の重武装を施した実験艦的存<br>在の軽巡、夕張です。私の残したデータが、様々な重<br>武装新鋭艦開発の元になったんだから！<br>機関室に一発？何いってんの？<br>ほんと…失礼しちゃうわ。",
+        "api_soku": null,
+        "api_souk": 10,
+        "api_state": [
+          [
+            1,
+            1,
+            0,
+            0,
+            0
+          ],
+          [
+            1,
+            1,
+            0,
+            0,
+            0
+          ],
+          [
+            1,
+            1,
+            0,
+            0,
+            0
+          ]
+        ],
+        "api_stype": 3,
+        "api_table_id": [
+          115,
+          5165,
+          5949
+        ],
+        "api_taik": 19,
+        "api_tais": 13,
+        "api_tyku": 10,
+        "api_type": null,
+        "api_yomi": "ゆうばり"
+      },
+      {
+        "api_baku": null,
+        "api_cnum": 2,
+        "api_ctype": 11,
+        "api_flag": null,
+        "api_houg": 0,
+        "api_houk": null,
+        "api_houm": null,
+        "api_index_no": 112,
+        "api_info": null,
+        "api_kaih": 29,
+        "api_leng": 1,
+        "api_name": "瑞鳳",
+        "api_q_voice_info": null,
+        "api_raig": 0,
+        "api_saku": null,
+        "api_sinfo": "祥鳳型軽空母、瑞鳳です。<br>元々は高速給油艦として計画され、次に潜水母艦、最<br>終的に軽空母として完成しました。小柄なボディだけ<br>れど、機動部隊最後の日まで敢闘しました！",
+        "api_soku": null,
+        "api_souk": 19,
+        "api_state": [
+          [
+            1,
+            1,
+            0,
+            0,
+            0
+          ],
+          [
+            1,
+            1,
+            0,
+            0,
+            0
+          ]
+        ],
+        "api_stype": 7,
+        "api_table_id": [
+          116,
+          5251
+        ],
+        "api_taik": 32,
+        "api_tais": 0,
+        "api_tyku": 14,
+        "api_type": null,
+        "api_yomi": "ずいほう"
+      },
+      {
+        "api_baku": null,
+        "api_cnum": 2,
+        "api_ctype": 11,
+        "api_flag": null,
+        "api_houg": 0,
+        "api_houk": null,
+        "api_houm": null,
+        "api_index_no": 113,
+        "api_info": null,
+        "api_kaih": 29,
+        "api_leng": 1,
+        "api_name": "瑞鳳改",
+        "api_q_voice_info": null,
+        "api_raig": 0,
+        "api_saku": null,
+        "api_sinfo": "祥鳳型軽空母、瑞鳳です。<br>元々は高速給油艦として計画され、次に潜水母艦、最<br>終的に軽空母として完成しました。小柄なボディだけ<br>れど、機動部隊最後の日まで敢闘しました！",
+        "api_soku": null,
+        "api_souk": 25,
+        "api_state": [
+          [
+            1,
+            1,
+            0,
+            0,
+            0
+          ],
+          [
+            1,
+            1,
+            0,
+            0,
+            0
+          ]
+        ],
+        "api_stype": 7,
+        "api_table_id": [
+          117,
+          5252
+        ],
+        "api_taik": 45,
+        "api_tais": 0,
+        "api_tyku": 18,
+        "api_type": null,
+        "api_yomi": "ずいほう"
+      },
+      {
+        "api_baku": null,
+        "api_cnum": 4,
+        "api_ctype": 4,
+        "api_flag": null,
+        "api_houg": 17,
+        "api_houk": null,
+        "api_houm": null,
+        "api_index_no": 114,
+        "api_info": null,
+        "api_kaih": 43,
+        "api_leng": 2,
+        "api_name": "大井改二",
+        "api_q_voice_info": null,
+        "api_raig": 90,
+        "api_saku": null,
+        "api_sinfo": "重雷装艦バージョンの大井です。<br>圧倒的な水雷戦力を期待されたけど、<br>出番がなかなかなかったの。<br>今度は活躍してみせるわ。見ていてね！",
+        "api_soku": null,
+        "api_souk": 23,
+        "api_state": [
+          [
+            1,
+            1,
+            1,
+            0,
+            0
+          ],
+          [
+            1,
+            1,
+            0,
+            0,
+            0
+          ]
+        ],
+        "api_stype": 4,
+        "api_table_id": [
+          118,
+          5959
+        ],
+        "api_taik": 43,
+        "api_tais": 27,
+        "api_tyku": 15,
+        "api_type": null,
+        "api_yomi": "おおい"
+      },
+      {
+        "api_baku": null,
+        "api_cnum": 3,
+        "api_ctype": 4,
+        "api_flag": null,
+        "api_houg": 17,
+        "api_houk": null,
+        "api_houm": null,
+        "api_index_no": 115,
+        "api_info": null,
+        "api_kaih": 43,
+        "api_leng": 2,
+        "api_name": "北上改二",
+        "api_q_voice_info": null,
+        "api_raig": 90,
+        "api_saku": null,
+        "api_sinfo": "九三式酸素魚雷を満載、片舷20門、全40門の魚雷発<br>射管を誇る、重雷装艦へと改装されたスーパー北上さ<br>まだよ。<br>その威力は圧倒的と言われていたけれど、活躍する機<br>会が微妙になかったんだよね。ちぇっ。",
+        "api_soku": null,
+        "api_souk": 23,
+        "api_state": [
+          [
+            1,
+            1,
+            1,
+            0,
+            0
+          ]
+        ],
+        "api_stype": 4,
+        "api_table_id": [
+          119
+        ],
+        "api_taik": 43,
+        "api_tais": 27,
+        "api_tyku": 15,
+        "api_type": null,
+        "api_yomi": "きたかみ"
+      },
+      {
+        "api_baku": null,
+        "api_cnum": 2,
+        "api_ctype": 9,
+        "api_flag": null,
+        "api_houg": 40,
+        "api_houk": null,
+        "api_houm": null,
+        "api_index_no": 116,
+        "api_info": null,
+        "api_kaih": 31,
+        "api_leng": 2,
+        "api_name": "三隈",
+        "api_q_voice_info": null,
+        "api_raig": 18,
+        "api_saku": null,
+        "api_sinfo": "最上型１番艦のモガミンとは、とっても仲がいいのだ<br>けれど、仲が良すぎて彼女とは衝突することも多いの<br>…ええ、そう…物理的に…私はちゃんと前見てるの<br>よ？",
+        "api_soku": null,
+        "api_souk": 30,
+        "api_state": [
+          [
+            1,
+            1,
+            0,
+            0,
+            0
+          ],
+          [
+            1,
+            1,
+            0,
+            0,
+            0
+          ],
+          [
+            1,
+            1,
+            0,
+            0,
+            0
+          ],
+          [
+            1,
+            1,
+            0,
+            0,
+            0
+          ]
+        ],
+        "api_stype": 5,
+        "api_table_id": [
+          120,
+          5154,
+          5065,
+          5392
+        ],
+        "api_taik": 40,
+        "api_tais": 0,
+        "api_tyku": 18,
+        "api_type": null,
+        "api_yomi": "みくま"
+      },
+      {
+        "api_baku": null,
+        "api_cnum": 2,
+        "api_ctype": 9,
+        "api_flag": null,
+        "api_houg": 24,
+        "api_houk": null,
+        "api_houm": null,
+        "api_index_no": 117,
+        "api_info": null,
+        "api_kaih": 34,
+        "api_leng": 2,
+        "api_name": "三隈改",
+        "api_q_voice_info": null,
+        "api_raig": 18,
+        "api_saku": null,
+        "api_sinfo": "最上型１番艦のモガミンとは、とっても仲がいいのだ<br>けれど、仲が良すぎて彼女とは衝突することも多いの<br>…ええ、そう…物理的に…私はちゃんと前見てるの<br>よ？",
+        "api_soku": null,
+        "api_souk": 37,
+        "api_state": [
+          [
+            1,
+            1,
+            0,
+            0,
+            0
+          ]
+        ],
+        "api_stype": 6,
+        "api_table_id": [
+          121
+        ],
+        "api_taik": 50,
+        "api_tais": 0,
+        "api_tyku": 20,
+        "api_type": null,
+        "api_yomi": "みくま"
+      },
+      {
+        "api_baku": null,
+        "api_cnum": 7,
+        "api_ctype": 30,
+        "api_flag": null,
+        "api_houg": 10,
+        "api_houk": null,
+        "api_houm": null,
+        "api_index_no": 118,
+        "api_info": null,
+        "api_kaih": 45,
+        "api_leng": 1,
+        "api_name": "初風",
+        "api_q_voice_info": null,
+        "api_raig": 24,
+        "api_saku": null,
+        "api_sinfo": "陽炎型駆逐艦、初風よ。ブーゲンビルで妙高姉さんと<br>ぶつかって、艦首をばっさり切断…で、航行不能に<br>なったところを集中砲火くらって…怖い…怖すぎる妙<br>高姉さん…",
+        "api_soku": null,
+        "api_souk": 6,
+        "api_state": [
+          [
+            1,
+            0,
+            0,
+            0,
+            0
+          ],
+          [
+            1,
+            0,
+            0,
+            0,
+            0
+          ]
+        ],
+        "api_stype": 2,
+        "api_table_id": [
+          190,
+          5235
+        ],
+        "api_taik": 16,
+        "api_tais": 24,
+        "api_tyku": 9,
+        "api_type": null,
+        "api_yomi": "はつかぜ"
+      },
+      {
+        "api_baku": null,
+        "api_cnum": 18,
+        "api_ctype": 30,
+        "api_flag": null,
+        "api_houg": 10,
+        "api_houk": null,
+        "api_houm": null,
+        "api_index_no": 119,
+        "api_info": null,
+        "api_kaih": 45,
+        "api_leng": 1,
+        "api_name": "舞風",
+        "api_q_voice_info": null,
+        "api_raig": 24,
+        "api_saku": null,
+        "api_sinfo": "陽炎型駆逐艦の舞風よ。ミッドウェーから南方作戦ま<br>で、戦場で舞い続けたの。同じ陽炎型の野分とは仲良<br>しよ。あのトラック島が襲撃された時も近くにいてく<br>れたわ。",
+        "api_soku": null,
+        "api_souk": 6,
+        "api_state": [
+          [
+            1,
+            0,
+            0,
+            0,
+            0
+          ],
+          [
+            1,
+            0,
+            0,
+            0,
+            0
+          ]
+        ],
+        "api_stype": 2,
+        "api_table_id": [
+          122,
+          5382
+        ],
+        "api_taik": 16,
+        "api_tais": 24,
+        "api_tyku": 9,
+        "api_type": null,
+        "api_yomi": "まいかぜ"
+      },
+      {
+        "api_baku": null,
+        "api_cnum": 2,
+        "api_ctype": 13,
+        "api_flag": null,
+        "api_houg": 30,
+        "api_houk": null,
+        "api_houm": null,
+        "api_index_no": 120,
+        "api_info": null,
+        "api_kaih": 33,
+        "api_leng": 2,
+        "api_name": "衣笠",
+        "api_q_voice_info": null,
+        "api_raig": 12,
+        "api_saku": null,
+        "api_sinfo": "カタパルトをお初装備の衣笠さんよ、よろしくね。<br>ウェーク島攻略や珊瑚海海戦、そして、ソロモン海の<br>アイアンボトムサウンドでも大活躍！でも…飛行機っ<br>ての？あれはちょっと嫌ね。",
+        "api_soku": null,
+        "api_souk": 26,
+        "api_state": [
+          [
+            1,
+            0,
+            0,
+            0,
+            0
+          ],
+          [
+            1,
+            0,
+            0,
+            0,
+            0
+          ],
+          [
+            1,
+            0,
+            0,
+            0,
+            0
+          ],
+          [
+            1,
+            0,
+            0,
+            0,
+            0
+          ]
+        ],
+        "api_stype": 5,
+        "api_table_id": [
+          123,
+          5017,
+          5493,
+          5647
+        ],
+        "api_taik": 37,
+        "api_tais": 0,
+        "api_tyku": 16,
+        "api_type": null,
+        "api_yomi": "きぬがさ"
+      },
+      {
+        "api_baku": null,
+        "api_cnum": 1,
+        "api_ctype": 15,
+        "api_flag": null,
+        "api_houg": 0,
+        "api_houk": null,
+        "api_houm": null,
+        "api_index_no": 121,
+        "api_info": null,
+        "api_kaih": 38,
+        "api_leng": 1,
+        "api_name": "千歳航改二",
+        "api_q_voice_info": null,
+        "api_raig": 0,
+        "api_saku": null,
+        "api_sinfo": "水上機母艦から空母に改装された千歳です。<br>ダイエットして体も絞って、脚も速くなったのよ。こ<br>れなら機動部隊の一翼を担えるわ！頑張ります！",
+        "api_soku": null,
+        "api_souk": 32,
+        "api_state": [
+          [
+            1,
+            1,
+            0,
+            0,
+            0
+          ]
+        ],
+        "api_stype": 7,
+        "api_table_id": [
+          296
+        ],
+        "api_taik": 58,
+        "api_tais": 0,
+        "api_tyku": 30,
+        "api_type": null,
+        "api_yomi": "ちとせ"
+      },
+      {
+        "api_baku": null,
+        "api_cnum": 2,
+        "api_ctype": 15,
+        "api_flag": null,
+        "api_houg": 0,
+        "api_houk": null,
+        "api_houm": null,
+        "api_index_no": 122,
+        "api_info": null,
+        "api_kaih": 38,
+        "api_leng": 1,
+        "api_name": "千代田航改二",
+        "api_q_voice_info": null,
+        "api_raig": 0,
+        "api_saku": null,
+        "api_sinfo": "水上機母艦から大改装を受けて、航空母艦にジョブ<br>チェンジした千代田です。結構ちゃんとした空母で<br>しょ？千歳お姉と一緒に敵機動部隊と戦うわ！",
+        "api_soku": null,
+        "api_souk": 32,
+        "api_state": [
+          [
+            1,
+            1,
+            0,
+            0,
+            0
+          ]
+        ],
+        "api_stype": 7,
+        "api_table_id": [
+          297
+        ],
+        "api_taik": 58,
+        "api_tais": 0,
+        "api_tyku": 30,
+        "api_type": null,
+        "api_yomi": "ちよだ"
+      },
+      {
+        "api_baku": null,
+        "api_cnum": 3,
+        "api_ctype": 39,
+        "api_flag": null,
+        "api_houg": 2,
+        "api_houk": null,
+        "api_houm": null,
+        "api_index_no": 123,
+        "api_info": null,
+        "api_kaih": 12,
+        "api_leng": 1,
+        "api_name": "伊19",
+        "api_q_voice_info": null,
+        "api_raig": 36,
+        "api_saku": null,
+        "api_sinfo": "潜水艦、伊一九よ。うん、イク。正規空母ワスプを自<br>慢の酸素魚雷で仕留めたの。さらにずーっと先を航行<br>していた戦艦や駆逐艦にも命中したの。海のスナイパ<br>ー、イクさんの活躍、ずーっと覚えていてなの…ね。",
+        "api_soku": null,
+        "api_souk": 4,
+        "api_state": [
+          [
+            1,
+            1,
+            0,
+            0,
+            0
+          ]
+        ],
+        "api_stype": 13,
+        "api_table_id": [
+          191
+        ],
+        "api_taik": 14,
+        "api_tais": 0,
+        "api_tyku": 0,
+        "api_type": null,
+        "api_yomi": "い19"
+      },
+      {
+        "api_baku": null,
+        "api_cnum": 3,
+        "api_ctype": 9,
+        "api_flag": null,
+        "api_houg": 40,
+        "api_houk": null,
+        "api_houm": null,
+        "api_index_no": 124,
+        "api_info": null,
+        "api_kaih": 31,
+        "api_leng": 2,
+        "api_name": "鈴谷",
+        "api_q_voice_info": null,
+        "api_raig": 18,
+        "api_saku": null,
+        "api_sinfo": "鈴谷は、最上型重巡洋艦の３番艦。横須賀海軍工廠生<br>まれなんだよ～、ふふ～ん。巡洋艦の名前は川由来な<br>んだけど、鈴谷は樺太の鈴谷川がその由来なの。知っ<br>てた？",
+        "api_soku": null,
+        "api_souk": 30,
+        "api_state": [
+          [
+            1,
+            1,
+            0,
+            0,
+            0
+          ],
+          [
+            1,
+            1,
+            0,
+            0,
+            0
+          ]
+        ],
+        "api_stype": 5,
+        "api_table_id": [
+          124,
+          5101
+        ],
+        "api_taik": 40,
+        "api_tais": 0,
+        "api_tyku": 18,
+        "api_type": null,
+        "api_yomi": "すずや"
+      },
+      {
+        "api_baku": null,
+        "api_cnum": 4,
+        "api_ctype": 9,
+        "api_flag": null,
+        "api_houg": 40,
+        "api_houk": null,
+        "api_houm": null,
+        "api_index_no": 125,
+        "api_info": null,
+        "api_kaih": 31,
+        "api_leng": 2,
+        "api_name": "熊野",
+        "api_q_voice_info": null,
+        "api_raig": 18,
+        "api_saku": null,
+        "api_sinfo": "神戸生まれのお洒落な重巡といえば、わたくし、熊野<br>ですね。マレー、ミッドウェー、ソロモン、マリアナ<br>と主要な名所、いえ激戦地に参上いたしましたのよ。<br>最期は日本に帰りたかったけれど……。",
+        "api_soku": null,
+        "api_souk": 30,
+        "api_state": [
+          [
+            1,
+            1,
+            0,
+            0,
+            0
+          ],
+          [
+            1,
+            1,
+            0,
+            0,
+            0
+          ]
+        ],
+        "api_stype": 5,
+        "api_table_id": [
+          125,
+          5102
+        ],
+        "api_taik": 40,
+        "api_tais": 0,
+        "api_tyku": 18,
+        "api_type": null,
+        "api_yomi": "くまの"
+      },
+      {
+        "api_baku": null,
+        "api_cnum": 1,
+        "api_ctype": 35,
+        "api_flag": null,
+        "api_houg": 2,
+        "api_houk": null,
+        "api_houm": null,
+        "api_index_no": 126,
+        "api_info": null,
+        "api_kaih": 15,
+        "api_leng": 1,
+        "api_name": "伊168",
+        "api_q_voice_info": null,
+        "api_raig": 24,
+        "api_saku": null,
+        "api_sinfo": "生れも育ちも呉の潜水艦なの。あのミッドウェーの大<br>海戦のあと、飛龍が最後の力で深手を負わせたヨーク<br>タウンに止めを刺したのよ！空母たちの仇はとった<br>わ！　あの大変な島への輸送任務でも頑張ったの。",
+        "api_soku": null,
+        "api_souk": 3,
+        "api_state": [
+          [
+            1,
+            1,
+            0,
+            0,
+            0
+          ]
+        ],
+        "api_stype": 13,
+        "api_table_id": [
+          126
+        ],
+        "api_taik": 10,
+        "api_tais": 0,
+        "api_tyku": 0,
+        "api_type": null,
+        "api_yomi": "い168"
+      },
+      {
+        "api_baku": null,
+        "api_cnum": 3,
+        "api_ctype": 36,
+        "api_flag": null,
+        "api_houg": 2,
+        "api_houk": null,
+        "api_houm": null,
+        "api_index_no": 127,
+        "api_info": null,
+        "api_kaih": 13,
+        "api_leng": 1,
+        "api_name": "伊58",
+        "api_q_voice_info": null,
+        "api_raig": 30,
+        "api_saku": null,
+        "api_sinfo": "最初から頑張って最後まで戦ったんだよ。苦しくなっ<br>てからだって、凄い重巡だって仕留めたし！　任務を<br>全うして、全てが終わった後、無事に呉の母港に帰っ<br>たんだ。",
+        "api_soku": null,
+        "api_souk": 4,
+        "api_state": [
+          [
+            1,
+            1,
+            0,
+            0,
+            0
+          ]
+        ],
+        "api_stype": 13,
+        "api_table_id": [
+          127
+        ],
+        "api_taik": 14,
+        "api_tais": 0,
+        "api_tyku": 0,
+        "api_type": null,
+        "api_yomi": "い58"
+      },
+      {
+        "api_baku": null,
+        "api_cnum": 2,
+        "api_ctype": 40,
+        "api_flag": null,
+        "api_houg": 2,
+        "api_houk": null,
+        "api_houm": null,
+        "api_index_no": 128,
+        "api_info": null,
+        "api_kaih": 14,
+        "api_leng": 1,
+        "api_name": "伊8",
+        "api_q_voice_info": null,
+        "api_raig": 30,
+        "api_saku": null,
+        "api_sinfo": "遣独潜水艦作戦の第二次遣独艦として、かの地に向<br>かったのよ。そして、Uボートをもらったの。この作<br>戦は5回行われたんだけど、機雷とか色々あって、無<br>事往復できたのは私だけなんですって…そうね、機雷<br>なんてダイッキライ！",
+        "api_soku": null,
+        "api_souk": 4,
+        "api_state": [
+          [
+            1,
+            1,
+            0,
+            0,
+            0
+          ],
+          [
+            1,
+            1,
+            0,
+            0,
+            0
+          ]
+        ],
+        "api_stype": 13,
+        "api_table_id": [
+          128,
+          5015
+        ],
+        "api_taik": 15,
+        "api_tais": 0,
+        "api_tyku": 0,
+        "api_type": null,
+        "api_yomi": "い8"
+      },
+      {
+        "api_baku": null,
+        "api_cnum": 3,
+        "api_ctype": 9,
+        "api_flag": null,
+        "api_houg": 24,
+        "api_houk": null,
+        "api_houm": null,
+        "api_index_no": 129,
+        "api_info": null,
+        "api_kaih": 34,
+        "api_leng": 2,
+        "api_name": "鈴谷改",
+        "api_q_voice_info": null,
+        "api_raig": 18,
+        "api_saku": null,
+        "api_sinfo": "鈴谷は、最上型重巡洋艦の３番艦。横須賀海軍工廠生<br>まれなんだよ～、ふふ～ん。巡洋艦の名前は川由来な<br>んだけど、鈴谷は樺太の鈴谷川がその由来なの。知っ<br>てた？",
+        "api_soku": null,
+        "api_souk": 37,
+        "api_state": [
+          [
+            1,
+            1,
+            0,
+            0,
+            0
+          ]
+        ],
+        "api_stype": 6,
+        "api_table_id": [
+          129
+        ],
+        "api_taik": 50,
+        "api_tais": 0,
+        "api_tyku": 20,
+        "api_type": null,
+        "api_yomi": "すずや"
+      },
+      {
+        "api_baku": null,
+        "api_cnum": 4,
+        "api_ctype": 9,
+        "api_flag": null,
+        "api_houg": 24,
+        "api_houk": null,
+        "api_houm": null,
+        "api_index_no": 130,
+        "api_info": null,
+        "api_kaih": 34,
+        "api_leng": 2,
+        "api_name": "熊野改",
+        "api_q_voice_info": null,
+        "api_raig": 18,
+        "api_saku": null,
+        "api_sinfo": "神戸生まれのお洒落な重巡といえば、わたくし、熊野<br>ですね。マレー、ミッドウェー、ソロモン、マリアナ<br>と主要な名所、いえ激戦地に参上いたしましたのよ。<br>最期は日本に帰りたかったけれど……。",
+        "api_soku": null,
+        "api_souk": 37,
+        "api_state": [
+          [
+            1,
+            1,
+            0,
+            0,
+            0
+          ]
+        ],
+        "api_stype": 6,
+        "api_table_id": [
+          130
+        ],
+        "api_taik": 50,
+        "api_tais": 0,
+        "api_tyku": 20,
+        "api_type": null,
+        "api_yomi": "くまの"
+      },
+      {
+        "api_baku": null,
+        "api_cnum": 1,
+        "api_ctype": 37,
+        "api_flag": null,
+        "api_houg": 96,
+        "api_houk": null,
+        "api_houm": null,
+        "api_index_no": 131,
+        "api_info": null,
+        "api_kaih": 27,
+        "api_leng": 4,
+        "api_name": "大和",
+        "api_q_voice_info": null,
+        "api_raig": 0,
+        "api_saku": null,
+        "api_sinfo": "大和型戦艦一番艦、大和です。<br>艦隊決戦の切り札として、呉海軍工廠で極秘建造され<br>ました。当時の最高技術の粋を結集されたこの体、二<br>番艦の武蔵と共に、連合艦隊の中枢戦力として頑張り<br>ます！",
+        "api_soku": null,
+        "api_souk": 88,
+        "api_state": [
+          [
+            1,
+            1,
+            0,
+            0,
+            0
+          ],
+          [
+            1,
+            1,
+            0,
+            0,
+            0
+          ],
+          [
+            1,
+            1,
+            0,
+            0,
+            0
+          ],
+          [
+            1,
+            1,
+            0,
+            0,
+            0
+          ],
+          [
+            1,
+            1,
+            0,
+            0,
+            0
+          ],
+          [
+            1,
+            1,
+            0,
+            0,
+            0
+          ]
+        ],
+        "api_stype": 9,
+        "api_table_id": [
+          131,
+          5150,
+          5007,
+          5301,
+          5311,
+          5861
+        ],
+        "api_taik": 93,
+        "api_tais": 0,
+        "api_tyku": 50,
+        "api_type": null,
+        "api_yomi": "やまと"
+      },
+      {
+        "api_baku": null,
+        "api_cnum": 19,
+        "api_ctype": 30,
+        "api_flag": null,
+        "api_houg": 10,
+        "api_houk": null,
+        "api_houm": null,
+        "api_index_no": 132,
+        "api_info": null,
+        "api_kaih": 45,
+        "api_leng": 1,
+        "api_name": "秋雲",
+        "api_q_voice_info": null,
+        "api_raig": 24,
+        "api_saku": null,
+        "api_sinfo": "横須賀生まれ横須賀育ちの秋雲さんだよ！陽炎型の中<br>でも航続距離は南雲さんの目にも留まって、一航戦に<br>入ったんだ。ていうか、自分では夕雲型だと思ってた<br>んだけどな...ブツブツ...ま、いいや。その後、五航戦<br>の護衛を務めたよ。翔鶴瑞鶴も描き残したかったな。",
+        "api_soku": null,
+        "api_souk": 6,
+        "api_state": [
+          [
+            1,
+            1,
+            0,
+            0,
+            0
+          ],
+          [
+            1,
+            1,
+            0,
+            0,
+            0
+          ],
+          [
+            1,
+            1,
+            0,
+            0,
+            0
+          ],
+          [
+            1,
+            1,
+            0,
+            0,
+            0
+          ],
+          [
+            1,
+            1,
+            0,
+            0,
+            0
+          ],
+          [
+            1,
+            1,
+            0,
+            0,
+            0
+          ],
+          [
+            1,
+            1,
+            0,
+            0,
+            0
+          ],
+          [
+            1,
+            1,
+            0,
+            0,
+            0
+          ],
+          [
+            1,
+            1,
+            0,
+            0,
+            0
+          ],
+          [
+            1,
+            1,
+            0,
+            0,
+            0
+          ]
+        ],
+        "api_stype": 2,
+        "api_table_id": [
+          132,
+          5130,
+          5038,
+          5602,
+          5025,
+          5013,
+          5371,
+          5011,
+          5372,
+          5678
+        ],
+        "api_taik": 16,
+        "api_tais": 24,
+        "api_tyku": 9,
+        "api_type": null,
+        "api_yomi": "あきぐも"
+      },
+      {
+        "api_baku": null,
+        "api_cnum": 1,
+        "api_ctype": 38,
+        "api_flag": null,
+        "api_houg": 10,
+        "api_houk": null,
+        "api_houm": null,
+        "api_index_no": 133,
+        "api_info": null,
+        "api_kaih": 47,
+        "api_leng": 1,
+        "api_name": "夕雲",
+        "api_q_voice_info": null,
+        "api_raig": 24,
+        "api_saku": null,
+        "api_sinfo": "最終量産型艦隊駆逐艦の一番艦。舞鶴生まれよ。惨敗<br>のミッドウェー海戦が初陣よ。いいじゃない、別に。<br>あの島への鼠輸送やケ号作戦、南太平洋海戦、キスカ<br>撤退作戦などで奮戦したわ。ふう。",
+        "api_soku": null,
+        "api_souk": 6,
+        "api_state": [
+          [
+            1,
+            1,
+            0,
+            0,
+            0
+          ],
+          [
+            1,
+            1,
+            0,
+            0,
+            0
+          ],
+          [
+            1,
+            1,
+            0,
+            0,
+            0
+          ],
+          [
+            1,
+            1,
+            0,
+            0,
+            0
+          ],
+          [
+            1,
+            1,
+            0,
+            0,
+            0
+          ],
+          [
+            1,
+            1,
+            0,
+            0,
+            0
+          ],
+          [
+            1,
+            1,
+            0,
+            0,
+            0
+          ]
+        ],
+        "api_stype": 2,
+        "api_table_id": [
+          133,
+          5243,
+          5169,
+          5122,
+          5391,
+          5517,
+          5779
+        ],
+        "api_taik": 16,
+        "api_tais": 27,
+        "api_tyku": 9,
+        "api_type": null,
+        "api_yomi": "ゆうぐも"
+      },
+      {
+        "api_baku": null,
+        "api_cnum": 2,
+        "api_ctype": 38,
+        "api_flag": null,
+        "api_houg": 10,
+        "api_houk": null,
+        "api_houm": null,
+        "api_index_no": 134,
+        "api_info": null,
+        "api_kaih": 47,
+        "api_leng": 1,
+        "api_name": "巻雲",
+        "api_q_voice_info": null,
+        "api_raig": 24,
+        "api_saku": null,
+        "api_sinfo": "夕雲型駆逐艦二番艦、巻雲です。<br>ホーネットの後始末、事情許さば拿捕曳航されたし<br>…って云われても、結構無理ゲーだし…って、秋雲が<br>こっち指差して笑ってるし。本当にもうなんなの？",
+        "api_soku": null,
+        "api_souk": 6,
+        "api_state": [
+          [
+            1,
+            1,
+            0,
+            0,
+            0
+          ],
+          [
+            1,
+            1,
+            0,
+            0,
+            0
+          ],
+          [
+            1,
+            1,
+            0,
+            0,
+            0
+          ]
+        ],
+        "api_stype": 2,
+        "api_table_id": [
+          134,
+          5244,
+          5330
+        ],
+        "api_taik": 16,
+        "api_tais": 27,
+        "api_tyku": 9,
+        "api_type": null,
+        "api_yomi": "まきぐも"
+      },
+      {
+        "api_baku": null,
+        "api_cnum": 4,
+        "api_ctype": 38,
+        "api_flag": null,
+        "api_houg": 10,
+        "api_houk": null,
+        "api_houm": null,
+        "api_index_no": 135,
+        "api_info": null,
+        "api_kaih": 47,
+        "api_leng": 1,
+        "api_name": "長波",
+        "api_q_voice_info": null,
+        "api_raig": 24,
+        "api_saku": null,
+        "api_sinfo": "マル4計画で建造されて戦時就航した夕雲型四番艦、<br>長波だ。栄光の第二水雷戦隊で縦横無尽の活躍した<br>ぞ。ガダルカナル島では、田中頼三少将の名指揮で、<br>敵の待ち伏せを完膚なきまでに蹴散らしてやったぜ。",
+        "api_soku": null,
+        "api_souk": 6,
+        "api_state": [
+          [
+            1,
+            1,
+            0,
+            0,
+            0
+          ],
+          [
+            1,
+            1,
+            0,
+            0,
+            0
+          ],
+          [
+            1,
+            1,
+            0,
+            0,
+            0
+          ],
+          [
+            1,
+            1,
+            0,
+            0,
+            0
+          ],
+          [
+            1,
+            1,
+            0,
+            0,
+            0
+          ],
+          [
+            1,
+            1,
+            0,
+            0,
+            0
+          ]
+        ],
+        "api_stype": 2,
+        "api_table_id": [
+          135,
+          5170,
+          5118,
+          5060,
+          5275,
+          5737
+        ],
+        "api_taik": 16,
+        "api_tais": 27,
+        "api_tyku": 9,
+        "api_type": null,
+        "api_yomi": "ながなみ"
+      },
+      {
+        "api_baku": null,
+        "api_cnum": 1,
+        "api_ctype": 37,
+        "api_flag": null,
+        "api_houg": 92,
+        "api_houk": null,
+        "api_houm": null,
+        "api_index_no": 136,
+        "api_info": null,
+        "api_kaih": 28,
+        "api_leng": 4,
+        "api_name": "大和改",
+        "api_q_voice_info": null,
+        "api_raig": 0,
+        "api_saku": null,
+        "api_sinfo": "大和型戦艦一番艦、大和です。<br>艦隊決戦の切り札として、呉海軍工廠で極秘建造され<br>ました。当時の最高技術の粋を結集されたこの体、二<br>番艦の武蔵と共に、連合艦隊の中枢戦力として頑張り<br>ます！",
+        "api_soku": null,
+        "api_souk": 92,
+        "api_state": [
+          [
+            1,
+            1,
+            0,
+            0,
+            0
+          ],
+          [
+            1,
+            1,
+            0,
+            0,
+            0
+          ]
+        ],
+        "api_stype": 9,
+        "api_table_id": [
+          136,
+          5302
+        ],
+        "api_taik": 96,
+        "api_tais": 0,
+        "api_tyku": 68,
+        "api_type": null,
+        "api_yomi": "やまと"
+      },
+      {
+        "api_baku": null,
+        "api_cnum": 1,
+        "api_ctype": 41,
+        "api_flag": null,
+        "api_houg": 20,
+        "api_houk": null,
+        "api_houm": null,
+        "api_index_no": 137,
+        "api_info": null,
+        "api_kaih": 37,
+        "api_leng": 2,
+        "api_name": "阿賀野",
+        "api_q_voice_info": null,
+        "api_raig": 24,
+        "api_saku": null,
+        "api_sinfo": "次世代の水雷戦隊の旗艦として設計＆建造された阿賀<br>野型軽巡洋艦、その長女、一番艦の阿賀野よ。とって<br>もとっても高性能なんだから！見てよ、この洗練され<br>た体…今度はゼッタイ本領発揮しちゃうからね。",
+        "api_soku": null,
+        "api_souk": 17,
+        "api_state": [
+          [
+            1,
+            0,
+            0,
+            0,
+            0
+          ],
+          [
+            1,
+            0,
+            0,
+            0,
+            0
+          ]
+        ],
+        "api_stype": 3,
+        "api_table_id": [
+          137,
+          5379
+        ],
+        "api_taik": 30,
+        "api_tais": 25,
+        "api_tyku": 17,
+        "api_type": null,
+        "api_yomi": "あがの"
+      },
+      {
+        "api_baku": null,
+        "api_cnum": 2,
+        "api_ctype": 41,
+        "api_flag": null,
+        "api_houg": 20,
+        "api_houk": null,
+        "api_houm": null,
+        "api_index_no": 138,
+        "api_info": null,
+        "api_kaih": 37,
+        "api_leng": 2,
+        "api_name": "能代",
+        "api_q_voice_info": null,
+        "api_raig": 24,
+        "api_saku": null,
+        "api_sinfo": "新鋭阿賀野型軽巡の二番艦、能代です。<br>能代独自の飛行機運搬軌条がチャームポイントなんで<br>す。レイテ沖海戦でも主力の栗田艦隊の一員として頑<br>張りました！",
+        "api_soku": null,
+        "api_souk": 17,
+        "api_state": [
+          [
+            1,
+            1,
+            0,
+            0,
+            0
+          ],
+          [
+            1,
+            1,
+            0,
+            0,
+            0
+          ]
+        ],
+        "api_stype": 3,
+        "api_table_id": [
+          138,
+          5293
+        ],
+        "api_taik": 30,
+        "api_tais": 25,
+        "api_tyku": 17,
+        "api_type": null,
+        "api_yomi": "のしろ"
+      },
+      {
+        "api_baku": null,
+        "api_cnum": 3,
+        "api_ctype": 41,
+        "api_flag": null,
+        "api_houg": 20,
+        "api_houk": null,
+        "api_houm": null,
+        "api_index_no": 139,
+        "api_info": null,
+        "api_kaih": 38,
+        "api_leng": 2,
+        "api_name": "矢矧",
+        "api_q_voice_info": null,
+        "api_raig": 24,
+        "api_saku": null,
+        "api_sinfo": "阿賀野型軽巡の三番艦、矢矧よ。<br>マリアナ、レイテ、坊ノ岬と、後半の大きな海戦には<br>殆ど参加したわ。そうよ、最後の最後まで暴れてみせ<br>たの。私の記憶の途切れた後、大和はどうなったのか<br>しら。ま、いいわ…今度は全てを護りきるから！",
+        "api_soku": null,
+        "api_souk": 17,
+        "api_state": [
+          [
+            1,
+            1,
+            0,
+            0,
+            0
+          ],
+          [
+            1,
+            1,
+            0,
+            0,
+            0
+          ]
+        ],
+        "api_stype": 3,
+        "api_table_id": [
+          139,
+          5297
+        ],
+        "api_taik": 31,
+        "api_tais": 25,
+        "api_tyku": 17,
+        "api_type": null,
+        "api_yomi": "やはぎ"
+      },
+      {
+        "api_baku": null,
+        "api_cnum": 4,
+        "api_ctype": 41,
+        "api_flag": null,
+        "api_houg": 19,
+        "api_houk": null,
+        "api_houm": null,
+        "api_index_no": 140,
+        "api_info": null,
+        "api_kaih": 36,
+        "api_leng": 2,
+        "api_name": "酒匂",
+        "api_q_voice_info": null,
+        "api_raig": 23,
+        "api_saku": null,
+        "api_sinfo": "阿賀野型軽巡姉妹の末っ子、四番艦の酒匂だよ。<br>生まれるのが遅すぎたかな、あまりお外にはいけな<br>かった。矢矧ちゃんと一緒に行きたかったけど…舞鶴<br>でお留守番したの。",
+        "api_soku": null,
+        "api_souk": 17,
+        "api_state": [
+          [
+            1,
+            0,
+            0,
+            0,
+            0
+          ],
+          [
+            1,
+            0,
+            0,
+            0,
+            0
+          ],
+          [
+            1,
+            0,
+            0,
+            0,
+            0
+          ]
+        ],
+        "api_stype": 3,
+        "api_table_id": [
+          140,
+          5370,
+          5506
+        ],
+        "api_taik": 31,
+        "api_tais": 27,
+        "api_tyku": 17,
+        "api_type": null,
+        "api_yomi": "さかわ"
+      }
+    ]
+  },
+  "api_result": 1,
+  "api_result_msg": "成功"
+}

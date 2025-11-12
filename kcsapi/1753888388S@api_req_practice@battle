@@ -1,0 +1,239 @@
+{
+  "api_data": {
+    "api_atoll_cell": 0,
+    "api_balloon_cell": 0,
+    "api_deck_id": 1,
+    "api_eParam": [
+      [
+        58,
+        90,
+        65,
+        59
+      ]
+    ],
+    "api_eSlot": [
+      [
+        122,
+        313,
+        315,
+        -1,
+        -1
+      ]
+    ],
+    "api_e_effect_list": [
+      [
+        1
+      ]
+    ],
+    "api_e_maxhps": [
+      39
+    ],
+    "api_e_nowhps": [
+      39
+    ],
+    "api_fParam": [
+      [
+        9,
+        0,
+        32,
+        35
+      ],
+      [
+        96,
+        0,
+        93,
+        93
+      ],
+      [
+        102,
+        0,
+        64,
+        91
+      ],
+      [
+        78,
+        0,
+        66,
+        85
+      ],
+      [
+        74,
+        0,
+        72,
+        85
+      ],
+      [
+        9,
+        0,
+        17,
+        18
+      ]
+    ],
+    "api_f_maxhps": [
+      22,
+      81,
+      82,
+      75,
+      75,
+      11
+    ],
+    "api_f_nowhps": [
+      22,
+      81,
+      82,
+      75,
+      75,
+      11
+    ],
+    "api_flavor_info": null,
+    "api_formation": [
+      1,
+      1,
+      2
+    ],
+    "api_hougeki1": {
+      "api_at_eflag": [
+        0,
+        1,
+        0,
+        0,
+        0
+      ],
+      "api_at_list": [
+        3,
+        0,
+        4,
+        2,
+        1
+      ],
+      "api_at_type": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "api_cl_list": [
+        [
+          0
+        ],
+        [
+          2
+        ],
+        [
+          0
+        ],
+        [
+          0
+        ],
+        [
+          1
+        ]
+      ],
+      "api_damage": [
+        [
+          0.0
+        ],
+        [
+          8.0
+        ],
+        [
+          0.0
+        ],
+        [
+          0.0
+        ],
+        [
+          53.0
+        ]
+      ],
+      "api_df_list": [
+        [
+          0
+        ],
+        [
+          1
+        ],
+        [
+          0
+        ],
+        [
+          0
+        ],
+        [
+          0
+        ]
+      ],
+      "api_si_list": [
+        [
+          -1
+        ],
+        [
+          122
+        ],
+        [
+          -1
+        ],
+        [
+          8
+        ],
+        [
+          104
+        ]
+      ]
+    },
+    "api_hougeki2": null,
+    "api_hougeki3": null,
+    "api_hourai_flag": [
+      1,
+      0,
+      0,
+      0
+    ],
+    "api_injection_kouku": null,
+    "api_kouku": {
+      "api_plane_from": [
+        null,
+        null
+      ],
+      "api_stage1": {
+        "api_disp_seiku": 1,
+        "api_e_count": 0,
+        "api_e_lostcount": 0,
+        "api_f_count": 0,
+        "api_f_lostcount": 0,
+        "api_touch_plane": [
+          -1,
+          -1
+        ]
+      },
+      "api_stage2": null,
+      "api_stage3": null,
+      "api_stage3_combined": null
+    },
+    "api_midnight_flag": 0,
+    "api_opening_atack": null,
+    "api_opening_flag": 0,
+    "api_opening_taisen": null,
+    "api_opening_taisen_flag": 0,
+    "api_raigeki": null,
+    "api_search": [
+      5,
+      6
+    ],
+    "api_ship_ke": [
+      147
+    ],
+    "api_ship_lv": [
+      92
+    ],
+    "api_smoke_type": 0,
+    "api_stage_flag": [
+      1,
+      0,
+      0
+    ]
+  },
+  "api_result": 1,
+  "api_result_msg": "成功"
+}

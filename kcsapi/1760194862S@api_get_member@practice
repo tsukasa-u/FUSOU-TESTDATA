@@ -1,0 +1,76 @@
+{
+  "api_data": {
+    "api_create_kind": 0,
+    "api_entry_limit": 46918,
+    "api_list": [
+      {
+        "api_enemy_comment": "__MASKED_API_ENEMY_COMMENT__",
+        "api_enemy_comment_id": "__MASKED_API_ENEMY_COMMENT_ID__",
+        "api_enemy_flag": 3,
+        "api_enemy_flag_ship": 58,
+        "api_enemy_id": -9223372036854775808,
+        "api_enemy_level": 120,
+        "api_enemy_name": "__MASKED_API_ENEMY_NAME__",
+        "api_enemy_name_id": "__MASKED_API_ENEMY_NAME_ID__",
+        "api_enemy_rank": "元帥",
+        "api_medals": 5,
+        "api_state": 6
+      },
+      {
+        "api_enemy_comment": "__MASKED_API_ENEMY_COMMENT__",
+        "api_enemy_comment_id": "__MASKED_API_ENEMY_COMMENT_ID__",
+        "api_enemy_flag": 3,
+        "api_enemy_flag_ship": 486,
+        "api_enemy_id": -9223372036854775808,
+        "api_enemy_level": 109,
+        "api_enemy_name": "__MASKED_API_ENEMY_NAME__",
+        "api_enemy_name_id": "__MASKED_API_ENEMY_NAME_ID__",
+        "api_enemy_rank": "大将",
+        "api_medals": 0,
+        "api_state": 6
+      },
+      {
+        "api_enemy_comment": "__MASKED_API_ENEMY_COMMENT__",
+        "api_enemy_comment_id": "__MASKED_API_ENEMY_COMMENT_ID__",
+        "api_enemy_flag": 3,
+        "api_enemy_flag_ship": 663,
+        "api_enemy_id": -9223372036854775808,
+        "api_enemy_level": 120,
+        "api_enemy_name": "__MASKED_API_ENEMY_NAME__",
+        "api_enemy_name_id": "__MASKED_API_ENEMY_NAME_ID__",
+        "api_enemy_rank": "大将",
+        "api_medals": 0,
+        "api_state": 6
+      },
+      {
+        "api_enemy_comment": "__MASKED_API_ENEMY_COMMENT__",
+        "api_enemy_comment_id": "__MASKED_API_ENEMY_COMMENT_ID__",
+        "api_enemy_flag": 3,
+        "api_enemy_flag_ship": 545,
+        "api_enemy_id": -9223372036854775808,
+        "api_enemy_level": 120,
+        "api_enemy_name": "__MASKED_API_ENEMY_NAME__",
+        "api_enemy_name_id": "__MASKED_API_ENEMY_NAME_ID__",
+        "api_enemy_rank": "大将",
+        "api_medals": 0,
+        "api_state": 0
+      },
+      {
+        "api_enemy_comment": "__MASKED_API_ENEMY_COMMENT__",
+        "api_enemy_comment_id": "__MASKED_API_ENEMY_COMMENT_ID__",
+        "api_enemy_flag": 3,
+        "api_enemy_flag_ship": 139,
+        "api_enemy_id": -9223372036854775808,
+        "api_enemy_level": 27,
+        "api_enemy_name": "__MASKED_API_ENEMY_NAME__",
+        "api_enemy_name_id": "__MASKED_API_ENEMY_NAME_ID__",
+        "api_enemy_rank": "大将",
+        "api_medals": 0,
+        "api_state": 0
+      }
+    ],
+    "api_selected_kind": 0
+  },
+  "api_result": 1,
+  "api_result_msg": "成功"
+}

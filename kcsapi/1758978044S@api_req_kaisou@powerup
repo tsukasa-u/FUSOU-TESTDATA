@@ -1,0 +1,180 @@
+{
+  "api_data": {
+    "api_deck": [
+      {
+        "api_flagship": "0",
+        "api_id": 1,
+        "api_member_id": -9223372036854775808,
+        "api_mission": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "api_name": "__MASKED_API_NAME__",
+        "api_name_id": "__MASKED_API_NAME_ID__",
+        "api_ship": [
+          6,
+          4250,
+          361,
+          2131,
+          732,
+          103
+        ]
+      },
+      {
+        "api_flagship": "0",
+        "api_id": 2,
+        "api_member_id": -9223372036854775808,
+        "api_mission": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "api_name": "__MASKED_API_NAME__",
+        "api_name_id": "__MASKED_API_NAME_ID__",
+        "api_ship": [
+          2872,
+          1,
+          894,
+          589,
+          454,
+          569
+        ]
+      },
+      {
+        "api_flagship": "0",
+        "api_id": 3,
+        "api_member_id": -9223372036854775808,
+        "api_mission": [
+          1,
+          40,
+          1758992049385,
+          0
+        ],
+        "api_name": "__MASKED_API_NAME__",
+        "api_name_id": "__MASKED_API_NAME_ID__",
+        "api_ship": [
+          175,
+          7701,
+          4448,
+          4827,
+          1227,
+          5773
+        ]
+      },
+      {
+        "api_flagship": "0",
+        "api_id": 4,
+        "api_member_id": -9223372036854775808,
+        "api_mission": [
+          1,
+          13,
+          1758981865795,
+          0
+        ],
+        "api_name": "__MASKED_API_NAME__",
+        "api_name_id": "__MASKED_API_NAME_ID__",
+        "api_ship": [
+          927,
+          13053,
+          4762,
+          7535,
+          3006,
+          2472
+        ]
+      }
+    ],
+    "api_powerup_flag": 1,
+    "api_ship": {
+      "api_backs": 8,
+      "api_bull": 45,
+      "api_cond": 46,
+      "api_exp": [
+        537621,
+        7879,
+        57
+      ],
+      "api_fuel": 40,
+      "api_id": 2131,
+      "api_kaihi": [
+        63,
+        63
+      ],
+      "api_karyoku": [
+        80,
+        62
+      ],
+      "api_kyouka": [
+        42,
+        88,
+        41,
+        23,
+        0,
+        0,
+        0
+      ],
+      "api_leng": 2,
+      "api_locked": 1,
+      "api_locked_equip": 1,
+      "api_lucky": [
+        10,
+        63
+      ],
+      "api_lv": 89,
+      "api_maxhp": 49,
+      "api_ndock_item": [
+        0,
+        0
+      ],
+      "api_ndock_time": 0,
+      "api_nowhp": 49,
+      "api_onslot": [
+        8,
+        8,
+        12,
+        4,
+        0
+      ],
+      "api_raisou": [
+        102,
+        88
+      ],
+      "api_sakuteki": [
+        93,
+        96
+      ],
+      "api_sally_area": null,
+      "api_ship_id": 586,
+      "api_slot": [
+        899,
+        3063,
+        8820,
+        8734,
+        -1
+      ],
+      "api_slot_ex": 26170,
+      "api_slotnum": 4,
+      "api_soku": 10,
+      "api_sortno": 386,
+      "api_soukou": [
+        47,
+        47
+      ],
+      "api_sp_effect_items": null,
+      "api_srate": 4,
+      "api_taiku": [
+        70,
+        66
+      ],
+      "api_taisen": [
+        0,
+        0
+      ]
+    },
+    "api_unset_list": null
+  },
+  "api_result": 1,
+  "api_result_msg": "成功"
+}

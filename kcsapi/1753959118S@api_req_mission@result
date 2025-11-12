@@ -1,0 +1,73 @@
+{
+  "api_data": {
+    "api_clear_result": 2,
+    "api_detail": "軽巡旗艦と複数の水上機母艦で、<br>水上機の前線輸送を実施せよ！",
+    "api_get_exp": 120,
+    "api_get_exp_lvup": [
+      [
+        526203,
+        527000
+      ],
+      [
+        205296,
+        211300
+      ],
+      [
+        217550,
+        219500
+      ],
+      [
+        305899,
+        307400
+      ],
+      [
+        466527,
+        474500
+      ],
+      [
+        227488,
+        228000
+      ]
+    ],
+    "api_get_item1": null,
+    "api_get_item2": {
+      "api_useitem_count": 1,
+      "api_useitem_id": -1,
+      "api_useitem_name": null
+    },
+    "api_get_material": [
+      540,
+      540,
+      0,
+      180
+    ],
+    "api_get_ship_exp": [
+      420,
+      280,
+      280,
+      280,
+      280,
+      280
+    ],
+    "api_maparea_name": "南方海域",
+    "api_member_exp": 8923279,
+    "api_member_lv": 113,
+    "api_quest_level": 8,
+    "api_quest_name": "水上機前線輸送",
+    "api_ship_id": [
+      -1,
+      175,
+      7701,
+      7547,
+      4827,
+      1227,
+      5773
+    ],
+    "api_useitem_flag": [
+      0,
+      1
+    ]
+  },
+  "api_result": 1,
+  "api_result_msg": "成功"
+}

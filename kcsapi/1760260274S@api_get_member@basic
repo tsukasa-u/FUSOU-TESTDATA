@@ -1,0 +1,49 @@
+{
+  "api_data": {
+    "api_active_flag": 1,
+    "api_comment": "(進学したい){3}☆ミ",
+    "api_comment_id": "190306118",
+    "api_count_deck": 4,
+    "api_count_kdock": 4,
+    "api_count_ndock": 4,
+    "api_experience": 9227656,
+    "api_fcoin": 8717,
+    "api_firstflag": 1,
+    "api_fleetname": null,
+    "api_furniture": [
+      33,
+      68,
+      547,
+      631,
+      133,
+      164
+    ],
+    "api_level": 114,
+    "api_max_chara": 390,
+    "api_max_kagu": 0,
+    "api_max_slotitem": 1837,
+    "api_medals": 0,
+    "api_member_id": "16189463",
+    "api_ms_count": 11514,
+    "api_ms_success": 11232,
+    "api_nickname": "tucasa",
+    "api_nickname_id": "175439170",
+    "api_playtime": 0,
+    "api_pt_challenged": 0,
+    "api_pt_challenged_win": 0,
+    "api_pt_lose": 1814,
+    "api_pt_win": 5660,
+    "api_pvp": [
+      0,
+      0
+    ],
+    "api_rank": 2,
+    "api_st_lose": 1034,
+    "api_st_win": 29930,
+    "api_starttime": 1760170680479,
+    "api_tutorial": 0,
+    "api_tutorial_progress": 100
+  },
+  "api_result": 1,
+  "api_result_msg": "成功"
+}

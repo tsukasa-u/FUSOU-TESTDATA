@@ -1,0 +1,109 @@
+{
+  "api_data": {
+    "api_c_list": [
+      {
+        "api_c_flag": 1,
+        "api_no": 653,
+        "api_progress_flag": 2,
+        "api_state": 2
+      }
+    ],
+    "api_completed_kind": 0,
+    "api_count": 2,
+    "api_exec_count": 2,
+    "api_exec_type": 2510665,
+    "api_list": [
+      {
+        "api_bonus_flag": 1,
+        "api_category": 6,
+        "api_detail": "「14cm単装砲」x6廃棄、家具コイン6,000と「35.6cm連装砲」「九六式艦戦」各三つを<br>準備せよ！　※任務達成後、用意した家具コイン及び必要装備(低改修値のもの優先)は消費します。",
+        "api_get_material": [
+          0,
+          0,
+          600,
+          600
+        ],
+        "api_invalid_flag": 0,
+        "api_label_type": 7,
+        "api_lost_badges": null,
+        "api_no": 653,
+        "api_progress_flag": 2,
+        "api_select_rewards": [
+          [
+            {
+              "api_count": 1,
+              "api_kind": 12,
+              "api_mst_id": 68,
+              "api_no": 1,
+              "api_slotitem_level": null
+            },
+            {
+              "api_count": 2,
+              "api_kind": 12,
+              "api_mst_id": 20,
+              "api_no": 2,
+              "api_slotitem_level": null
+            },
+            {
+              "api_count": 1,
+              "api_kind": 12,
+              "api_mst_id": 168,
+              "api_no": 3,
+              "api_slotitem_level": null
+            }
+          ],
+          [
+            {
+              "api_count": 3,
+              "api_kind": 12,
+              "api_mst_id": 44,
+              "api_no": 1,
+              "api_slotitem_level": null
+            },
+            {
+              "api_count": 2,
+              "api_kind": 12,
+              "api_mst_id": 51,
+              "api_no": 2,
+              "api_slotitem_level": null
+            },
+            {
+              "api_count": 1,
+              "api_kind": 12,
+              "api_mst_id": 346,
+              "api_no": 3,
+              "api_slotitem_level": null
+            }
+          ]
+        ],
+        "api_state": 2,
+        "api_title": "工廠稼働！次期作戦準備！",
+        "api_type": 5,
+        "api_voice_id": 0
+      },
+      {
+        "api_bonus_flag": 1,
+        "api_category": 9,
+        "api_detail": "「Gambier Bay」「Minneapolis」「Tuscaloosa」「Brooklyn」「Johnston」「Luigi Torelli」のうち<br>3隻以上を含む特務艦隊でモーレイ海の敵艦隊を撃滅、沖ノ島海域及び中部海域哨戒線を哨戒せよ！",
+        "api_get_material": [
+          0,
+          0,
+          780,
+          780
+        ],
+        "api_invalid_flag": 0,
+        "api_label_type": 1,
+        "api_lost_badges": null,
+        "api_no": 986,
+        "api_progress_flag": 2,
+        "api_select_rewards": null,
+        "api_state": 2,
+        "api_title": "【期間限定任務】米特務強襲艦隊+α、出撃！",
+        "api_type": 4,
+        "api_voice_id": 0
+      }
+    ]
+  },
+  "api_result": 1,
+  "api_result_msg": "成功"
+}

@@ -1,0 +1,64 @@
+{
+  "api_data": {
+    "api_clear_result": 0,
+    "api_detail": "可能な限り輸送ドラム缶を満載、<br>南方への鼠輸送作戦を続行せよ！",
+    "api_get_exp": 15,
+    "api_get_exp_lvup": [
+      [
+        530613,
+        545500
+      ],
+      [
+        208236,
+        211300
+      ],
+      [
+        220490,
+        228000
+      ],
+      [
+        308839,
+        319000
+      ],
+      [
+        469467,
+        474500
+      ],
+      [
+        230428,
+        236800
+      ]
+    ],
+    "api_get_item1": null,
+    "api_get_item2": null,
+    "api_get_material": -1,
+    "api_get_ship_exp": [
+      210,
+      140,
+      140,
+      140,
+      140,
+      140
+    ],
+    "api_maparea_name": "南方海域",
+    "api_member_exp": 9026281,
+    "api_member_lv": 113,
+    "api_quest_level": 8,
+    "api_quest_name": "東京急行(弐)",
+    "api_ship_id": [
+      -1,
+      175,
+      7701,
+      7547,
+      4827,
+      1227,
+      5773
+    ],
+    "api_useitem_flag": [
+      0,
+      0
+    ]
+  },
+  "api_result": 1,
+  "api_result_msg": "成功"
+}
