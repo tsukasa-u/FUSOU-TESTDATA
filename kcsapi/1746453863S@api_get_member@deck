@@ -1,0 +1,91 @@
+{
+  "api_data": [
+    {
+      "api_flagship": "0",
+      "api_id": 1,
+      "api_member_id": -9223372036854775808,
+      "api_mission": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "api_name": "__MASKED_API_NAME__",
+      "api_name_id": "__MASKED_API_NAME_ID__",
+      "api_ship": [
+        338,
+        55,
+        122,
+        4299,
+        78,
+        103
+      ]
+    },
+    {
+      "api_flagship": "0",
+      "api_id": 2,
+      "api_member_id": -9223372036854775808,
+      "api_mission": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "api_name": "__MASKED_API_NAME__",
+      "api_name_id": "__MASKED_API_NAME_ID__",
+      "api_ship": [
+        481,
+        560,
+        893,
+        4250,
+        582,
+        1927
+      ]
+    },
+    {
+      "api_flagship": "0",
+      "api_id": 3,
+      "api_member_id": -9223372036854775808,
+      "api_mission": [
+        1,
+        38,
+        1746455877779,
+        0
+      ],
+      "api_name": "__MASKED_API_NAME__",
+      "api_name_id": "__MASKED_API_NAME_ID__",
+      "api_ship": [
+        175,
+        7701,
+        7547,
+        5773,
+        4850,
+        15418,
+        -1
+      ]
+    },
+    {
+      "api_flagship": "0",
+      "api_id": 4,
+      "api_member_id": -9223372036854775808,
+      "api_mission": [
+        1,
+        21,
+        1746462263283,
+        0
+      ],
+      "api_name": "__MASKED_API_NAME__",
+      "api_name_id": "__MASKED_API_NAME_ID__",
+      "api_ship": [
+        927,
+        13053,
+        4762,
+        7535,
+        3006,
+        2472
+      ]
+    }
+  ],
+  "api_result": 1,
+  "api_result_msg": "成功"
+}

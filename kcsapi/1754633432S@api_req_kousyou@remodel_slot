@@ -1,0 +1,34 @@
+{
+  "api_data": {
+    "api_after_material": [
+      28402,
+      29592,
+      225195,
+      32821,
+      1057,
+      921,
+      52,
+      71
+    ],
+    "api_after_slot": {
+      "api_alv": null,
+      "api_id": 3104,
+      "api_level": 0,
+      "api_locked": 0,
+      "api_slotitem_id": 533
+    },
+    "api_remodel_flag": 1,
+    "api_remodel_id": [
+      122,
+      533
+    ],
+    "api_use_slot_id": [
+      17247,
+      25848
+    ],
+    "api_voice_id": 9,
+    "api_voice_ship_id": 423
+  },
+  "api_result": 1,
+  "api_result_msg": "成功"
+}

@@ -1,0 +1,1058 @@
+{
+  "api_data": {
+    "api_list": [
+      {
+        "api_baku": 0,
+        "api_cnum": null,
+        "api_ctype": null,
+        "api_flag": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          1
+        ],
+        "api_houg": 0,
+        "api_houk": 0,
+        "api_houm": 8,
+        "api_index_no": 351,
+        "api_info": "科学の国で開発され、実戦配備に就いた世界初の量産ロケット<br>戦闘機。その貴重な技術資料を伊号潜水艦で持ち帰り、不完全<br>な図面から陸海軍共同で開発を進めた日本発のロケット戦闘機<br>の試作型です。通常のレシプロ機では迎撃の難しい、遥か高高<br>度から飛来する重爆の邀撃を目指します。",
+        "api_kaih": null,
+        "api_leng": 0,
+        "api_name": "試製 秋水",
+        "api_q_voice_info": null,
+        "api_raig": 0,
+        "api_saku": 0,
+        "api_sinfo": null,
+        "api_soku": 0,
+        "api_souk": 0,
+        "api_state": [
+          1,
+          0,
+          0,
+          0,
+          0
+        ],
+        "api_stype": null,
+        "api_table_id": [
+          351
+        ],
+        "api_taik": null,
+        "api_tais": 0,
+        "api_tyku": 2,
+        "api_type": [
+          22,
+          39,
+          48,
+          38
+        ],
+        "api_yomi": null
+      },
+      {
+        "api_baku": 0,
+        "api_cnum": null,
+        "api_ctype": null,
+        "api_flag": [
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "api_houg": 11,
+        "api_houk": -1,
+        "api_houm": 0,
+        "api_index_no": 356,
+        "api_info": "米海軍の条約型重巡洋艦の主兵装として開発され、同主力重巡<br>洋艦群に装備された三連装主砲兵装です。<br>20cm級の砲を一基三門に集約したベーシックでありながら、<br>大火力を備えた主砲兵装です。米海軍の条約型重巡Pensacola<br>級やNorthampton級の主兵装として運用されました。",
+        "api_kaih": null,
+        "api_leng": 2,
+        "api_name": "8inch三連装砲 Mk.9",
+        "api_q_voice_info": null,
+        "api_raig": 0,
+        "api_saku": 0,
+        "api_sinfo": null,
+        "api_soku": 0,
+        "api_souk": 0,
+        "api_state": [
+          1,
+          0,
+          0,
+          0,
+          0
+        ],
+        "api_stype": null,
+        "api_table_id": [
+          356
+        ],
+        "api_taik": null,
+        "api_tais": 0,
+        "api_tyku": 1,
+        "api_type": [
+          1,
+          1,
+          2,
+          2
+        ],
+        "api_yomi": null
+      },
+      {
+        "api_baku": 0,
+        "api_cnum": null,
+        "api_ctype": null,
+        "api_flag": [
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "api_houg": 5,
+        "api_houk": 1,
+        "api_houm": 2,
+        "api_index_no": 359,
+        "api_info": "紅茶の国で開発された中口径主砲です。<br>本装備は、紅茶の国の軽巡クラスや、オーストラリア海軍に<br>移籍した同国建造の艦艇などの主兵装として運用されました。<br>ABDA艦隊の一翼として、南方作戦を展開中の日本艦隊を迎撃<br>したオーストラリア海軍の軽巡もその一隻です。",
+        "api_kaih": null,
+        "api_leng": 2,
+        "api_name": "6inch 連装速射砲 Mk.XXI",
+        "api_q_voice_info": null,
+        "api_raig": 0,
+        "api_saku": 0,
+        "api_sinfo": null,
+        "api_soku": 0,
+        "api_souk": 1,
+        "api_state": [
+          1,
+          0,
+          0,
+          0,
+          0
+        ],
+        "api_stype": null,
+        "api_table_id": [
+          359
+        ],
+        "api_taik": null,
+        "api_tais": 0,
+        "api_tyku": 3,
+        "api_type": [
+          1,
+          1,
+          2,
+          2
+        ],
+        "api_yomi": null
+      },
+      {
+        "api_baku": 0,
+        "api_cnum": null,
+        "api_ctype": null,
+        "api_flag": [
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "api_houg": 5,
+        "api_houk": 2,
+        "api_houm": 2,
+        "api_index_no": 362,
+        "api_info": "米国で開発・運用された対艦及び対空戦闘に対応できる両用砲<br>兵装です。<br>本装備は、同砲を連装化、さらに薬莢形式を採用して連射性を<br>向上、これを集中配備することで艦隊防空を担当する防空艦の<br>強力な対空兵装として運用されました。Atlanta級防空巡など<br>に装備され、一部は夜戦の近距離砲撃戦でも使用されました。",
+        "api_kaih": null,
+        "api_leng": 2,
+        "api_name": "5inch連装両用砲(集中配備)",
+        "api_q_voice_info": null,
+        "api_raig": 0,
+        "api_saku": 0,
+        "api_sinfo": null,
+        "api_soku": 0,
+        "api_souk": 0,
+        "api_state": [
+          1,
+          0,
+          0,
+          0,
+          0
+        ],
+        "api_stype": null,
+        "api_table_id": [
+          362
+        ],
+        "api_taik": null,
+        "api_tais": 0,
+        "api_tyku": 11,
+        "api_type": [
+          1,
+          1,
+          2,
+          16
+        ],
+        "api_yomi": null
+      },
+      {
+        "api_baku": 0,
+        "api_cnum": null,
+        "api_ctype": null,
+        "api_flag": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "api_houg": 11,
+        "api_houk": 0,
+        "api_houm": 2,
+        "api_index_no": 365,
+        "api_info": "遠距離砲撃戦における秘密兵器「九一式徹甲弾」改良版、<br>「一式徹甲弾」。本徹甲弾はそのさらなる改良版です。<br>本改良徹甲弾は弾頭炸薬を増量し、被帽頭を再設計したif強化<br>弾です。海中突入後魚雷のように敵艦水線下に突き進む喫水下<br>破砕を企図した水中弾能力も強化、もちろん弾頭部に弾着観測<br>用着色剤を充填。戦艦・航空戦艦・高速戦艦で運用可能です。",
+        "api_kaih": null,
+        "api_leng": 0,
+        "api_name": "一式徹甲弾改",
+        "api_q_voice_info": null,
+        "api_raig": 0,
+        "api_saku": 0,
+        "api_sinfo": null,
+        "api_soku": 0,
+        "api_souk": 0,
+        "api_state": [
+          1,
+          0,
+          0,
+          0,
+          0
+        ],
+        "api_stype": null,
+        "api_table_id": [
+          365
+        ],
+        "api_taik": null,
+        "api_tais": 0,
+        "api_tyku": 0,
+        "api_type": [
+          4,
+          25,
+          19,
+          13
+        ],
+        "api_yomi": null
+      },
+      {
+        "api_baku": 5,
+        "api_cnum": null,
+        "api_ctype": null,
+        "api_flag": [
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          1,
+          0
+        ],
+        "api_houg": 2,
+        "api_houk": 0,
+        "api_houm": 1,
+        "api_index_no": 367,
+        "api_info": "複葉非全金属製の旧世代機でありながら、高い信頼性と運用性<br>を誇る、メカジキの名を持つ紅茶の国の艦上攻撃機。<br>航空母艦「Ark Royal」などに搭載され、戦艦「Bismarck」<br>と英艦隊との激闘に大きな一撃を放つことになる旧式ながら<br>赫々たる戦果をおさめた傑作機。実在した、その水上機型で<br>す！",
+        "api_kaih": null,
+        "api_leng": 0,
+        "api_name": "Swordfish(水上機型)",
+        "api_q_voice_info": null,
+        "api_raig": 5,
+        "api_saku": 2,
+        "api_sinfo": null,
+        "api_soku": 0,
+        "api_souk": 0,
+        "api_state": [
+          1,
+          0,
+          0,
+          0,
+          0
+        ],
+        "api_stype": null,
+        "api_table_id": [
+          367
+        ],
+        "api_taik": null,
+        "api_tais": 4,
+        "api_tyku": 0,
+        "api_type": [
+          5,
+          43,
+          11,
+          10
+        ],
+        "api_yomi": null
+      },
+      {
+        "api_baku": 0,
+        "api_cnum": null,
+        "api_ctype": null,
+        "api_flag": [
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "api_houg": 0,
+        "api_houk": 0,
+        "api_houm": 1,
+        "api_index_no": 373,
+        "api_info": "「九七艦攻」の後継機として開発された艦上攻撃機「天山」。<br>その改良後期型に、機上電探空六号の改良調整型と電波高度計<br>などの夜間作戦機材を装備した、夜間雷撃可能な新型夜間作戦<br>艦上攻撃機です。",
+        "api_kaih": null,
+        "api_leng": 0,
+        "api_name": "天山一二型甲改(空六号電探改装備機)",
+        "api_q_voice_info": null,
+        "api_raig": 11,
+        "api_saku": 5,
+        "api_sinfo": null,
+        "api_soku": 0,
+        "api_souk": 0,
+        "api_state": [
+          1,
+          0,
+          0,
+          0,
+          0
+        ],
+        "api_stype": null,
+        "api_table_id": [
+          373
+        ],
+        "api_taik": null,
+        "api_tais": 6,
+        "api_tyku": 1,
+        "api_type": [
+          3,
+          5,
+          8,
+          46
+        ],
+        "api_yomi": null
+      },
+      {
+        "api_baku": 0,
+        "api_cnum": null,
+        "api_ctype": null,
+        "api_flag": [
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "api_houg": 1,
+        "api_houk": 3,
+        "api_houm": 1,
+        "api_index_no": 379,
+        "api_info": "日本海軍最後の量産型駆逐艦である丁型駆逐艦用に開発された<br>単装両用砲です。運用実績の豊富な八九式12.7cm連装高角砲<br>を単装化、防盾付き艦載両用砲として再整備されました。本砲<br>は、さらに発射速度などの向上を図ったその改良型です。松型<br>駆逐艦を始め、一部の艦艇でより効果的な運用が可能です。",
+        "api_kaih": null,
+        "api_leng": 1,
+        "api_name": "12.7cm単装高角砲改二",
+        "api_q_voice_info": null,
+        "api_raig": 0,
+        "api_saku": 0,
+        "api_sinfo": null,
+        "api_soku": 0,
+        "api_souk": 0,
+        "api_state": [
+          1,
+          0,
+          0,
+          0,
+          0
+        ],
+        "api_stype": null,
+        "api_table_id": [
+          379
+        ],
+        "api_taik": null,
+        "api_tais": 2,
+        "api_tyku": 5,
+        "api_type": [
+          1,
+          1,
+          1,
+          16
+        ],
+        "api_yomi": null
+      },
+      {
+        "api_baku": 0,
+        "api_cnum": null,
+        "api_ctype": null,
+        "api_flag": [
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "api_houg": 22,
+        "api_houk": 0,
+        "api_houm": 2,
+        "api_index_no": 381,
+        "api_info": "主力戦艦の主兵装として、米国で開発運用された標準的な戦艦<br>用大口径主砲です。南太平洋海戦に機動部隊と共に参加、さら<br>に南方ソロモン海域で日本の高速戦艦や水雷戦隊と激しい夜戦<br>を演じた米高速戦艦「South Dakota」にも、その主兵装とし<br>て装備されました。",
+        "api_kaih": null,
+        "api_leng": 3,
+        "api_name": "16inch三連装砲 Mk.6",
+        "api_q_voice_info": null,
+        "api_raig": 0,
+        "api_saku": 0,
+        "api_sinfo": null,
+        "api_soku": 0,
+        "api_souk": 1,
+        "api_state": [
+          1,
+          0,
+          0,
+          0,
+          0
+        ],
+        "api_stype": null,
+        "api_table_id": [
+          381
+        ],
+        "api_taik": null,
+        "api_tais": 0,
+        "api_tyku": 2,
+        "api_type": [
+          1,
+          1,
+          3,
+          3
+        ],
+        "api_yomi": null
+      },
+      {
+        "api_baku": 0,
+        "api_cnum": null,
+        "api_ctype": null,
+        "api_flag": [
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "api_houg": 1,
+        "api_houk": 2,
+        "api_houm": 0,
+        "api_index_no": 382,
+        "api_info": "やや旧式ながら実績のある単装高角砲、その後期艦載型です。<br>量産に向いた構造で経済性が高く、後期の量産海防艦に搭載さ<br>れ、雲霞のような敵艦載機に立ち向かいます。<br>御蔵型、日振型、そして鵜来型、さらに小型簡略化された丙型<br>及び丁型海防艦でも装備運用されました。",
+        "api_kaih": null,
+        "api_leng": 1,
+        "api_name": "12cm単装高角砲E型",
+        "api_q_voice_info": null,
+        "api_raig": 0,
+        "api_saku": 0,
+        "api_sinfo": null,
+        "api_soku": 0,
+        "api_souk": 0,
+        "api_state": [
+          1,
+          0,
+          0,
+          0,
+          0
+        ],
+        "api_stype": null,
+        "api_table_id": [
+          382
+        ],
+        "api_taik": null,
+        "api_tais": 1,
+        "api_tyku": 3,
+        "api_type": [
+          1,
+          1,
+          1,
+          16
+        ],
+        "api_yomi": null
+      },
+      {
+        "api_baku": 0,
+        "api_cnum": null,
+        "api_ctype": null,
+        "api_flag": [
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "api_houg": 7,
+        "api_houk": 0,
+        "api_houm": 2,
+        "api_index_no": 386,
+        "api_info": "軽巡等の主武装として米国で開発運用された6inch速射砲、こ<br>れを三連装砲塔にまとめた軽巡主砲兵装です。<br>米国の大型軽巡に搭載され、Brooklyn級や、次級の<br>St. Louis級、その後のCleveland級でも装備運用されました。",
+        "api_kaih": null,
+        "api_leng": 2,
+        "api_name": "6inch三連装速射砲 Mk.16",
+        "api_q_voice_info": null,
+        "api_raig": 0,
+        "api_saku": 0,
+        "api_sinfo": null,
+        "api_soku": 0,
+        "api_souk": 1,
+        "api_state": [
+          1,
+          0,
+          0,
+          0,
+          0
+        ],
+        "api_stype": null,
+        "api_table_id": [
+          386
+        ],
+        "api_taik": null,
+        "api_tais": 0,
+        "api_tyku": 2,
+        "api_type": [
+          1,
+          1,
+          2,
+          2
+        ],
+        "api_yomi": null
+      },
+      {
+        "api_baku": 15,
+        "api_cnum": null,
+        "api_ctype": null,
+        "api_flag": [
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "api_houg": 0,
+        "api_houk": 0,
+        "api_houm": 3,
+        "api_index_no": 388,
+        "api_info": "海軍の主力陸上攻撃機「一式陸攻」の後継機として開発された<br>陸上発進の攻撃機です。優れた機体設計により、高い性能を秘<br>めていました。戦力化された時期が遅かったことや複雑な構造<br>に問題もあった新鋭機「銀河」。本部隊は、同機で編成され、<br>鵬部隊とも呼ばれた精鋭江草隊長率いる飛行隊です。",
+        "api_kaih": null,
+        "api_leng": 0,
+        "api_name": "銀河(江草隊)",
+        "api_q_voice_info": null,
+        "api_raig": 15,
+        "api_saku": 4,
+        "api_sinfo": null,
+        "api_soku": 0,
+        "api_souk": 0,
+        "api_state": [
+          1,
+          0,
+          0,
+          0,
+          0
+        ],
+        "api_stype": null,
+        "api_table_id": [
+          388
+        ],
+        "api_taik": null,
+        "api_tais": 4,
+        "api_tyku": 3,
+        "api_type": [
+          21,
+          38,
+          47,
+          37
+        ],
+        "api_yomi": null
+      },
+      {
+        "api_baku": 17,
+        "api_cnum": null,
+        "api_ctype": null,
+        "api_flag": [
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "api_houg": 0,
+        "api_houk": 0,
+        "api_houm": 0,
+        "api_index_no": 395,
+        "api_info": "大きな航続距離を持つ、四発の大型爆撃機です。<br>当時の陸上攻撃機としてはかなり大規模な機体で、あのB-29<br>に迫るかなりの大型機です。米国の大型旅客機を参考に開発さ<br>れましたが、運動性が悪く、発動機や機体各部も不具合続きで<br>信頼性と実用性に欠け、不採用となりました。",
+        "api_kaih": null,
+        "api_leng": 0,
+        "api_name": "深山",
+        "api_q_voice_info": null,
+        "api_raig": 16,
+        "api_saku": 0,
+        "api_sinfo": null,
+        "api_soku": 0,
+        "api_souk": 0,
+        "api_state": [
+          1,
+          0,
+          0,
+          0,
+          0
+        ],
+        "api_stype": null,
+        "api_table_id": [
+          395
+        ],
+        "api_taik": null,
+        "api_tais": 0,
+        "api_tyku": 1,
+        "api_type": [
+          26,
+          46,
+          53,
+          49
+        ],
+        "api_yomi": null
+      },
+      {
+        "api_baku": 0,
+        "api_cnum": null,
+        "api_ctype": null,
+        "api_flag": [
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "api_houg": 3,
+        "api_houk": 0,
+        "api_houm": 2,
+        "api_index_no": 397,
+        "api_info": "比較的簡易な構造で経済性も高く、実用的な対空高角砲として<br>量産された両用砲。海を渡った奇跡の駆逐艦、その再武装時に<br>前部主砲として装備運用されました。<br>日本海軍の残した防衛兵装を、接収艦再武装時に現地で艦載用<br>に改装した独自兵装です。",
+        "api_kaih": null,
+        "api_leng": 1,
+        "api_name": "現地改装12.7cm連装高角砲",
+        "api_q_voice_info": null,
+        "api_raig": 0,
+        "api_saku": 0,
+        "api_sinfo": null,
+        "api_soku": 0,
+        "api_souk": 1,
+        "api_state": [
+          1,
+          0,
+          0,
+          0,
+          0
+        ],
+        "api_stype": null,
+        "api_table_id": [
+          397
+        ],
+        "api_taik": null,
+        "api_tais": 0,
+        "api_tyku": 6,
+        "api_type": [
+          1,
+          1,
+          1,
+          16
+        ],
+        "api_yomi": null
+      },
+      {
+        "api_baku": 0,
+        "api_cnum": null,
+        "api_ctype": null,
+        "api_flag": [
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "api_houg": 2,
+        "api_houk": 2,
+        "api_houm": 1,
+        "api_index_no": 398,
+        "api_info": "画期的な長砲身半自動装填砲を動力砲塔に備えた「長10cm」<br>と呼ばれた新型の防空用高角砲。秋月型防空駆逐艦の主兵装と<br>しても運用された同砲を戦いの後に活用、海を渡った奇跡の駆<br>逐艦の後部主砲として装備運用されます。現地で同砲用に製作<br>された独自の砲塔に装備して運用されました。",
+        "api_kaih": null,
+        "api_leng": 1,
+        "api_name": "現地改装10cm連装高角砲",
+        "api_q_voice_info": null,
+        "api_raig": 0,
+        "api_saku": 0,
+        "api_sinfo": null,
+        "api_soku": 0,
+        "api_souk": 0,
+        "api_state": [
+          1,
+          0,
+          0,
+          0,
+          0
+        ],
+        "api_stype": null,
+        "api_table_id": [
+          398
+        ],
+        "api_taik": null,
+        "api_tais": 0,
+        "api_tyku": 8,
+        "api_type": [
+          1,
+          1,
+          1,
+          16
+        ],
+        "api_yomi": null
+      },
+      {
+        "api_baku": 0,
+        "api_cnum": null,
+        "api_ctype": null,
+        "api_flag": [
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "api_houg": 7,
+        "api_houk": 1,
+        "api_houm": 1,
+        "api_index_no": 399,
+        "api_info": "紅茶の国で開発された、ロンドン海軍軍縮条約下で建造され<br>た、大型軽巡洋艦用主砲です。<br>軍縮条約下で総排水量制限を回避するために、重巡クラスの大<br>型軽巡用に6inchの三連装主砲として構成された主砲兵装で<br>す。多くの軽巡を配備した紅茶の国、そのTown級軽巡などに<br>装備運用されました。",
+        "api_kaih": null,
+        "api_leng": 2,
+        "api_name": "6inch Mk.XXIII三連装砲",
+        "api_q_voice_info": null,
+        "api_raig": 0,
+        "api_saku": 0,
+        "api_sinfo": null,
+        "api_soku": 0,
+        "api_souk": 1,
+        "api_state": [
+          1,
+          0,
+          0,
+          0,
+          0
+        ],
+        "api_stype": null,
+        "api_table_id": [
+          399
+        ],
+        "api_taik": null,
+        "api_tais": 0,
+        "api_tyku": 2,
+        "api_type": [
+          1,
+          1,
+          2,
+          2
+        ],
+        "api_yomi": null
+      },
+      {
+        "api_baku": 0,
+        "api_cnum": null,
+        "api_ctype": null,
+        "api_flag": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "api_houg": 0,
+        "api_houk": 0,
+        "api_houm": 0,
+        "api_index_no": 402,
+        "api_info": "凍るような寒さの寒冷地で、空母の艦載機運用を支障なく行う<br>ための装備と、その航空機発着艦のための訓練を重ねた甲板要<br>員です。",
+        "api_kaih": null,
+        "api_leng": 0,
+        "api_name": "寒冷地装備&甲板要員",
+        "api_q_voice_info": null,
+        "api_raig": 0,
+        "api_saku": 0,
+        "api_sinfo": null,
+        "api_soku": 0,
+        "api_souk": 0,
+        "api_state": [
+          1,
+          0,
+          0,
+          0,
+          0
+        ],
+        "api_stype": null,
+        "api_table_id": [
+          402
+        ],
+        "api_taik": null,
+        "api_tais": 0,
+        "api_tyku": 0,
+        "api_type": [
+          13,
+          23,
+          35,
+          29
+        ],
+        "api_yomi": null
+      },
+      {
+        "api_baku": 15,
+        "api_cnum": null,
+        "api_ctype": null,
+        "api_flag": [
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "api_houg": 0,
+        "api_houk": 0,
+        "api_houm": 1,
+        "api_index_no": 403,
+        "api_info": "陸軍で開発された新鋭双発爆撃機キ67 四式重爆撃機「飛龍」<br>です。爆弾搭載量は大きくないものの、軽快な運動性を誇り、<br>機外懸架ではありますが魚雷装備も可能。決戦機として配備さ<br>れ、日本爆撃機としては充実した武装と装備を持つ本機は、困<br>難な戦局の中で、陸軍雷撃隊としても戦いました。",
+        "api_kaih": null,
+        "api_leng": 0,
+        "api_name": "四式重爆 飛龍",
+        "api_q_voice_info": null,
+        "api_raig": 14,
+        "api_saku": 4,
+        "api_sinfo": null,
+        "api_soku": 0,
+        "api_souk": 0,
+        "api_state": [
+          1,
+          0,
+          0,
+          0,
+          0
+        ],
+        "api_stype": null,
+        "api_table_id": [
+          403
+        ],
+        "api_taik": null,
+        "api_tais": 4,
+        "api_tyku": 5,
+        "api_type": [
+          21,
+          38,
+          47,
+          37
+        ],
+        "api_yomi": null
+      },
+      {
+        "api_baku": 0,
+        "api_cnum": null,
+        "api_ctype": null,
+        "api_flag": [
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "api_houg": 6,
+        "api_houk": 0,
+        "api_houm": 4,
+        "api_index_no": 407,
+        "api_info": "阿賀野型軽巡シリーズの主兵装として開発された両用砲の性能<br>向上改良型です。<br>対巡洋艦戦闘に重きをおいた新設計の軽巡主砲で、限定的です<br>が対空戦闘も可能、改良によりさらに運用性が向上しました。<br>特に阿賀野型に最適化された、最新鋭if中口径主砲兵装です。",
+        "api_kaih": null,
+        "api_leng": 2,
+        "api_name": "15.2cm連装砲改二",
+        "api_q_voice_info": null,
+        "api_raig": 0,
+        "api_saku": 0,
+        "api_sinfo": null,
+        "api_soku": 0,
+        "api_souk": 1,
+        "api_state": [
+          1,
+          0,
+          0,
+          0,
+          0
+        ],
+        "api_stype": null,
+        "api_table_id": [
+          407
+        ],
+        "api_taik": null,
+        "api_tais": 0,
+        "api_tyku": 4,
+        "api_type": [
+          1,
+          1,
+          2,
+          2
+        ],
+        "api_yomi": null
+      },
+      {
+        "api_baku": 0,
+        "api_cnum": null,
+        "api_ctype": null,
+        "api_flag": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "api_houg": 1,
+        "api_houk": 0,
+        "api_houm": 0,
+        "api_index_no": 408,
+        "api_info": "陸軍が開発・運用した、上陸支援用の小型戦闘艇です。<br>AB艇とも呼ばれ、上部を装甲、旋回式砲塔や機銃砲座で<br>武装、大発による上陸作戦を支援しました。<br>強襲揚陸艦「神州丸」にも搭載され、「大発」など上陸用戦力<br>と併せて運用することで高い対地戦闘能力を発揮します。",
+        "api_kaih": null,
+        "api_leng": 0,
+        "api_name": "装甲艇(AB艇)",
+        "api_q_voice_info": null,
+        "api_raig": 0,
+        "api_saku": 1,
+        "api_sinfo": null,
+        "api_soku": 0,
+        "api_souk": 1,
+        "api_state": [
+          1,
+          0,
+          0,
+          0,
+          0
+        ],
+        "api_stype": null,
+        "api_table_id": [
+          408
+        ],
+        "api_taik": null,
+        "api_tais": 0,
+        "api_tyku": 0,
+        "api_type": [
+          8,
+          47,
+          24,
+          20
+        ],
+        "api_yomi": null
+      },
+      {
+        "api_baku": 0,
+        "api_cnum": null,
+        "api_ctype": null,
+        "api_flag": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "api_houg": 0,
+        "api_houk": 0,
+        "api_houm": 2,
+        "api_index_no": 413,
+        "api_info": "洋上最前線において水雷戦隊を指揮する戦隊司令部です。<br>司令部施設を開設できる艦に設営可能です。戦闘能力が高まる<br>と共に、同司令部を旗艦に設営した水雷戦隊は、水雷戦隊編成<br>で行動している際に、戦闘で大きな損害を受けた僚艦を単艦で<br>戦場から離脱させる水雷戦隊「単艦退避」も実施可能です。",
+        "api_kaih": null,
+        "api_leng": 0,
+        "api_name": "精鋭水雷戦隊 司令部",
+        "api_q_voice_info": null,
+        "api_raig": 3,
+        "api_saku": 1,
+        "api_sinfo": null,
+        "api_soku": 0,
+        "api_souk": 0,
+        "api_state": [
+          1,
+          0,
+          0,
+          0,
+          0
+        ],
+        "api_stype": null,
+        "api_table_id": [
+          413
+        ],
+        "api_taik": null,
+        "api_tais": 0,
+        "api_tyku": 0,
+        "api_type": [
+          12,
+          22,
+          34,
+          28
+        ],
+        "api_yomi": null
+      }
+    ]
+  },
+  "api_result": 1,
+  "api_result_msg": "成功"
+}

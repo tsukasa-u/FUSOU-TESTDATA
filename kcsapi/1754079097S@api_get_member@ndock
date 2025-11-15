@@ -1,0 +1,54 @@
+{
+  "api_data": [
+    {
+      "api_complete_time": 1754102164564,
+      "api_complete_time_str": "2025-08-02 11:36:04",
+      "api_id": 1,
+      "api_item1": 15,
+      "api_item2": 0,
+      "api_item3": 28,
+      "api_item4": 0,
+      "api_member_id": 16189463,
+      "api_ship_id": 361,
+      "api_state": 1
+    },
+    {
+      "api_complete_time": 1754092627435,
+      "api_complete_time_str": "2025-08-02 08:57:07",
+      "api_id": 2,
+      "api_item1": 9,
+      "api_item2": 0,
+      "api_item3": 18,
+      "api_item4": 0,
+      "api_member_id": 16189463,
+      "api_ship_id": 6,
+      "api_state": 1
+    },
+    {
+      "api_complete_time": 1754101441246,
+      "api_complete_time_str": "2025-08-02 11:24:01",
+      "api_id": 3,
+      "api_item1": 14,
+      "api_item2": 0,
+      "api_item3": 27,
+      "api_item4": 0,
+      "api_member_id": 16189463,
+      "api_ship_id": 479,
+      "api_state": 1
+    },
+    {
+      "api_complete_time": 1754096374427,
+      "api_complete_time_str": "2025-08-02 09:59:34",
+      "api_id": 4,
+      "api_item1": 11,
+      "api_item2": 0,
+      "api_item3": 20,
+      "api_item4": 0,
+      "api_member_id": 16189463,
+      "api_ship_id": 411,
+      "api_state": 1
+    }
+  ],
+  "api_result": 1,
+  "api_result_msg": "成功"
+}

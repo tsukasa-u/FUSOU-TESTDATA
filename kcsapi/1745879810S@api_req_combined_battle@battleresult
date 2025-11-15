@@ -1,0 +1,134 @@
+{
+  "api_data": {
+    "api_dests": 8,
+    "api_destsf": 0,
+    "api_enemy_info": {
+      "api_deck_name": "深海極東艦隊 稚内上陸侵攻部隊",
+      "api_level": "",
+      "api_rank": ""
+    },
+    "api_escape": {
+      "api_escape_idx": [
+        4
+      ],
+      "api_tow_idx": [
+        10,
+        11,
+        12
+      ]
+    },
+    "api_escape_flag": 1,
+    "api_first_clear": 0,
+    "api_get_base_exp": 260,
+    "api_get_eventflag": null,
+    "api_get_eventitem": null,
+    "api_get_exmap_rate": 0,
+    "api_get_exmap_useitem_id": 0,
+    "api_get_exp": 187,
+    "api_get_exp_lvup": [
+      [
+        812196,
+        851500
+      ],
+      [
+        1328695,
+        1329000
+      ],
+      [
+        608995,
+        631500
+      ],
+      [
+        1650245,
+        1714000
+      ],
+      [
+        1690137,
+        1714000
+      ],
+      [
+        1581900,
+        1584000
+      ]
+    ],
+    "api_get_exp_lvup_combined": [
+      [
+        2636919,
+        2640000
+      ],
+      [
+        1309888,
+        1329000
+      ],
+      [
+        1785879,
+        1860000
+      ],
+      [
+        1222378,
+        1223000
+      ],
+      [
+        1174229,
+        1194000
+      ],
+      [
+        1479839,
+        1525000
+      ]
+    ],
+    "api_get_flag": [
+      0,
+      1,
+      0
+    ],
+    "api_get_ship": {
+      "api_ship_getmes": "あ、あの…磯波と申します。<br>よろしくお願いいたします。",
+      "api_ship_id": 12,
+      "api_ship_name": "磯波",
+      "api_ship_type": "駆逐艦"
+    },
+    "api_get_ship_exp": [
+      -1,
+      390,
+      260,
+      260,
+      260,
+      260,
+      520
+    ],
+    "api_get_ship_exp_combined": [
+      -1,
+      390,
+      260,
+      520,
+      260,
+      260,
+      260
+    ],
+    "api_get_useitem": null,
+    "api_landing_hp": null,
+    "api_m1": null,
+    "api_m_suffix": null,
+    "api_member_exp": 8189730,
+    "api_member_lv": 112,
+    "api_mvp": 6,
+    "api_mvp_combined": 3,
+    "api_next_map_ids": null,
+    "api_ope_suffix": null,
+    "api_quest_level": 12,
+    "api_quest_name": "北海道北東沖/宗谷海峡沖",
+    "api_select_reward_dict": null,
+    "api_ship_id": [
+      2277,
+      2268,
+      1526,
+      1511,
+      1511,
+      1915
+    ],
+    "api_win_rank": "A"
+  },
+  "api_result": 1,
+  "api_result_msg": "成功"
+}

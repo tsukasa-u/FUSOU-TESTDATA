@@ -1,0 +1,17 @@
+{
+  "api_data": {
+    "api_certain_buildkit": 8,
+    "api_certain_remodelkit": 5,
+    "api_change_flag": 0,
+    "api_req_buildkit": 7,
+    "api_req_remodelkit": 4,
+    "api_req_slot_id": 3,
+    "api_req_slot_num": 2,
+    "api_req_useitem_id": null,
+    "api_req_useitem_id2": null,
+    "api_req_useitem_num": null,
+    "api_req_useitem_num2": null
+  },
+  "api_result": 1,
+  "api_result_msg": "成功"
+}

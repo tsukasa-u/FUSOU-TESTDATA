@@ -1,0 +1,89 @@
+{
+  "api_data": {
+    "api_dests": 4,
+    "api_destsf": 0,
+    "api_enemy_info": {
+      "api_deck_name": "敵機動部隊 C群",
+      "api_level": "",
+      "api_rank": ""
+    },
+    "api_escape": null,
+    "api_escape_flag": 0,
+    "api_first_clear": 0,
+    "api_get_base_exp": 400,
+    "api_get_eventflag": 0,
+    "api_get_eventitem": null,
+    "api_get_exmap_rate": 0,
+    "api_get_exmap_useitem_id": 0,
+    "api_get_exp": 192,
+    "api_get_exp_lvup": [
+      [
+        1102164,
+        1107000
+      ],
+      [
+        1117256,
+        1125000
+      ],
+      [
+        1987004,
+        2025000
+      ],
+      [
+        1339572,
+        1372000
+      ],
+      [
+        2038852,
+        2115000
+      ],
+      [
+        1737871,
+        1785000
+      ]
+    ],
+    "api_get_flag": [
+      0,
+      1,
+      0
+    ],
+    "api_get_ship": {
+      "api_ship_getmes": "ん？あぁ、望月でーす。",
+      "api_ship_id": 31,
+      "api_ship_name": "望月",
+      "api_ship_type": "駆逐艦"
+    },
+    "api_get_ship_exp": [
+      -1,
+      1200,
+      400,
+      400,
+      400,
+      400,
+      400
+    ],
+    "api_get_useitem": null,
+    "api_landing_hp": null,
+    "api_m1": null,
+    "api_m_suffix": null,
+    "api_mapcell_incentive": 0,
+    "api_member_exp": 8841842,
+    "api_member_lv": 113,
+    "api_mvp": 1,
+    "api_next_map_ids": null,
+    "api_quest_level": 12,
+    "api_quest_name": "サーモン海域北方",
+    "api_select_reward_dict": null,
+    "api_ship_id": [
+      1565,
+      1560,
+      1555,
+      1592,
+      1577,
+      1577
+    ],
+    "api_win_rank": "A"
+  },
+  "api_result": 1,
+  "api_result_msg": "成功"
+}

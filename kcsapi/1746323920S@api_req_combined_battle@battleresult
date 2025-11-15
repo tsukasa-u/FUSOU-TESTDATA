@@ -1,0 +1,133 @@
+{
+  "api_data": {
+    "api_dests": 6,
+    "api_destsf": 1,
+    "api_enemy_info": {
+      "api_deck_name": "極東艦隊支援 前衛空母群 I群",
+      "api_level": "",
+      "api_rank": ""
+    },
+    "api_escape": {
+      "api_escape_idx": [
+        3
+      ],
+      "api_tow_idx": [
+        11,
+        12
+      ]
+    },
+    "api_escape_flag": 1,
+    "api_first_clear": 0,
+    "api_get_base_exp": 125,
+    "api_get_eventflag": 0,
+    "api_get_eventitem": null,
+    "api_get_exmap_rate": 0,
+    "api_get_exmap_useitem_id": 0,
+    "api_get_exp": 125,
+    "api_get_exp_lvup": [
+      [
+        916068,
+        1000000
+      ],
+      [
+        1391120,
+        1419000
+      ],
+      [
+        665420,
+        701500
+      ],
+      [
+        1828283,
+        1860000
+      ],
+      [
+        1747622,
+        1785000
+      ],
+      [
+        1652725,
+        1714000
+      ]
+    ],
+    "api_get_exp_lvup_combined": [
+      [
+        2735121,
+        2760000
+      ],
+      [
+        1121807,
+        1125000
+      ],
+      [
+        1108995,
+        1125000
+      ],
+      [
+        1279041,
+        1290000
+      ],
+      [
+        1232446,
+        1255000
+      ],
+      [
+        1839870,
+        1860000
+      ]
+    ],
+    "api_get_flag": [
+      0,
+      1,
+      0
+    ],
+    "api_get_ship": {
+      "api_ship_getmes": "あら。自己紹介まだでしたかー。<br>私、荒潮です。",
+      "api_ship_id": 98,
+      "api_ship_name": "荒潮",
+      "api_ship_type": "駆逐艦"
+    },
+    "api_get_ship_exp": [
+      -1,
+      225,
+      150,
+      150,
+      150,
+      150,
+      300
+    ],
+    "api_get_ship_exp_combined": [
+      -1,
+      225,
+      300,
+      150,
+      150,
+      150,
+      150
+    ],
+    "api_get_useitem": null,
+    "api_landing_hp": null,
+    "api_m1": null,
+    "api_m_suffix": null,
+    "api_member_exp": 8252152,
+    "api_member_lv": 113,
+    "api_mvp": 6,
+    "api_mvp_combined": 2,
+    "api_next_map_ids": null,
+    "api_ope_suffix": null,
+    "api_quest_level": 12,
+    "api_quest_name": "北海道北東沖/宗谷海峡沖",
+    "api_select_reward_dict": null,
+    "api_ship_id": [
+      1776,
+      1522,
+      1522,
+      1507,
+      1576,
+      1575
+    ],
+    "api_win_rank": "S"
+  },
+  "api_result": 1,
+  "api_result_msg": "成功"
+}

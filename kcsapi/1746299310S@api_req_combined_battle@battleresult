@@ -1,0 +1,125 @@
+{
+  "api_data": {
+    "api_dests": 6,
+    "api_destsf": 1,
+    "api_enemy_info": {
+      "api_deck_name": "深海任務部隊 極東艦隊支援 I群",
+      "api_level": "",
+      "api_rank": ""
+    },
+    "api_escape": null,
+    "api_escape_flag": 0,
+    "api_first_clear": 0,
+    "api_get_base_exp": 160,
+    "api_get_eventflag": 0,
+    "api_get_eventitem": null,
+    "api_get_exmap_rate": 0,
+    "api_get_exmap_useitem_id": 0,
+    "api_get_exp": 250,
+    "api_get_exp_lvup": [
+      [
+        895779,
+        1000000
+      ],
+      [
+        1378708,
+        1419000
+      ],
+      [
+        654940,
+        661500
+      ],
+      [
+        1816237,
+        1860000
+      ],
+      [
+        1736764,
+        1785000
+      ],
+      [
+        1638687,
+        1647000
+      ]
+    ],
+    "api_get_exp_lvup_combined": [
+      [
+        2716146,
+        2760000
+      ],
+      [
+        1108303,
+        1125000
+      ],
+      [
+        1094687,
+        1107000
+      ],
+      [
+        1267931,
+        1290000
+      ],
+      [
+        1221138,
+        1223000
+      ],
+      [
+        1829390,
+        1860000
+      ]
+    ],
+    "api_get_flag": [
+      0,
+      1,
+      0
+    ],
+    "api_get_ship": {
+      "api_ship_getmes": "こんにちはー。軽巡洋艦、大井です。<br>どうぞ、よろしくお願い致しますね。",
+      "api_ship_id": 24,
+      "api_ship_name": "大井",
+      "api_ship_type": "軽巡洋艦"
+    },
+    "api_get_ship_exp": [
+      -1,
+      288,
+      192,
+      192,
+      384,
+      192,
+      192
+    ],
+    "api_get_ship_exp_combined": [
+      -1,
+      288,
+      192,
+      384,
+      192,
+      192,
+      192
+    ],
+    "api_get_useitem": null,
+    "api_landing_hp": null,
+    "api_m1": null,
+    "api_m_suffix": null,
+    "api_member_exp": 8239902,
+    "api_member_lv": 113,
+    "api_mvp": 4,
+    "api_mvp_combined": 3,
+    "api_next_map_ids": null,
+    "api_ope_suffix": null,
+    "api_quest_level": 12,
+    "api_quest_name": "北海道北東沖/宗谷海峡沖",
+    "api_select_reward_dict": null,
+    "api_ship_id": [
+      2262,
+      1509,
+      1509,
+      1591,
+      1576,
+      1576
+    ],
+    "api_win_rank": "S"
+  },
+  "api_result": 1,
+  "api_result_msg": "成功"
+}

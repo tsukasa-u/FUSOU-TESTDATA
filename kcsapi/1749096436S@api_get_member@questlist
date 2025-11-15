@@ -1,0 +1,139 @@
+{
+  "api_data": {
+    "api_c_list": null,
+    "api_completed_kind": 1,
+    "api_count": 6,
+    "api_exec_count": 6,
+    "api_exec_type": 2518584,
+    "api_list": [
+      {
+        "api_bonus_flag": 1,
+        "api_category": 2,
+        "api_detail": "1週間の全力出撃を行い、可能な限り多くの敵艦隊を捕捉、これを迎撃せよ！",
+        "api_get_material": [
+          300,
+          300,
+          300,
+          100
+        ],
+        "api_invalid_flag": 0,
+        "api_label_type": 3,
+        "api_lost_badges": null,
+        "api_no": 214,
+        "api_progress_flag": 0,
+        "api_select_rewards": null,
+        "api_state": 2,
+        "api_title": "あ号作戦",
+        "api_type": 2,
+        "api_voice_id": 0
+      },
+      {
+        "api_bonus_flag": 1,
+        "api_category": 3,
+        "api_detail": "春季大演習：春の一日中に「演習」で8回以上「勝利」をおさめ、艦隊の練度向上に努めよ！",
+        "api_get_material": [
+          0,
+          0,
+          1000,
+          300
+        ],
+        "api_invalid_flag": 0,
+        "api_label_type": 1,
+        "api_lost_badges": null,
+        "api_no": 315,
+        "api_progress_flag": 1,
+        "api_select_rewards": null,
+        "api_state": 2,
+        "api_title": "春季大演習",
+        "api_type": 4,
+        "api_voice_id": 0
+      },
+      {
+        "api_bonus_flag": 1,
+        "api_category": 4,
+        "api_detail": "本日中に「遠征」３回成功させよう！",
+        "api_get_material": [
+          100,
+          100,
+          100,
+          100
+        ],
+        "api_invalid_flag": 0,
+        "api_label_type": 2,
+        "api_lost_badges": null,
+        "api_no": 402,
+        "api_progress_flag": 1,
+        "api_select_rewards": null,
+        "api_state": 2,
+        "api_title": "「遠征」を３回成功させよう！",
+        "api_type": 1,
+        "api_voice_id": 0
+      },
+      {
+        "api_bonus_flag": 1,
+        "api_category": 7,
+        "api_detail": "近代化改修を実施して、２回以上これを成功させよ！",
+        "api_get_material": [
+          20,
+          20,
+          50,
+          0
+        ],
+        "api_invalid_flag": 0,
+        "api_label_type": 2,
+        "api_lost_badges": null,
+        "api_no": 702,
+        "api_progress_flag": 0,
+        "api_select_rewards": null,
+        "api_state": 3,
+        "api_title": "艦の「近代化改修」を実施せよ！",
+        "api_type": 1,
+        "api_voice_id": 0
+      },
+      {
+        "api_bonus_flag": 1,
+        "api_category": 9,
+        "api_detail": "【梅雨限定任務】航空母艦1隻以上、さらに重巡級2隻以上または秋月型2隻以上を含む機動部隊で西方<br>海域方面に進出！西方海域の全五作戦海域に展開し、同方面の敵戦力の撃滅を図れ！ 艦隊、出撃！",
+        "api_get_material": [
+          1200,
+          1200,
+          1200,
+          0
+        ],
+        "api_invalid_flag": 0,
+        "api_label_type": 6,
+        "api_lost_badges": null,
+        "api_no": 955,
+        "api_progress_flag": 0,
+        "api_select_rewards": null,
+        "api_state": 2,
+        "api_title": "【梅雨限定月間任務】西方海域統合作戦2025",
+        "api_type": 3,
+        "api_voice_id": 0
+      },
+      {
+        "api_bonus_flag": 1,
+        "api_category": 10,
+        "api_detail": "New Orleans級、「Heywood L.E.」「Gambier Bay」「大淀」「大井」「高波」「藤波」「浜波」「早波」<br>「冬月」の旗艦含む3隻以上の艦隊で、モーレイ海、キス島沖、北方AL海域に反復展開！敵を撃滅せよ！",
+        "api_get_material": [
+          600,
+          600,
+          0,
+          600
+        ],
+        "api_invalid_flag": 0,
+        "api_label_type": 1,
+        "api_lost_badges": null,
+        "api_no": 1031,
+        "api_progress_flag": 1,
+        "api_select_rewards": null,
+        "api_state": 2,
+        "api_title": "【初夏限定任務】北方海域、積極戦闘哨戒作戦",
+        "api_type": 4,
+        "api_voice_id": 0
+      }
+    ]
+  },
+  "api_result": 1,
+  "api_result_msg": "成功"
+}

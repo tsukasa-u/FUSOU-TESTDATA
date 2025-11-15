@@ -1,0 +1,19 @@
+{
+  "api_data": {
+    "api_lock_flag": 0,
+    "api_name": "__MASKED_API_NAME__",
+    "api_name_id": "__MASKED_API_NAME_ID__",
+    "api_preset_no": 1,
+    "api_ship": [
+      4214,
+      334,
+      700,
+      501,
+      99,
+      15681,
+      -1
+    ]
+  },
+  "api_result": 1,
+  "api_result_msg": "成功"
+}

@@ -1,0 +1,14 @@
+{
+  "api_data": {
+    "api_get_item_list": [
+      {
+        "api_id": 903,
+        "api_item_no": 1,
+        "api_type": 1,
+        "api_value": 1
+      }
+    ]
+  },
+  "api_result": 1,
+  "api_result_msg": "成功"
+}

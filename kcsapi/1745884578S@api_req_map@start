@@ -1,0 +1,318 @@
+{
+  "api_data": {
+    "api_airsearch": {
+      "api_plane_type": 0,
+      "api_result": 0
+    },
+    "api_bosscell_no": 27,
+    "api_bosscomp": 1,
+    "api_cell_data": [
+      {
+        "api_color_no": 0,
+        "api_distance": null,
+        "api_id": 10450,
+        "api_no": 0,
+        "api_passed": 0
+      },
+      {
+        "api_color_no": 4,
+        "api_distance": 5,
+        "api_id": 10451,
+        "api_no": 1,
+        "api_passed": 1
+      },
+      {
+        "api_color_no": 4,
+        "api_distance": 6,
+        "api_id": 10452,
+        "api_no": 2,
+        "api_passed": 0
+      },
+      {
+        "api_color_no": 10,
+        "api_distance": 6,
+        "api_id": 10453,
+        "api_no": 3,
+        "api_passed": 1
+      },
+      {
+        "api_color_no": 4,
+        "api_distance": 6,
+        "api_id": 10454,
+        "api_no": 4,
+        "api_passed": 1
+      },
+      {
+        "api_color_no": 4,
+        "api_distance": 7,
+        "api_id": 10455,
+        "api_no": 5,
+        "api_passed": 1
+      },
+      {
+        "api_color_no": 4,
+        "api_distance": 6,
+        "api_id": 10456,
+        "api_no": 6,
+        "api_passed": 1
+      },
+      {
+        "api_color_no": 4,
+        "api_distance": 5,
+        "api_id": 10457,
+        "api_no": 7,
+        "api_passed": 1
+      },
+      {
+        "api_color_no": 4,
+        "api_distance": 4,
+        "api_id": 10458,
+        "api_no": 8,
+        "api_passed": 1
+      },
+      {
+        "api_color_no": 10,
+        "api_distance": 4,
+        "api_id": 10459,
+        "api_no": 9,
+        "api_passed": 1
+      },
+      {
+        "api_color_no": 4,
+        "api_distance": 3,
+        "api_id": 10460,
+        "api_no": 10,
+        "api_passed": 1
+      },
+      {
+        "api_color_no": 10,
+        "api_distance": 6,
+        "api_id": 10461,
+        "api_no": 11,
+        "api_passed": 1
+      },
+      {
+        "api_color_no": 10,
+        "api_distance": 8,
+        "api_id": 10462,
+        "api_no": 12,
+        "api_passed": 0
+      },
+      {
+        "api_color_no": 4,
+        "api_distance": 8,
+        "api_id": 10463,
+        "api_no": 13,
+        "api_passed": 1
+      },
+      {
+        "api_color_no": 4,
+        "api_distance": 7,
+        "api_id": 10464,
+        "api_no": 14,
+        "api_passed": 1
+      },
+      {
+        "api_color_no": 4,
+        "api_distance": 8,
+        "api_id": 10465,
+        "api_no": 15,
+        "api_passed": 0
+      },
+      {
+        "api_color_no": 4,
+        "api_distance": 6,
+        "api_id": 10466,
+        "api_no": 16,
+        "api_passed": 1
+      },
+      {
+        "api_color_no": 4,
+        "api_distance": 8,
+        "api_id": 10467,
+        "api_no": 17,
+        "api_passed": 1
+      },
+      {
+        "api_color_no": 4,
+        "api_distance": 8,
+        "api_id": 10468,
+        "api_no": 18,
+        "api_passed": 1
+      },
+      {
+        "api_color_no": 4,
+        "api_distance": 7,
+        "api_id": 10469,
+        "api_no": 19,
+        "api_passed": 1
+      },
+      {
+        "api_color_no": 4,
+        "api_distance": 6,
+        "api_id": 10470,
+        "api_no": 20,
+        "api_passed": 1
+      },
+      {
+        "api_color_no": 10,
+        "api_distance": 5,
+        "api_id": 10471,
+        "api_no": 21,
+        "api_passed": 1
+      },
+      {
+        "api_color_no": 4,
+        "api_distance": 4,
+        "api_id": 10472,
+        "api_no": 22,
+        "api_passed": 1
+      },
+      {
+        "api_color_no": 4,
+        "api_distance": 5,
+        "api_id": 10473,
+        "api_no": 23,
+        "api_passed": 1
+      },
+      {
+        "api_color_no": 4,
+        "api_distance": 2,
+        "api_id": 10474,
+        "api_no": 24,
+        "api_passed": 1
+      },
+      {
+        "api_color_no": 4,
+        "api_distance": 3,
+        "api_id": 10475,
+        "api_no": 25,
+        "api_passed": 1
+      },
+      {
+        "api_color_no": 6,
+        "api_distance": 2,
+        "api_id": 10476,
+        "api_no": 26,
+        "api_passed": 1
+      },
+      {
+        "api_color_no": 5,
+        "api_distance": 3,
+        "api_id": 10477,
+        "api_no": 27,
+        "api_passed": 1
+      },
+      {
+        "api_color_no": 4,
+        "api_distance": 7,
+        "api_id": 10478,
+        "api_no": 28,
+        "api_passed": 1
+      },
+      {
+        "api_color_no": 4,
+        "api_distance": 6,
+        "api_id": 10479,
+        "api_no": 29,
+        "api_passed": 1
+      },
+      {
+        "api_color_no": 10,
+        "api_distance": 4,
+        "api_id": 10480,
+        "api_no": 30,
+        "api_passed": 1
+      },
+      {
+        "api_color_no": 4,
+        "api_distance": 2,
+        "api_id": 10481,
+        "api_no": 31,
+        "api_passed": 1
+      },
+      {
+        "api_color_no": 4,
+        "api_distance": 8,
+        "api_id": 10482,
+        "api_no": 32,
+        "api_passed": 1
+      },
+      {
+        "api_color_no": 4,
+        "api_distance": 8,
+        "api_id": 10483,
+        "api_no": 33,
+        "api_passed": 1
+      },
+      {
+        "api_color_no": 0,
+        "api_distance": 99,
+        "api_id": 10484,
+        "api_no": 34,
+        "api_passed": 0
+      },
+      {
+        "api_color_no": 4,
+        "api_distance": 4,
+        "api_id": 10485,
+        "api_no": 35,
+        "api_passed": 1
+      },
+      {
+        "api_color_no": 4,
+        "api_distance": 5,
+        "api_id": 10486,
+        "api_no": 36,
+        "api_passed": 1
+      },
+      {
+        "api_color_no": 4,
+        "api_distance": 6,
+        "api_id": 10487,
+        "api_no": 37,
+        "api_passed": 0
+      },
+      {
+        "api_color_no": 5,
+        "api_distance": 5,
+        "api_id": 10488,
+        "api_no": 38,
+        "api_passed": 1
+      },
+      {
+        "api_color_no": 4,
+        "api_distance": 4,
+        "api_id": 10489,
+        "api_no": 39,
+        "api_passed": 1
+      }
+    ],
+    "api_cell_flavor": {
+      "api_message": "第五艦隊、出撃ッ！<br>稚内方面への侵攻を阻止せよ！",
+      "api_type": 0
+    },
+    "api_color_no": 4,
+    "api_e_deck_info": null,
+    "api_event_id": 6,
+    "api_event_kind": 0,
+    "api_eventmap": {
+      "api_dmg": 0,
+      "api_max_maphp": 2648,
+      "api_now_maphp": 0
+    },
+    "api_from_no": 34,
+    "api_happening": null,
+    "api_itemget": null,
+    "api_limit_state": 0,
+    "api_maparea_id": 60,
+    "api_mapinfo_no": 2,
+    "api_next": 1,
+    "api_no": 33,
+    "api_rashin_flg": 1,
+    "api_rashin_id": 1,
+    "api_select_route": null
+  },
+  "api_result": 1,
+  "api_result_msg": "成功"
+}

@@ -1,0 +1,45 @@
+{
+  "api_data": {
+    "api_airsearch": {
+      "api_plane_type": 0,
+      "api_result": 0
+    },
+    "api_bosscell_no": 16,
+    "api_bosscomp": 1,
+    "api_cell_flavor": null,
+    "api_color_no": 4,
+    "api_comment_kind": null,
+    "api_destruction_battle": null,
+    "api_e_deck_info": [
+      {
+        "api_kind": 2,
+        "api_ship_ids": [
+          1575,
+          1501,
+          1501
+        ]
+      }
+    ],
+    "api_event_id": 4,
+    "api_event_kind": 1,
+    "api_eventmap": null,
+    "api_get_eo_rate": null,
+    "api_happening": null,
+    "api_itemget": null,
+    "api_itemget_eo_comment": null,
+    "api_itemget_eo_result": null,
+    "api_limit_state": 0,
+    "api_m1": null,
+    "api_maparea_id": 7,
+    "api_mapinfo_no": 4,
+    "api_next": 1,
+    "api_no": 20,
+    "api_production_kind": null,
+    "api_rashin_flg": 1,
+    "api_rashin_id": 1,
+    "api_ration_flag": null,
+    "api_select_route": null
+  },
+  "api_result": 1,
+  "api_result_msg": "成功"
+}

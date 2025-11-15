@@ -1,0 +1,15 @@
+{
+  "api_data": {
+    "api_count": 1,
+    "api_item": [
+      {
+        "api_getmes": "「装備枠増設」サーバシステム拡張記念に、どうぞ！<br>装備枠増設+4 を獲得しました！",
+        "api_mode": 3,
+        "api_mst_id": 904,
+        "api_type": 3
+      }
+    ]
+  },
+  "api_result": 1,
+  "api_result_msg": "成功"
+}

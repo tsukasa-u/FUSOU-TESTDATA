@@ -1,0 +1,58 @@
+{
+  "api_data": {
+    "api_air_base_expanded_info": [
+      {
+        "api_area_id": 60,
+        "api_maintenance_level": 0
+      }
+    ],
+    "api_cmt": "時報のみのボイス欲しい",
+    "api_cmt_id": "188883504",
+    "api_complate": [
+      "0.0",
+      "0.0"
+    ],
+    "api_deck": 4,
+    "api_experience": [
+      8973626,
+      9100000
+    ],
+    "api_friend": 0,
+    "api_furniture": 127,
+    "api_kdoc": 4,
+    "api_large_dock": 1,
+    "api_level": 113,
+    "api_material_max": 29000,
+    "api_member_id": 16189463,
+    "api_mission": {
+      "api_count": "11288",
+      "api_rate": "97.58",
+      "api_success": "11015"
+    },
+    "api_ndoc": 4,
+    "api_nickname": "tucasa",
+    "api_nickname_id": "175439170",
+    "api_photo_url": "",
+    "api_practice": {
+      "api_lose": "1799",
+      "api_rate": "75.32",
+      "api_win": "5491"
+    },
+    "api_rank": 2,
+    "api_ship": [
+      375,
+      380
+    ],
+    "api_slotitem": [
+      1751,
+      1797
+    ],
+    "api_war": {
+      "api_lose": "1020",
+      "api_rate": "0.97",
+      "api_win": "29315"
+    }
+  },
+  "api_result": 1,
+  "api_result_msg": "成功"
+}

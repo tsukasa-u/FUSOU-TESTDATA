@@ -1,0 +1,49 @@
+{
+  "api_data": {
+    "api_active_flag": 1,
+    "api_comment": "時報のみのボイス欲しい",
+    "api_comment_id": "188883504",
+    "api_count_deck": 4,
+    "api_count_kdock": 4,
+    "api_count_ndock": 4,
+    "api_experience": 8814090,
+    "api_fcoin": 3144,
+    "api_firstflag": 1,
+    "api_fleetname": null,
+    "api_furniture": [
+      35,
+      482,
+      546,
+      631,
+      222,
+      527
+    ],
+    "api_level": 113,
+    "api_max_chara": 380,
+    "api_max_kagu": 0,
+    "api_max_slotitem": 1793,
+    "api_medals": 0,
+    "api_member_id": "16189463",
+    "api_ms_count": 11237,
+    "api_ms_success": 10965,
+    "api_nickname": "tucasa",
+    "api_nickname_id": "175439170",
+    "api_playtime": 0,
+    "api_pt_challenged": 0,
+    "api_pt_challenged_win": 0,
+    "api_pt_lose": 1794,
+    "api_pt_win": 5438,
+    "api_pvp": [
+      0,
+      0
+    ],
+    "api_rank": 2,
+    "api_st_lose": 1015,
+    "api_st_win": 29036,
+    "api_starttime": 1751025581043,
+    "api_tutorial": 0,
+    "api_tutorial_progress": 100
+  },
+  "api_result": 1,
+  "api_result_msg": "成功"
+}
