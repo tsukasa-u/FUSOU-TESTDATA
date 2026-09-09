@@ -16,6 +16,7 @@ export const cells_6_5: Cells = {
       next: 1,
       e_deck_info: [{ kind: 0, ship_ids: [1534, 1532, 1532] }],
       limit_state: 0,
+      itemget: null,
       m1: null,
       destruction_battle: null,
       happening: null,
@@ -30,6 +31,7 @@ export const cells_6_5: Cells = {
       next: 1,
       e_deck_info: [{ kind: 2, ship_ids: [1527, 1559, 1559] }],
       limit_state: 0,
+      itemget: null,
       m1: null,
       destruction_battle: null,
       happening: null,
@@ -44,6 +46,7 @@ export const cells_6_5: Cells = {
       next: 1,
       e_deck_info: [{ kind: 2, ship_ids: [1560, 1555, 1591] }],
       limit_state: 0,
+      itemget: null,
       m1: null,
       destruction_battle: null,
       happening: null,
@@ -58,6 +61,7 @@ export const cells_6_5: Cells = {
       next: 1,
       e_deck_info: [{ kind: 2, ship_ids: [1560, 1560, 1592] }],
       limit_state: 0,
+      itemget: null,
       m1: null,
       destruction_battle: {
         formation: [1, 3, 2],
@@ -81,7 +85,11 @@ export const cells_6_5: Cells = {
           f_damage: {
             plane_from: [2],
             touch_plane: -1,
+            total_plane1: 0,
+
             loss_plane1: 7,
+            total_plane2: 0,
+
             loss_plane2: 0,
             damages: [2, 0, 0],
             cl: [1, 1, 1],
@@ -94,7 +102,11 @@ export const cells_6_5: Cells = {
           e_damage: {
             plane_from: [0, 1, 2],
             touch_plane: -1,
+            total_plane1: 0,
+
             loss_plane1: 180,
+            total_plane2: 0,
+
             loss_plane2: 0,
             damages: [0, 0, 0, 0, 0, 0],
             cl: [1, 1, 1, 1, 1, 1],
@@ -106,6 +118,14 @@ export const cells_6_5: Cells = {
           },
           stage_flag: [1, 0, 1],
           map_squadron_plane: { "3": [202, 202, 202, 351] },
+          f_sprite_fly_count: null,
+          e_sprite_fly_count: null,
+          f_sprite_crash_count: null,
+          e_sprite_crash_count: null,
+          f_sprite_damage_count: null,
+          e_sprite_damage_count: null,
+          f_sprite_non_normal_count: null,
+          e_sprite_non_normal_count: null,
         },
         lost_kind: 1,
         f_total_damages: [2, 0, 0, 0, 0, 0],
@@ -126,6 +146,7 @@ export const cells_6_5: Cells = {
         { kind: 2, ship_ids: [1555, 1527, 1575] },
       ],
       limit_state: 0,
+      itemget: null,
       m1: null,
       destruction_battle: null,
       happening: null,
@@ -174,17 +195,20 @@ export const cells_6_5: Cells = {
       deck_id: 1,
       formation: [5, 4, 2],
       enemy_ship_id: [1534, 1532, 1532],
+      e_lv: null,
       e_params: [
         [0, 86, 0, 30],
         [0, 64, 0, 21],
         [0, 64, 0, 21],
       ],
+      f_params: null,
       e_slot: [
         [1515, 1515, 1513, -1, -1],
         [1515, 1513, 1513, -1, -1],
         [1515, 1513, 1513, -1, -1],
       ],
       e_hp_max: [37, 27, 27],
+      e_combined_flag: null,
       f_total_damages: [0, 11, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
       e_total_damages: [19, 37, 27, 0, 0, 0, 0, 0, 0, 0, 0, 0],
       friend_total_damages: null,
@@ -202,10 +226,30 @@ export const cells_6_5: Cells = {
         {
           air_superiority: 1,
           air_fire: null,
+          f_sprite_fly_count: null,
+          e_sprite_fly_count: null,
+          f_sprite_crash_count: null,
+          e_sprite_crash_count: null,
+          f_sprite_damage_count: null,
+          e_sprite_damage_count: null,
+          f_sprite_non_normal_count: null,
+          e_sprite_non_normal_count: null,
+          f_sprite_crash_count_stage1: null,
+          f_sprite_crash_count_stage2: null,
+          e_sprite_crash_count_stage1: null,
+          e_sprite_crash_count_stage2: null,
+          f_sprite_damage_count_stage1: null,
+          f_sprite_damage_count_stage2: null,
+          e_sprite_damage_count_stage1: null,
+          e_sprite_damage_count_stage2: null,
           f_damage: {
             plane_from: null,
             touch_plane: -1,
+            total_plane1: 0,
+
             loss_plane1: 0,
+            total_plane2: 0,
+
             loss_plane2: 0,
             damages: null,
             cl: null,
@@ -218,7 +262,11 @@ export const cells_6_5: Cells = {
           e_damage: {
             plane_from: null,
             touch_plane: -1,
+            total_plane1: 0,
+
             loss_plane1: 0,
+            total_plane2: 0,
+
             loss_plane2: 0,
             damages: null,
             cl: null,
@@ -232,6 +280,8 @@ export const cells_6_5: Cells = {
         null,
       ],
       support_attack: null,
+      night_support_attack: null,
+
       opening_taisen: null,
       opening_raigeki: {
         fdam: [0, 11, 0, 0, 0, 0, 0],
@@ -308,6 +358,7 @@ export const cells_6_5: Cells = {
       e_nowhps: [37, 27, 27],
       midnight_f_nowhps: null,
       midnight_e_nowhps: null,
+      battle_result: null,
     },
     "6": {
       battle_order: [
@@ -327,7 +378,7 @@ export const cells_6_5: Cells = {
       cell_id: 6,
       deck_id: 1,
       formation: [1, 4, 1],
-      enemy_ship_id: [1527, 1559, 1559, 1554, 1575, 1575],
+      enemy_ship_id: [1527, 1559, 1559, 1554, 1575, 1575],      e_lv: null,
       e_params: [
         [68, 48, 40, 70],
         [50, 120, 30, 60],
@@ -336,6 +387,7 @@ export const cells_6_5: Cells = {
         [38, 60, 30, 22],
         [38, 60, 30, 22],
       ],
+      f_params: null,
       e_slot: [
         [1505, 1506, 1515, 1525, -1],
         [1506, 1515, 1515, -1, -1],
@@ -345,6 +397,7 @@ export const cells_6_5: Cells = {
         [1502, 1545, 1542, -1, -1],
       ],
       e_hp_max: [76, 70, 70, 53, 35, 35],
+      e_combined_flag: null,
       f_total_damages: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
       e_total_damages: [291, 197, 136, 79, 65, 91, 0, 0, 0, 0, 0, 0],
       friend_total_damages: null,
@@ -362,10 +415,30 @@ export const cells_6_5: Cells = {
         {
           air_superiority: 1,
           air_fire: null,
+          f_sprite_fly_count: null,
+          e_sprite_fly_count: null,
+          f_sprite_crash_count: null,
+          e_sprite_crash_count: null,
+          f_sprite_damage_count: null,
+          e_sprite_damage_count: null,
+          f_sprite_non_normal_count: null,
+          e_sprite_non_normal_count: null,
+          f_sprite_crash_count_stage1: null,
+          f_sprite_crash_count_stage2: null,
+          e_sprite_crash_count_stage1: null,
+          e_sprite_crash_count_stage2: null,
+          f_sprite_damage_count_stage1: null,
+          f_sprite_damage_count_stage2: null,
+          e_sprite_damage_count_stage1: null,
+          e_sprite_damage_count_stage2: null,
           f_damage: {
             plane_from: null,
             touch_plane: -1,
+            total_plane1: 0,
+
             loss_plane1: 0,
+            total_plane2: 0,
+
             loss_plane2: 0,
             damages: null,
             cl: null,
@@ -378,7 +451,11 @@ export const cells_6_5: Cells = {
           e_damage: {
             plane_from: null,
             touch_plane: -1,
+            total_plane1: 0,
+
             loss_plane1: 0,
+            total_plane2: 0,
+
             loss_plane2: 0,
             damages: null,
             cl: null,
@@ -392,6 +469,8 @@ export const cells_6_5: Cells = {
         null,
       ],
       support_attack: null,
+      night_support_attack: null,
+
       opening_taisen: null,
       opening_raigeki: {
         fdam: [0, 0, 0, 0, 0, 0, 0],
@@ -465,6 +544,7 @@ export const cells_6_5: Cells = {
       e_nowhps: [76, 70, 70, 53, 35, 35],
       midnight_f_nowhps: null,
       midnight_e_nowhps: null,
+      battle_result: null,
     },
     "10": {
       battle_order: [{ FriendlyForceAttack: null }, { MidnightHougeki: null }],
@@ -473,7 +553,7 @@ export const cells_6_5: Cells = {
       cell_id: 10,
       deck_id: 1,
       formation: [4, 2, 3],
-      enemy_ship_id: [1560, 1555, 1591, 1575, 1501, 1501],
+      enemy_ship_id: [1560, 1555, 1591, 1575, 1501, 1501],      e_lv: null,
       e_params: [
         [18, 0, 36, 70],
         [48, 80, 30, 39],
@@ -482,6 +562,7 @@ export const cells_6_5: Cells = {
         [5, 15, 6, 5],
         [5, 15, 6, 5],
       ],
+      f_params: null,
       e_slot: [
         [1520, 1524, 1524, 1517, -1],
         [1506, 1525, 1542, 1543, -1],
@@ -491,6 +572,7 @@ export const cells_6_5: Cells = {
         [1501, -1, -1, -1, -1],
       ],
       e_hp_max: [84, 57, 48, 35, 20, 20],
+      e_combined_flag: null,
       f_total_damages: null,
       e_total_damages: null,
       friend_total_damages: [0, 0, 0, 0, 0, 0],
@@ -508,6 +590,8 @@ export const cells_6_5: Cells = {
       air_base_air_attacks: null,
       opening_air_attack: null,
       support_attack: null,
+      night_support_attack: null,
+
       opening_taisen: null,
       opening_raigeki: null,
       hougeki: null,
@@ -546,6 +630,7 @@ export const cells_6_5: Cells = {
       e_nowhps: null,
       midnight_f_nowhps: [88, 61, 28, 16, 35, 68],
       midnight_e_nowhps: [84, 57, 48, 35, 20, 20],
+      battle_result: null,
     },
     "17": {
       battle_order: [
@@ -565,7 +650,7 @@ export const cells_6_5: Cells = {
       cell_id: 17,
       deck_id: 1,
       formation: [1, 2, 3],
-      enemy_ship_id: [1560, 1560, 1592, 1577, 1575, 1575],
+      enemy_ship_id: [1560, 1560, 1592, 1577, 1575, 1575],      e_lv: null,
       e_params: [
         [18, 0, 36, 70],
         [18, 0, 36, 70],
@@ -574,6 +659,7 @@ export const cells_6_5: Cells = {
         [38, 60, 30, 22],
         [38, 60, 30, 22],
       ],
+      f_params: null,
       e_slot: [
         [1520, 1524, 1524, 1517, -1],
         [1520, 1524, 1524, 1517, -1],
@@ -583,6 +669,7 @@ export const cells_6_5: Cells = {
         [1502, 1545, 1542, -1, -1],
       ],
       e_hp_max: [84, 84, 66, 38, 35, 35],
+      e_combined_flag: null,
       f_total_damages: [0, 9, 0, 23, 4, 0, 0, 0, 0, 0, 0, 0],
       e_total_damages: [169, 181, 128, 130, 107, 134, 0, 0, 0, 0, 0, 0],
       friend_total_damages: null,
@@ -600,10 +687,30 @@ export const cells_6_5: Cells = {
         {
           air_superiority: 4,
           air_fire: null,
+          f_sprite_fly_count: null,
+          e_sprite_fly_count: null,
+          f_sprite_crash_count: null,
+          e_sprite_crash_count: null,
+          f_sprite_damage_count: null,
+          e_sprite_damage_count: null,
+          f_sprite_non_normal_count: null,
+          e_sprite_non_normal_count: null,
+          f_sprite_crash_count_stage1: null,
+          f_sprite_crash_count_stage2: null,
+          e_sprite_crash_count_stage1: null,
+          e_sprite_crash_count_stage2: null,
+          f_sprite_damage_count_stage1: null,
+          f_sprite_damage_count_stage2: null,
+          e_sprite_damage_count_stage1: null,
+          e_sprite_damage_count_stage2: null,
           f_damage: {
             plane_from: null,
             touch_plane: -1,
+            total_plane1: 0,
+
             loss_plane1: 0,
+            total_plane2: 0,
+
             loss_plane2: 0,
             damages: [0, 9, 0, 0, 0, 0],
             cl: [1, 1, 1, 1, 1, 1],
@@ -616,7 +723,11 @@ export const cells_6_5: Cells = {
           e_damage: {
             plane_from: [0, 1],
             touch_plane: -1,
+            total_plane1: 0,
+
             loss_plane1: 1,
+            total_plane2: 0,
+
             loss_plane2: 40,
             damages: [0, 0, 0, 0, 0, 0],
             cl: [1, 1, 1, 1, 1, 1],
@@ -630,6 +741,8 @@ export const cells_6_5: Cells = {
         null,
       ],
       support_attack: null,
+      night_support_attack: null,
+
       opening_taisen: null,
       opening_raigeki: {
         fdam: [0, 0, 0, 0, 0, 0, 0],
@@ -719,6 +832,7 @@ export const cells_6_5: Cells = {
       e_nowhps: [84, 84, 66, 38, 35, 35],
       midnight_f_nowhps: null,
       midnight_e_nowhps: null,
+      battle_result: null,
     },
     "18": {
       battle_order: [
@@ -743,7 +857,7 @@ export const cells_6_5: Cells = {
       formation: [1, 13, 1],
       enemy_ship_id: [
         1586, 1615, 1527, 1592, 1576, 1576, 1555, 1527, 1575, 1575, 1575, 1575,
-      ],
+      ],      e_lv: null,
       e_params: [
         [180, 0, 130, 150],
         [25, 0, 50, 80],
@@ -758,6 +872,7 @@ export const cells_6_5: Cells = {
         [38, 60, 30, 22],
         [38, 60, 30, 22],
       ],
+      f_params: null,
       e_slot: [
         [1547, 1548, 1549, 1532, -1],
         [1556, 1557, 1558, 1558, -1],
@@ -773,6 +888,7 @@ export const cells_6_5: Cells = {
         [1502, 1545, 1542, -1, -1],
       ],
       e_hp_max: [350, 96, 76, 66, 37, 37, 57, 76, 35, 35, 35, 35],
+      e_combined_flag: null,
       f_total_damages: [0, 0, 15, 0, 0, 12, 0, 0, 0, 0, 0, 0],
       e_total_damages: [
         222, 103, 184, 68, 146, 84, 173, 180, 159, 75, 166, 120,
@@ -786,11 +902,33 @@ export const cells_6_5: Cells = {
       combat_ration: null,
       balloon_flag: 0,
       air_base_assault: {
+        air_superiority: null,
         squadron_plane: [561],
+        squadron_count: [18],
+        f_sprite_fly_count: null,
+        e_sprite_fly_count: null,
+        f_sprite_crash_count: null,
+        e_sprite_crash_count: null,
+        f_sprite_damage_count: null,
+        e_sprite_damage_count: null,
+        f_sprite_non_normal_count: null,
+        e_sprite_non_normal_count: null,
+        f_sprite_crash_stage1_count: null,
+        f_sprite_crash_stage2_count: null,
+        e_sprite_crash_stage1_count: null,
+        e_sprite_crash_stage2_count: null,
+        f_sprite_damage_stage1_count: null,
+        f_sprite_damage_stage2_count: null,
+        e_sprite_damage_stage1_count: null,
+        e_sprite_damage_stage2_count: null,
         f_damage: {
           plane_from: null,
           touch_plane: null,
+          total_plane1: 0,
+
           loss_plane1: 0,
+          total_plane2: 0,
+
           loss_plane2: 4,
           damages: null,
           cl: null,
@@ -803,7 +941,11 @@ export const cells_6_5: Cells = {
         e_damage: {
           plane_from: null,
           touch_plane: null,
+          total_plane1: 0,
+
           loss_plane1: 0,
+          total_plane2: 0,
+
           loss_plane2: 0,
           damages: [0, 0, 9, 0, 0, 0, 0, 0, 0, 0, 0, 0],
           cl: [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
@@ -844,13 +986,27 @@ export const cells_6_5: Cells = {
       air_base_air_attacks: {
         attacks: [
           {
+            air_superiority: null,
             stage_flag: [1, 1, 1],
             squadron_plane: [178, 388, 403, 395],
             base_id: 1,
+            squadron_count: null,
+            f_sprite_fly_count: null,
+            e_sprite_fly_count: null,
+            f_sprite_crash_count: null,
+            e_sprite_crash_count: null,
+            f_sprite_damage_count: null,
+            e_sprite_damage_count: null,
+            f_sprite_non_normal_count: null,
+            e_sprite_non_normal_count: null,
             f_damage: {
               plane_from: null,
               touch_plane: -1,
+              total_plane1: 0,
+
               loss_plane1: 18,
+              total_plane2: 0,
+
               loss_plane2: 5,
               damages: null,
               cl: null,
@@ -863,7 +1019,11 @@ export const cells_6_5: Cells = {
             e_damage: {
               plane_from: [0, 1, 2, 3, 6, 7],
               touch_plane: 1558,
+              total_plane1: 0,
+
               loss_plane1: 12,
+              total_plane2: 0,
+
               loss_plane2: 0,
               damages: [0, 0, 47, 0, 0, 0, 0, 0, 0, 0, 0, 0],
               cl: [1, 1, 2, 1, 1, 1, 1, 1, 1, 1, 1, 1],
@@ -901,13 +1061,27 @@ export const cells_6_5: Cells = {
             },
           },
           {
+            air_superiority: null,
             stage_flag: [1, 1, 1],
             squadron_plane: [178, 388, 403, 395],
             base_id: 1,
+            squadron_count: null,
+            f_sprite_fly_count: null,
+            e_sprite_fly_count: null,
+            f_sprite_crash_count: null,
+            e_sprite_crash_count: null,
+            f_sprite_damage_count: null,
+            e_sprite_damage_count: null,
+            f_sprite_non_normal_count: null,
+            e_sprite_non_normal_count: null,
             f_damage: {
               plane_from: null,
               touch_plane: -1,
+              total_plane1: 0,
+
               loss_plane1: 20,
+              total_plane2: 0,
+
               loss_plane2: 6,
               damages: null,
               cl: null,
@@ -920,7 +1094,11 @@ export const cells_6_5: Cells = {
             e_damage: {
               plane_from: [0, 1, 2, 3, 6, 7],
               touch_plane: 1525,
+              total_plane1: 0,
+
               loss_plane1: 11,
+              total_plane2: 0,
+
               loss_plane2: 0,
               damages: [0, 0, 0, 42, 0, 0, 0, 0, 0, 0, 25, 120],
               cl: [1, 1, 1, 2, 1, 1, 1, 1, 1, 1, 0, 2],
@@ -958,13 +1136,27 @@ export const cells_6_5: Cells = {
             },
           },
           {
+            air_superiority: null,
             stage_flag: [1, 1, 1],
             squadron_plane: [178, 180, 180, 561],
             base_id: 2,
+            squadron_count: null,
+            f_sprite_fly_count: null,
+            e_sprite_fly_count: null,
+            f_sprite_crash_count: null,
+            e_sprite_crash_count: null,
+            f_sprite_damage_count: null,
+            e_sprite_damage_count: null,
+            f_sprite_non_normal_count: null,
+            e_sprite_non_normal_count: null,
             f_damage: {
               plane_from: null,
               touch_plane: -1,
+              total_plane1: 0,
+
               loss_plane1: 16,
+              total_plane2: 0,
+
               loss_plane2: 4,
               damages: null,
               cl: null,
@@ -977,7 +1169,11 @@ export const cells_6_5: Cells = {
             e_damage: {
               plane_from: [0, 1, 2, 3, 6, 7],
               touch_plane: 1558,
+              total_plane1: 0,
+
               loss_plane1: 14,
+              total_plane2: 0,
+
               loss_plane2: 0,
               damages: [36, 0, 0, 0, 0, 84, 37, 0, 0, 0, 0, 0],
               cl: [0, 1, 1, 1, 1, 2, 0, 1, 1, 1, 1, 1],
@@ -1015,13 +1211,27 @@ export const cells_6_5: Cells = {
             },
           },
           {
+            air_superiority: null,
             stage_flag: [1, 1, 1],
             squadron_plane: [178, 180, 180, 561],
             base_id: 2,
+            squadron_count: null,
+            f_sprite_fly_count: null,
+            e_sprite_fly_count: null,
+            f_sprite_crash_count: null,
+            e_sprite_crash_count: null,
+            f_sprite_damage_count: null,
+            e_sprite_damage_count: null,
+            f_sprite_non_normal_count: null,
+            e_sprite_non_normal_count: null,
             f_damage: {
               plane_from: null,
               touch_plane: -1,
+              total_plane1: 0,
+
               loss_plane1: 19,
+              total_plane2: 0,
+
               loss_plane2: 13,
               damages: null,
               cl: null,
@@ -1034,7 +1244,11 @@ export const cells_6_5: Cells = {
             e_damage: {
               plane_from: [0, 1, 2, 3, 6, 7],
               touch_plane: 1558,
+              total_plane1: 0,
+
               loss_plane1: 9,
+              total_plane2: 0,
+
               loss_plane2: 0,
               damages: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
               cl: [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
@@ -1077,10 +1291,30 @@ export const cells_6_5: Cells = {
         {
           air_superiority: 4,
           air_fire: null,
+          f_sprite_fly_count: null,
+          e_sprite_fly_count: null,
+          f_sprite_crash_count: null,
+          e_sprite_crash_count: null,
+          f_sprite_damage_count: null,
+          e_sprite_damage_count: null,
+          f_sprite_non_normal_count: null,
+          e_sprite_non_normal_count: null,
+          f_sprite_crash_count_stage1: null,
+          f_sprite_crash_count_stage2: null,
+          e_sprite_crash_count_stage1: null,
+          e_sprite_crash_count_stage2: null,
+          f_sprite_damage_count_stage1: null,
+          f_sprite_damage_count_stage2: null,
+          e_sprite_damage_count_stage1: null,
+          e_sprite_damage_count_stage2: null,
           f_damage: {
             plane_from: null,
             touch_plane: -1,
+            total_plane1: 0,
+
             loss_plane1: 0,
+            total_plane2: 0,
+
             loss_plane2: 0,
             damages: [0, 0, 0, 0, 0, 0],
             cl: [1, 1, 1, 1, 1, 1],
@@ -1093,7 +1327,11 @@ export const cells_6_5: Cells = {
           e_damage: {
             plane_from: [0, 1],
             touch_plane: 1558,
+            total_plane1: 0,
+
             loss_plane1: 0,
+            total_plane2: 0,
+
             loss_plane2: 42,
             damages: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
             cl: [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
@@ -1132,6 +1370,8 @@ export const cells_6_5: Cells = {
         },
       ],
       support_attack: null,
+      night_support_attack: null,
+
       opening_taisen: null,
       opening_raigeki: {
         fdam: [0, 0, 0, 0, 0, 0, 0],
@@ -1353,6 +1593,7 @@ export const cells_6_5: Cells = {
       e_nowhps: [350, 96, 76, 66, 37, 37, 57, 76, 35, 35, 35, 35],
       midnight_f_nowhps: [88, 61, 13, 16, 35, 56],
       midnight_e_nowhps: [128, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+      battle_result: null,
     },
   },
   event_map: null,

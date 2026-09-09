@@ -27,6 +27,7 @@ export const ships: Ships = {
       sakuteki: [17, 39],
       lucky: [12, 59],
       sally_area: null,
+      sortie_tag_id: null,
       sp_effect_items: null,
     },
     "6": {
@@ -54,6 +55,7 @@ export const ships: Ships = {
       sakuteki: [67, 49],
       lucky: [24, 61],
       sally_area: null,
+      sortie_tag_id: null,
       sp_effect_items: null,
     },
     "30": {
@@ -81,6 +83,7 @@ export const ships: Ships = {
       sakuteki: [32, 42],
       lucky: [20, 77],
       sally_area: null,
+      sortie_tag_id: null,
       sp_effect_items: null,
     },
     "34": {
@@ -108,6 +111,7 @@ export const ships: Ships = {
       sakuteki: [83, 79],
       lucky: [41, 84],
       sally_area: null,
+      sortie_tag_id: null,
       sp_effect_items: null,
     },
     "38": {
@@ -135,6 +139,7 @@ export const ships: Ships = {
       sakuteki: [70, 79],
       lucky: [13, 59],
       sally_area: null,
+      sortie_tag_id: null,
       sp_effect_items: null,
     },
     "55": {
@@ -162,6 +167,7 @@ export const ships: Ships = {
       sakuteki: [70, 52],
       lucky: [18, 82],
       sally_area: null,
+      sortie_tag_id: null,
       sp_effect_items: null,
     },
     "56": {
@@ -189,6 +195,7 @@ export const ships: Ships = {
       sakuteki: [60, 48],
       lucky: [55, 88],
       sally_area: null,
+      sortie_tag_id: null,
       sp_effect_items: null,
     },
     "63": {
@@ -216,6 +223,7 @@ export const ships: Ships = {
       sakuteki: [7, 19],
       lucky: [17, 49],
       sally_area: null,
+      sortie_tag_id: null,
       sp_effect_items: null,
     },
     "71": {
@@ -243,6 +251,7 @@ export const ships: Ships = {
       sakuteki: [16, 39],
       lucky: [10, 49],
       sally_area: null,
+      sortie_tag_id: null,
       sp_effect_items: null,
     },
     "78": {
@@ -270,6 +279,7 @@ export const ships: Ships = {
       sakuteki: [72, 59],
       lucky: [19, 70],
       sally_area: null,
+      sortie_tag_id: null,
       sp_effect_items: null,
     },
     "84": {
@@ -297,6 +307,7 @@ export const ships: Ships = {
       sakuteki: [67, 79],
       lucky: [30, 79],
       sally_area: null,
+      sortie_tag_id: null,
       sp_effect_items: null,
     },
     "90": {
@@ -324,6 +335,7 @@ export const ships: Ships = {
       sakuteki: [75, 60],
       lucky: [20, 67],
       sally_area: null,
+      sortie_tag_id: null,
       sp_effect_items: null,
     },
     "99": {
@@ -351,6 +363,7 @@ export const ships: Ships = {
       sakuteki: [32, 49],
       lucky: [10, 59],
       sally_area: null,
+      sortie_tag_id: null,
       sp_effect_items: null,
     },
     "103": {
@@ -378,6 +391,7 @@ export const ships: Ships = {
       sakuteki: [111, 85],
       lucky: [16, 76],
       sally_area: null,
+      sortie_tag_id: null,
       sp_effect_items: null,
     },
     "122": {
@@ -405,6 +419,7 @@ export const ships: Ships = {
       sakuteki: [63, 58],
       lucky: [19, 76],
       sally_area: null,
+      sortie_tag_id: null,
       sp_effect_items: null,
     },
     "126": {
@@ -432,6 +447,7 @@ export const ships: Ships = {
       sakuteki: [10, 39],
       lucky: [10, 49],
       sally_area: null,
+      sortie_tag_id: null,
       sp_effect_items: null,
     },
     "133": {
@@ -459,6 +475,7 @@ export const ships: Ships = {
       sakuteki: [58, 55],
       lucky: [37, 97],
       sally_area: null,
+      sortie_tag_id: null,
       sp_effect_items: null,
     },
     "138": {
@@ -486,6 +503,7 @@ export const ships: Ships = {
       sakuteki: [57, 49],
       lucky: [15, 89],
       sally_area: null,
+      sortie_tag_id: null,
       sp_effect_items: null,
     },
     "142": {
@@ -513,6 +531,7 @@ export const ships: Ships = {
       sakuteki: [75, 56],
       lucky: [25, 88],
       sally_area: null,
+      sortie_tag_id: null,
       sp_effect_items: null,
     },
     "174": {
@@ -540,6 +559,7 @@ export const ships: Ships = {
       sakuteki: [47, 39],
       lucky: [25, 69],
       sally_area: null,
+      sortie_tag_id: null,
       sp_effect_items: null,
     },
     "175": {
@@ -567,6 +587,7 @@ export const ships: Ships = {
       sakuteki: [55, 60],
       lucky: [20, 74],
       sally_area: null,
+      sortie_tag_id: null,
       sp_effect_items: null,
     },
     "185": {
@@ -594,6 +615,7 @@ export const ships: Ships = {
       sakuteki: [91, 81],
       lucky: [17, 75],
       sally_area: null,
+      sortie_tag_id: null,
       sp_effect_items: null,
     },
     "227": {
@@ -621,6 +643,7 @@ export const ships: Ships = {
       sakuteki: [60, 79],
       lucky: [10, 59],
       sally_area: null,
+      sortie_tag_id: null,
       sp_effect_items: null,
     },
     "315": {
@@ -648,6 +671,7 @@ export const ships: Ships = {
       sakuteki: [13, 39],
       lucky: [10, 49],
       sally_area: null,
+      sortie_tag_id: null,
       sp_effect_items: null,
     },
     "318": {
@@ -675,6 +699,7 @@ export const ships: Ships = {
       sakuteki: [63, 55],
       lucky: [21, 70],
       sally_area: null,
+      sortie_tag_id: null,
       sp_effect_items: null,
     },
     "324": {
@@ -702,6 +727,7 @@ export const ships: Ships = {
       sakuteki: [81, 75],
       lucky: [44, 93],
       sally_area: null,
+      sortie_tag_id: null,
       sp_effect_items: null,
     },
     "329": {
@@ -729,6 +755,7 @@ export const ships: Ships = {
       sakuteki: [85, 93],
       lucky: [15, 77],
       sally_area: null,
+      sortie_tag_id: null,
       sp_effect_items: null,
     },
     "334": {
@@ -756,6 +783,7 @@ export const ships: Ships = {
       sakuteki: [50, 51],
       lucky: [41, 93],
       sally_area: null,
+      sortie_tag_id: null,
       sp_effect_items: null,
     },
     "338": {
@@ -783,6 +811,7 @@ export const ships: Ships = {
       sakuteki: [63, 55],
       lucky: [20, 64],
       sally_area: null,
+      sortie_tag_id: null,
       sp_effect_items: null,
     },
     "339": {
@@ -810,6 +839,7 @@ export const ships: Ships = {
       sakuteki: [11, 39],
       lucky: [20, 69],
       sally_area: null,
+      sortie_tag_id: null,
       sp_effect_items: null,
     },
     "352": {
@@ -837,6 +867,7 @@ export const ships: Ships = {
       sakuteki: [41, 49],
       lucky: [12, 59],
       sally_area: null,
+      sortie_tag_id: null,
       sp_effect_items: null,
     },
     "361": {
@@ -864,6 +895,7 @@ export const ships: Ships = {
       sakuteki: [69, 50],
       lucky: [66, 100],
       sally_area: null,
+      sortie_tag_id: null,
       sp_effect_items: null,
     },
     "369": {
@@ -891,6 +923,7 @@ export const ships: Ships = {
       sakuteki: [52, 44],
       lucky: [25, 80],
       sally_area: null,
+      sortie_tag_id: null,
       sp_effect_items: null,
     },
     "391": {
@@ -918,6 +951,7 @@ export const ships: Ships = {
       sakuteki: [13, 39],
       lucky: [10, 49],
       sally_area: null,
+      sortie_tag_id: null,
       sp_effect_items: null,
     },
     "394": {
@@ -945,6 +979,7 @@ export const ships: Ships = {
       sakuteki: [19, 49],
       lucky: [12, 59],
       sally_area: null,
+      sortie_tag_id: null,
       sp_effect_items: null,
     },
     "411": {
@@ -972,6 +1007,7 @@ export const ships: Ships = {
       sakuteki: [66, 50],
       lucky: [19, 80],
       sally_area: null,
+      sortie_tag_id: null,
       sp_effect_items: null,
     },
     "439": {
@@ -999,6 +1035,7 @@ export const ships: Ships = {
       sakuteki: [63, 55],
       lucky: [14, 80],
       sally_area: null,
+      sortie_tag_id: null,
       sp_effect_items: null,
     },
     "454": {
@@ -1026,6 +1063,7 @@ export const ships: Ships = {
       sakuteki: [23, 39],
       lucky: [12, 59],
       sally_area: null,
+      sortie_tag_id: null,
       sp_effect_items: null,
     },
     "461": {
@@ -1053,6 +1091,7 @@ export const ships: Ships = {
       sakuteki: [15, 39],
       lucky: [12, 59],
       sally_area: null,
+      sortie_tag_id: null,
       sp_effect_items: null,
     },
     "474": {
@@ -1080,6 +1119,7 @@ export const ships: Ships = {
       sakuteki: [14, 39],
       lucky: [20, 69],
       sally_area: null,
+      sortie_tag_id: null,
       sp_effect_items: null,
     },
     "479": {
@@ -1107,6 +1147,7 @@ export const ships: Ships = {
       sakuteki: [61, 49],
       lucky: [58, 100],
       sally_area: null,
+      sortie_tag_id: null,
       sp_effect_items: null,
     },
     "481": {
@@ -1134,6 +1175,7 @@ export const ships: Ships = {
       sakuteki: [76, 50],
       lucky: [45, 88],
       sally_area: null,
+      sortie_tag_id: null,
       sp_effect_items: {
         items: {
           "1": {
@@ -1171,6 +1213,7 @@ export const ships: Ships = {
       sakuteki: [36, 43],
       lucky: [24, 88],
       sally_area: null,
+      sortie_tag_id: null,
       sp_effect_items: null,
     },
     "501": {
@@ -1198,6 +1241,7 @@ export const ships: Ships = {
       sakuteki: [32, 49],
       lucky: [10, 59],
       sally_area: null,
+      sortie_tag_id: null,
       sp_effect_items: null,
     },
     "516": {
@@ -1225,6 +1269,7 @@ export const ships: Ships = {
       sakuteki: [105, 93],
       lucky: [20, 68],
       sally_area: null,
+      sortie_tag_id: null,
       sp_effect_items: null,
     },
     "543": {
@@ -1252,6 +1297,7 @@ export const ships: Ships = {
       sakuteki: [18, 39],
       lucky: [12, 59],
       sally_area: null,
+      sortie_tag_id: null,
       sp_effect_items: null,
     },
     "544": {
@@ -1279,6 +1325,7 @@ export const ships: Ships = {
       sakuteki: [32, 39],
       lucky: [12, 59],
       sally_area: null,
+      sortie_tag_id: null,
       sp_effect_items: null,
     },
     "560": {
@@ -1306,6 +1353,7 @@ export const ships: Ships = {
       sakuteki: [49, 43],
       lucky: [33, 79],
       sally_area: null,
+      sortie_tag_id: null,
       sp_effect_items: null,
     },
     "567": {
@@ -1333,6 +1381,7 @@ export const ships: Ships = {
       sakuteki: [5, 17],
       lucky: [10, 49],
       sally_area: null,
+      sortie_tag_id: null,
       sp_effect_items: null,
     },
     "569": {
@@ -1360,6 +1409,7 @@ export const ships: Ships = {
       sakuteki: [27, 39],
       lucky: [15, 59],
       sally_area: null,
+      sortie_tag_id: null,
       sp_effect_items: null,
     },
     "576": {
@@ -1387,6 +1437,7 @@ export const ships: Ships = {
       sakuteki: [104, 91],
       lucky: [20, 77],
       sally_area: null,
+      sortie_tag_id: null,
       sp_effect_items: null,
     },
     "582": {
@@ -1414,6 +1465,7 @@ export const ships: Ships = {
       sakuteki: [52, 45],
       lucky: [24, 79],
       sally_area: null,
+      sortie_tag_id: null,
       sp_effect_items: null,
     },
     "589": {
@@ -1441,6 +1493,7 @@ export const ships: Ships = {
       sakuteki: [22, 39],
       lucky: [12, 59],
       sally_area: null,
+      sortie_tag_id: null,
       sp_effect_items: null,
     },
     "601": {
@@ -1468,6 +1521,7 @@ export const ships: Ships = {
       sakuteki: [73, 79],
       lucky: [13, 59],
       sally_area: null,
+      sortie_tag_id: null,
       sp_effect_items: null,
     },
     "629": {
@@ -1495,6 +1549,7 @@ export const ships: Ships = {
       sakuteki: [27, 39],
       lucky: [12, 59],
       sally_area: null,
+      sortie_tag_id: null,
       sp_effect_items: null,
     },
     "647": {
@@ -1522,6 +1577,7 @@ export const ships: Ships = {
       sakuteki: [71, 61],
       lucky: [32, 80],
       sally_area: null,
+      sortie_tag_id: null,
       sp_effect_items: null,
     },
     "685": {
@@ -1549,6 +1605,7 @@ export const ships: Ships = {
       sakuteki: [72, 72],
       lucky: [43, 92],
       sally_area: null,
+      sortie_tag_id: null,
       sp_effect_items: null,
     },
     "700": {
@@ -1576,6 +1633,7 @@ export const ships: Ships = {
       sakuteki: [48, 49],
       lucky: [14, 84],
       sally_area: null,
+      sortie_tag_id: null,
       sp_effect_items: null,
     },
     "701": {
@@ -1603,6 +1661,7 @@ export const ships: Ships = {
       sakuteki: [27, 28],
       lucky: [40, 88],
       sally_area: null,
+      sortie_tag_id: null,
       sp_effect_items: null,
     },
     "732": {
@@ -1630,6 +1689,7 @@ export const ships: Ships = {
       sakuteki: [93, 77],
       lucky: [47, 93],
       sally_area: null,
+      sortie_tag_id: null,
       sp_effect_items: null,
     },
     "757": {
@@ -1657,6 +1717,7 @@ export const ships: Ships = {
       sakuteki: [26, 29],
       lucky: [10, 49],
       sally_area: null,
+      sortie_tag_id: null,
       sp_effect_items: null,
     },
     "776": {
@@ -1684,6 +1745,7 @@ export const ships: Ships = {
       sakuteki: [38, 42],
       lucky: [12, 59],
       sally_area: null,
+      sortie_tag_id: null,
       sp_effect_items: null,
     },
     "797": {
@@ -1711,6 +1773,7 @@ export const ships: Ships = {
       sakuteki: [29, 49],
       lucky: [10, 59],
       sally_area: null,
+      sortie_tag_id: null,
       sp_effect_items: null,
     },
     "887": {
@@ -1738,6 +1801,7 @@ export const ships: Ships = {
       sakuteki: [36, 39],
       lucky: [50, 79],
       sally_area: null,
+      sortie_tag_id: null,
       sp_effect_items: null,
     },
     "890": {
@@ -1765,6 +1829,7 @@ export const ships: Ships = {
       sakuteki: [22, 39],
       lucky: [12, 49],
       sally_area: null,
+      sortie_tag_id: null,
       sp_effect_items: null,
     },
     "893": {
@@ -1792,6 +1857,7 @@ export const ships: Ships = {
       sakuteki: [54, 43],
       lucky: [19, 49],
       sally_area: null,
+      sortie_tag_id: null,
       sp_effect_items: null,
     },
     "894": {
@@ -1819,6 +1885,7 @@ export const ships: Ships = {
       sakuteki: [16, 39],
       lucky: [20, 79],
       sally_area: null,
+      sortie_tag_id: null,
       sp_effect_items: null,
     },
     "927": {
@@ -1846,6 +1913,7 @@ export const ships: Ships = {
       sakuteki: [54, 64],
       lucky: [16, 71],
       sally_area: null,
+      sortie_tag_id: null,
       sp_effect_items: null,
     },
     "944": {
@@ -1873,6 +1941,7 @@ export const ships: Ships = {
       sakuteki: [1, 9],
       lucky: [7, 77],
       sally_area: null,
+      sortie_tag_id: null,
       sp_effect_items: null,
     },
     "992": {
@@ -1900,6 +1969,7 @@ export const ships: Ships = {
       sakuteki: [93, 89],
       lucky: [58, 98],
       sally_area: null,
+      sortie_tag_id: null,
       sp_effect_items: null,
     },
     "1092": {
@@ -1927,6 +1997,7 @@ export const ships: Ships = {
       sakuteki: [45, 58],
       lucky: [18, 68],
       sally_area: null,
+      sortie_tag_id: null,
       sp_effect_items: null,
     },
     "1144": {
@@ -1954,6 +2025,7 @@ export const ships: Ships = {
       sakuteki: [36, 39],
       lucky: [13, 59],
       sally_area: null,
+      sortie_tag_id: null,
       sp_effect_items: null,
     },
     "1162": {
@@ -1981,6 +2053,7 @@ export const ships: Ships = {
       sakuteki: [106, 90],
       lucky: [22, 74],
       sally_area: null,
+      sortie_tag_id: null,
       sp_effect_items: null,
     },
     "1186": {
@@ -2008,6 +2081,7 @@ export const ships: Ships = {
       sakuteki: [58, 49],
       lucky: [44, 84],
       sally_area: null,
+      sortie_tag_id: null,
       sp_effect_items: null,
     },
     "1227": {
@@ -2035,6 +2109,7 @@ export const ships: Ships = {
       sakuteki: [86, 94],
       lucky: [10, 54],
       sally_area: null,
+      sortie_tag_id: null,
       sp_effect_items: null,
     },
     "1251": {
@@ -2062,6 +2137,7 @@ export const ships: Ships = {
       sakuteki: [24, 39],
       lucky: [17, 69],
       sally_area: null,
+      sortie_tag_id: null,
       sp_effect_items: null,
     },
     "1271": {
@@ -2089,6 +2165,7 @@ export const ships: Ships = {
       sakuteki: [67, 52],
       lucky: [29, 90],
       sally_area: null,
+      sortie_tag_id: null,
       sp_effect_items: null,
     },
     "1358": {
@@ -2116,6 +2193,7 @@ export const ships: Ships = {
       sakuteki: [5, 19],
       lucky: [7, 49],
       sally_area: null,
+      sortie_tag_id: null,
       sp_effect_items: null,
     },
     "1376": {
@@ -2143,6 +2221,7 @@ export const ships: Ships = {
       sakuteki: [21, 39],
       lucky: [12, 59],
       sally_area: null,
+      sortie_tag_id: null,
       sp_effect_items: null,
     },
     "1455": {
@@ -2170,6 +2249,7 @@ export const ships: Ships = {
       sakuteki: [38, 47],
       lucky: [20, 88],
       sally_area: null,
+      sortie_tag_id: null,
       sp_effect_items: null,
     },
     "1469": {
@@ -2197,6 +2277,7 @@ export const ships: Ships = {
       sakuteki: [46, 44],
       lucky: [33, 88],
       sally_area: null,
+      sortie_tag_id: null,
       sp_effect_items: null,
     },
     "1531": {
@@ -2224,6 +2305,7 @@ export const ships: Ships = {
       sakuteki: [63, 45],
       lucky: [36, 80],
       sally_area: null,
+      sortie_tag_id: null,
       sp_effect_items: null,
     },
     "1552": {
@@ -2251,6 +2333,7 @@ export const ships: Ships = {
       sakuteki: [5, 15],
       lucky: [17, 67],
       sally_area: null,
+      sortie_tag_id: null,
       sp_effect_items: null,
     },
     "1569": {
@@ -2278,6 +2361,7 @@ export const ships: Ships = {
       sakuteki: [27, 28],
       lucky: [10, 59],
       sally_area: null,
+      sortie_tag_id: null,
       sp_effect_items: null,
     },
     "1668": {
@@ -2305,6 +2389,7 @@ export const ships: Ships = {
       sakuteki: [47, 60],
       lucky: [40, 82],
       sally_area: null,
+      sortie_tag_id: null,
       sp_effect_items: null,
     },
     "1682": {
@@ -2332,6 +2417,7 @@ export const ships: Ships = {
       sakuteki: [106, 90],
       lucky: [20, 97],
       sally_area: null,
+      sortie_tag_id: null,
       sp_effect_items: null,
     },
     "1695": {
@@ -2359,6 +2445,7 @@ export const ships: Ships = {
       sakuteki: [47, 84],
       lucky: [30, 84],
       sally_area: null,
+      sortie_tag_id: null,
       sp_effect_items: null,
     },
     "1726": {
@@ -2386,6 +2473,7 @@ export const ships: Ships = {
       sakuteki: [78, 77],
       lucky: [5, 39],
       sally_area: null,
+      sortie_tag_id: null,
       sp_effect_items: null,
     },
     "1807": {
@@ -2413,6 +2501,7 @@ export const ships: Ships = {
       sakuteki: [53, 44],
       lucky: [34, 99],
       sally_area: null,
+      sortie_tag_id: null,
       sp_effect_items: null,
     },
     "1808": {
@@ -2440,6 +2529,7 @@ export const ships: Ships = {
       sakuteki: [28, 29],
       lucky: [9, 59],
       sally_area: null,
+      sortie_tag_id: null,
       sp_effect_items: null,
     },
     "1809": {
@@ -2467,6 +2557,7 @@ export const ships: Ships = {
       sakuteki: [31, 42],
       lucky: [12, 59],
       sally_area: null,
+      sortie_tag_id: null,
       sp_effect_items: null,
     },
     "1840": {
@@ -2494,6 +2585,7 @@ export const ships: Ships = {
       sakuteki: [8, 24],
       lucky: [8, 48],
       sally_area: null,
+      sortie_tag_id: null,
       sp_effect_items: null,
     },
     "1847": {
@@ -2521,6 +2613,7 @@ export const ships: Ships = {
       sakuteki: [24, 80],
       lucky: [24, 69],
       sally_area: null,
+      sortie_tag_id: null,
       sp_effect_items: null,
     },
     "1848": {
@@ -2548,6 +2641,7 @@ export const ships: Ships = {
       sakuteki: [56, 49],
       lucky: [14, 59],
       sally_area: null,
+      sortie_tag_id: null,
       sp_effect_items: null,
     },
     "1849": {
@@ -2575,6 +2669,7 @@ export const ships: Ships = {
       sakuteki: [18, 64],
       lucky: [9, 59],
       sally_area: null,
+      sortie_tag_id: null,
       sp_effect_items: null,
     },
     "1864": {
@@ -2602,6 +2697,7 @@ export const ships: Ships = {
       sakuteki: [18, 64],
       lucky: [9, 59],
       sally_area: null,
+      sortie_tag_id: null,
       sp_effect_items: null,
     },
     "1895": {
@@ -2629,6 +2725,7 @@ export const ships: Ships = {
       sakuteki: [39, 48],
       lucky: [20, 59],
       sally_area: null,
+      sortie_tag_id: null,
       sp_effect_items: null,
     },
     "1901": {
@@ -2656,6 +2753,7 @@ export const ships: Ships = {
       sakuteki: [23, 38],
       lucky: [11, 50],
       sally_area: null,
+      sortie_tag_id: null,
       sp_effect_items: null,
     },
     "1904": {
@@ -2683,6 +2781,7 @@ export const ships: Ships = {
       sakuteki: [15, 50],
       lucky: [12, 55],
       sally_area: null,
+      sortie_tag_id: null,
       sp_effect_items: null,
     },
     "1905": {
@@ -2710,6 +2809,7 @@ export const ships: Ships = {
       sakuteki: [5, 17],
       lucky: [10, 49],
       sally_area: null,
+      sortie_tag_id: null,
       sp_effect_items: null,
     },
     "1910": {
@@ -2737,6 +2837,7 @@ export const ships: Ships = {
       sakuteki: [15, 29],
       lucky: [9, 59],
       sally_area: null,
+      sortie_tag_id: null,
       sp_effect_items: null,
     },
     "1921": {
@@ -2764,6 +2865,7 @@ export const ships: Ships = {
       sakuteki: [44, 56],
       lucky: [12, 58],
       sally_area: null,
+      sortie_tag_id: null,
       sp_effect_items: null,
     },
     "1923": {
@@ -2791,6 +2893,7 @@ export const ships: Ships = {
       sakuteki: [44, 62],
       lucky: [40, 100],
       sally_area: null,
+      sortie_tag_id: null,
       sp_effect_items: null,
     },
     "1927": {
@@ -2818,6 +2921,7 @@ export const ships: Ships = {
       sakuteki: [78, 54],
       lucky: [23, 85],
       sally_area: null,
+      sortie_tag_id: null,
       sp_effect_items: {
         items: {
           "1": {
@@ -2855,6 +2959,7 @@ export const ships: Ships = {
       sakuteki: [37, 59],
       lucky: [8, 44],
       sally_area: null,
+      sortie_tag_id: null,
       sp_effect_items: null,
     },
     "1942": {
@@ -2882,6 +2987,7 @@ export const ships: Ships = {
       sakuteki: [28, 30],
       lucky: [50, 97],
       sally_area: null,
+      sortie_tag_id: null,
       sp_effect_items: null,
     },
     "1954": {
@@ -2909,6 +3015,7 @@ export const ships: Ships = {
       sakuteki: [20, 52],
       lucky: [14, 54],
       sally_area: null,
+      sortie_tag_id: null,
       sp_effect_items: null,
     },
     "1959": {
@@ -2936,6 +3043,7 @@ export const ships: Ships = {
       sakuteki: [15, 40],
       lucky: [7, 39],
       sally_area: null,
+      sortie_tag_id: null,
       sp_effect_items: null,
     },
     "1970": {
@@ -2963,6 +3071,7 @@ export const ships: Ships = {
       sakuteki: [46, 44],
       lucky: [28, 86],
       sally_area: null,
+      sortie_tag_id: null,
       sp_effect_items: null,
     },
     "2027": {
@@ -2990,6 +3099,7 @@ export const ships: Ships = {
       sakuteki: [20, 33],
       lucky: [30, 89],
       sally_area: null,
+      sortie_tag_id: null,
       sp_effect_items: null,
     },
     "2033": {
@@ -3017,6 +3127,7 @@ export const ships: Ships = {
       sakuteki: [48, 55],
       lucky: [10, 55],
       sally_area: null,
+      sortie_tag_id: null,
       sp_effect_items: null,
     },
     "2045": {
@@ -3044,6 +3155,7 @@ export const ships: Ships = {
       sakuteki: [37, 41],
       lucky: [16, 66],
       sally_area: null,
+      sortie_tag_id: null,
       sp_effect_items: null,
     },
     "2051": {
@@ -3071,6 +3183,7 @@ export const ships: Ships = {
       sakuteki: [94, 84],
       lucky: [33, 84],
       sally_area: null,
+      sortie_tag_id: null,
       sp_effect_items: null,
     },
     "2131": {
@@ -3098,6 +3211,7 @@ export const ships: Ships = {
       sakuteki: [91, 96],
       lucky: [10, 60],
       sally_area: null,
+      sortie_tag_id: null,
       sp_effect_items: null,
     },
     "2142": {
@@ -3125,6 +3239,7 @@ export const ships: Ships = {
       sakuteki: [5, 19],
       lucky: [10, 49],
       sally_area: null,
+      sortie_tag_id: null,
       sp_effect_items: null,
     },
     "2160": {
@@ -3152,6 +3267,7 @@ export const ships: Ships = {
       sakuteki: [29, 30],
       lucky: [10, 59],
       sally_area: null,
+      sortie_tag_id: null,
       sp_effect_items: null,
     },
     "2175": {
@@ -3179,6 +3295,7 @@ export const ships: Ships = {
       sakuteki: [61, 53],
       lucky: [22, 75],
       sally_area: null,
+      sortie_tag_id: null,
       sp_effect_items: null,
     },
     "2178": {
@@ -3206,6 +3323,7 @@ export const ships: Ships = {
       sakuteki: [18, 48],
       lucky: [20, 79],
       sally_area: null,
+      sortie_tag_id: null,
       sp_effect_items: null,
     },
     "2384": {
@@ -3233,6 +3351,7 @@ export const ships: Ships = {
       sakuteki: [104, 90],
       lucky: [53, 99],
       sally_area: null,
+      sortie_tag_id: null,
       sp_effect_items: null,
     },
     "2386": {
@@ -3260,6 +3379,7 @@ export const ships: Ships = {
       sakuteki: [48, 63],
       lucky: [7, 47],
       sally_area: null,
+      sortie_tag_id: null,
       sp_effect_items: null,
     },
     "2402": {
@@ -3287,6 +3407,7 @@ export const ships: Ships = {
       sakuteki: [3, 6],
       lucky: [12, 49],
       sally_area: null,
+      sortie_tag_id: null,
       sp_effect_items: null,
     },
     "2434": {
@@ -3314,6 +3435,7 @@ export const ships: Ships = {
       sakuteki: [15, 39],
       lucky: [12, 49],
       sally_area: null,
+      sortie_tag_id: null,
       sp_effect_items: null,
     },
     "2472": {
@@ -3341,6 +3463,7 @@ export const ships: Ships = {
       sakuteki: [15, 39],
       lucky: [12, 49],
       sally_area: null,
+      sortie_tag_id: null,
       sp_effect_items: null,
     },
     "2571": {
@@ -3368,6 +3491,7 @@ export const ships: Ships = {
       sakuteki: [68, 79],
       lucky: [12, 59],
       sally_area: null,
+      sortie_tag_id: null,
       sp_effect_items: null,
     },
     "2575": {
@@ -3395,6 +3519,7 @@ export const ships: Ships = {
       sakuteki: [56, 57],
       lucky: [20, 75],
       sally_area: null,
+      sortie_tag_id: null,
       sp_effect_items: null,
     },
     "2580": {
@@ -3422,6 +3547,7 @@ export const ships: Ships = {
       sakuteki: [32, 42],
       lucky: [8, 59],
       sally_area: null,
+      sortie_tag_id: null,
       sp_effect_items: null,
     },
     "2872": {
@@ -3449,6 +3575,7 @@ export const ships: Ships = {
       sakuteki: [58, 60],
       lucky: [17, 72],
       sally_area: null,
+      sortie_tag_id: null,
       sp_effect_items: null,
     },
     "3006": {
@@ -3476,6 +3603,7 @@ export const ships: Ships = {
       sakuteki: [17, 39],
       lucky: [12, 59],
       sally_area: null,
+      sortie_tag_id: null,
       sp_effect_items: null,
     },
     "3061": {
@@ -3503,6 +3631,7 @@ export const ships: Ships = {
       sakuteki: [98, 80],
       lucky: [28, 80],
       sally_area: null,
+      sortie_tag_id: null,
       sp_effect_items: null,
     },
     "3135": {
@@ -3530,6 +3659,7 @@ export const ships: Ships = {
       sakuteki: [8, 39],
       lucky: [12, 49],
       sally_area: null,
+      sortie_tag_id: null,
       sp_effect_items: null,
     },
     "3218": {
@@ -3557,6 +3687,7 @@ export const ships: Ships = {
       sakuteki: [15, 20],
       lucky: [30, 60],
       sally_area: null,
+      sortie_tag_id: null,
       sp_effect_items: null,
     },
     "3227": {
@@ -3584,6 +3715,7 @@ export const ships: Ships = {
       sakuteki: [27, 38],
       lucky: [23, 80],
       sally_area: null,
+      sortie_tag_id: null,
       sp_effect_items: null,
     },
     "3240": {
@@ -3611,6 +3743,7 @@ export const ships: Ships = {
       sakuteki: [14, 45],
       lucky: [20, 49],
       sally_area: null,
+      sortie_tag_id: null,
       sp_effect_items: null,
     },
     "3244": {
@@ -3638,6 +3771,7 @@ export const ships: Ships = {
       sakuteki: [72, 55],
       lucky: [43, 108],
       sally_area: null,
+      sortie_tag_id: null,
       sp_effect_items: null,
     },
     "3245": {
@@ -3665,6 +3799,7 @@ export const ships: Ships = {
       sakuteki: [3, 6],
       lucky: [12, 49],
       sally_area: null,
+      sortie_tag_id: null,
       sp_effect_items: null,
     },
     "3294": {
@@ -3692,6 +3827,7 @@ export const ships: Ships = {
       sakuteki: [3, 14],
       lucky: [37, 78],
       sally_area: null,
+      sortie_tag_id: null,
       sp_effect_items: null,
     },
     "3307": {
@@ -3719,6 +3855,7 @@ export const ships: Ships = {
       sakuteki: [29, 48],
       lucky: [9, 49],
       sally_area: null,
+      sortie_tag_id: null,
       sp_effect_items: null,
     },
     "3337": {
@@ -3746,6 +3883,7 @@ export const ships: Ships = {
       sakuteki: [1, 4],
       lucky: [18, 33],
       sally_area: null,
+      sortie_tag_id: null,
       sp_effect_items: null,
     },
     "3375": {
@@ -3773,6 +3911,7 @@ export const ships: Ships = {
       sakuteki: [3, 14],
       lucky: [37, 78],
       sally_area: null,
+      sortie_tag_id: null,
       sp_effect_items: null,
     },
     "3393": {
@@ -3800,6 +3939,7 @@ export const ships: Ships = {
       sakuteki: [65, 61],
       lucky: [13, 77],
       sally_area: null,
+      sortie_tag_id: null,
       sp_effect_items: null,
     },
     "3433": {
@@ -3827,6 +3967,7 @@ export const ships: Ships = {
       sakuteki: [17, 42],
       lucky: [16, 86],
       sally_area: null,
+      sortie_tag_id: null,
       sp_effect_items: null,
     },
     "3446": {
@@ -3854,6 +3995,7 @@ export const ships: Ships = {
       sakuteki: [8, 39],
       lucky: [12, 49],
       sally_area: null,
+      sortie_tag_id: null,
       sp_effect_items: null,
     },
     "3539": {
@@ -3881,6 +4023,7 @@ export const ships: Ships = {
       sakuteki: [6, 19],
       lucky: [10, 49],
       sally_area: null,
+      sortie_tag_id: null,
       sp_effect_items: null,
     },
     "3613": {
@@ -3908,6 +4051,7 @@ export const ships: Ships = {
       sakuteki: [5, 15],
       lucky: [17, 67],
       sally_area: null,
+      sortie_tag_id: null,
       sp_effect_items: null,
     },
     "3625": {
@@ -3935,6 +4079,7 @@ export const ships: Ships = {
       sakuteki: [6, 19],
       lucky: [8, 49],
       sally_area: null,
+      sortie_tag_id: null,
       sp_effect_items: null,
     },
     "3639": {
@@ -3962,6 +4107,7 @@ export const ships: Ships = {
       sakuteki: [45, 70],
       lucky: [28, 67],
       sally_area: null,
+      sortie_tag_id: null,
       sp_effect_items: null,
     },
     "3670": {
@@ -3989,6 +4135,7 @@ export const ships: Ships = {
       sakuteki: [5, 20],
       lucky: [10, 48],
       sally_area: null,
+      sortie_tag_id: null,
       sp_effect_items: null,
     },
     "3697": {
@@ -4016,6 +4163,7 @@ export const ships: Ships = {
       sakuteki: [5, 15],
       lucky: [17, 67],
       sally_area: null,
+      sortie_tag_id: null,
       sp_effect_items: null,
     },
     "3721": {
@@ -4043,6 +4191,7 @@ export const ships: Ships = {
       sakuteki: [50, 80],
       lucky: [45, 90],
       sally_area: null,
+      sortie_tag_id: null,
       sp_effect_items: null,
     },
     "3779": {
@@ -4070,6 +4219,7 @@ export const ships: Ships = {
       sakuteki: [6, 19],
       lucky: [10, 49],
       sally_area: null,
+      sortie_tag_id: null,
       sp_effect_items: null,
     },
     "3812": {
@@ -4097,6 +4247,7 @@ export const ships: Ships = {
       sakuteki: [27, 28],
       lucky: [50, 89],
       sally_area: null,
+      sortie_tag_id: null,
       sp_effect_items: null,
     },
     "3871": {
@@ -4124,6 +4275,7 @@ export const ships: Ships = {
       sakuteki: [25, 24],
       lucky: [13, 73],
       sally_area: null,
+      sortie_tag_id: null,
       sp_effect_items: null,
     },
     "3899": {
@@ -4151,6 +4303,7 @@ export const ships: Ships = {
       sakuteki: [9, 18],
       lucky: [30, 79],
       sally_area: null,
+      sortie_tag_id: null,
       sp_effect_items: null,
     },
     "4074": {
@@ -4178,6 +4331,7 @@ export const ships: Ships = {
       sakuteki: [7, 14],
       lucky: [35, 78],
       sally_area: null,
+      sortie_tag_id: null,
       sp_effect_items: null,
     },
     "4116": {
@@ -4205,6 +4359,7 @@ export const ships: Ships = {
       sakuteki: [6, 19],
       lucky: [11, 49],
       sally_area: null,
+      sortie_tag_id: null,
       sp_effect_items: null,
     },
     "4145": {
@@ -4232,6 +4387,7 @@ export const ships: Ships = {
       sakuteki: [52, 61],
       lucky: [10, 56],
       sally_area: null,
+      sortie_tag_id: null,
       sp_effect_items: null,
     },
     "4148": {
@@ -4259,6 +4415,7 @@ export const ships: Ships = {
       sakuteki: [3, 19],
       lucky: [8, 53],
       sally_area: null,
+      sortie_tag_id: null,
       sp_effect_items: null,
     },
     "4214": {
@@ -4286,6 +4443,7 @@ export const ships: Ships = {
       sakuteki: [7, 12],
       lucky: [55, 110],
       sally_area: null,
+      sortie_tag_id: null,
       sp_effect_items: null,
     },
     "4220": {
@@ -4313,6 +4471,7 @@ export const ships: Ships = {
       sakuteki: [4, 14],
       lucky: [35, 78],
       sally_area: null,
+      sortie_tag_id: null,
       sp_effect_items: null,
     },
     "4227": {
@@ -4340,6 +4499,7 @@ export const ships: Ships = {
       sakuteki: [17, 41],
       lucky: [11, 55],
       sally_area: null,
+      sortie_tag_id: null,
       sp_effect_items: null,
     },
     "4250": {
@@ -4367,6 +4527,7 @@ export const ships: Ships = {
       sakuteki: [58, 50],
       lucky: [30, 89],
       sally_area: null,
+      sortie_tag_id: null,
       sp_effect_items: null,
     },
     "4252": {
@@ -4394,6 +4555,7 @@ export const ships: Ships = {
       sakuteki: [4, 19],
       lucky: [7, 49],
       sally_area: null,
+      sortie_tag_id: null,
       sp_effect_items: null,
     },
     "4299": {
@@ -4421,6 +4583,7 @@ export const ships: Ships = {
       sakuteki: [84, 60],
       lucky: [22, 89],
       sally_area: null,
+      sortie_tag_id: null,
       sp_effect_items: {
         items: {
           "2": {
@@ -4458,6 +4621,7 @@ export const ships: Ships = {
       sakuteki: [20, 38],
       lucky: [11, 50],
       sally_area: null,
+      sortie_tag_id: null,
       sp_effect_items: null,
     },
     "4301": {
@@ -4485,6 +4649,7 @@ export const ships: Ships = {
       sakuteki: [21, 37],
       lucky: [17, 77],
       sally_area: null,
+      sortie_tag_id: null,
       sp_effect_items: null,
     },
     "4302": {
@@ -4512,6 +4677,7 @@ export const ships: Ships = {
       sakuteki: [12, 45],
       lucky: [20, 49],
       sally_area: null,
+      sortie_tag_id: null,
       sp_effect_items: null,
     },
     "4304": {
@@ -4539,6 +4705,7 @@ export const ships: Ships = {
       sakuteki: [60, 49],
       lucky: [40, 90],
       sally_area: null,
+      sortie_tag_id: null,
       sp_effect_items: null,
     },
     "4318": {
@@ -4566,6 +4733,7 @@ export const ships: Ships = {
       sakuteki: [12, 45],
       lucky: [20, 49],
       sally_area: null,
+      sortie_tag_id: null,
       sp_effect_items: null,
     },
     "4339": {
@@ -4593,6 +4761,7 @@ export const ships: Ships = {
       sakuteki: [20, 37],
       lucky: [17, 77],
       sally_area: null,
+      sortie_tag_id: null,
       sp_effect_items: null,
     },
     "4352": {
@@ -4620,6 +4789,7 @@ export const ships: Ships = {
       sakuteki: [20, 38],
       lucky: [11, 50],
       sally_area: null,
+      sortie_tag_id: null,
       sp_effect_items: null,
     },
     "4448": {
@@ -4647,6 +4817,7 @@ export const ships: Ships = {
       sakuteki: [20, 39],
       lucky: [12, 59],
       sally_area: null,
+      sortie_tag_id: null,
       sp_effect_items: null,
     },
     "4490": {
@@ -4674,6 +4845,7 @@ export const ships: Ships = {
       sakuteki: [6, 19],
       lucky: [11, 49],
       sally_area: null,
+      sortie_tag_id: null,
       sp_effect_items: null,
     },
     "4492": {
@@ -4701,6 +4873,7 @@ export const ships: Ships = {
       sakuteki: [27, 39],
       lucky: [12, 49],
       sally_area: null,
+      sortie_tag_id: null,
       sp_effect_items: null,
     },
     "4494": {
@@ -4728,6 +4901,7 @@ export const ships: Ships = {
       sakuteki: [47, 47],
       lucky: [17, 77],
       sally_area: null,
+      sortie_tag_id: null,
       sp_effect_items: null,
     },
     "4500": {
@@ -4755,6 +4929,7 @@ export const ships: Ships = {
       sakuteki: [13, 39],
       lucky: [16, 66],
       sally_area: null,
+      sortie_tag_id: null,
       sp_effect_items: null,
     },
     "4587": {
@@ -4782,6 +4957,7 @@ export const ships: Ships = {
       sakuteki: [5, 19],
       lucky: [6, 46],
       sally_area: null,
+      sortie_tag_id: null,
       sp_effect_items: null,
     },
     "4612": {
@@ -4809,6 +4985,7 @@ export const ships: Ships = {
       sakuteki: [32, 70],
       lucky: [17, 79],
       sally_area: null,
+      sortie_tag_id: null,
       sp_effect_items: null,
     },
     "4647": {
@@ -4836,6 +5013,7 @@ export const ships: Ships = {
       sakuteki: [5, 19],
       lucky: [6, 46],
       sally_area: null,
+      sortie_tag_id: null,
       sp_effect_items: null,
     },
     "4648": {
@@ -4863,6 +5041,7 @@ export const ships: Ships = {
       sakuteki: [40, 49],
       lucky: [38, 98],
       sally_area: null,
+      sortie_tag_id: null,
       sp_effect_items: null,
     },
     "4649": {
@@ -4890,6 +5069,7 @@ export const ships: Ships = {
       sakuteki: [12, 36],
       lucky: [33, 103],
       sally_area: null,
+      sortie_tag_id: null,
       sp_effect_items: null,
     },
     "4654": {
@@ -4917,6 +5097,7 @@ export const ships: Ships = {
       sakuteki: [15, 45],
       lucky: [10, 49],
       sally_area: null,
+      sortie_tag_id: null,
       sp_effect_items: null,
     },
     "4699": {
@@ -4944,6 +5125,7 @@ export const ships: Ships = {
       sakuteki: [9, 35],
       lucky: [9, 49],
       sally_area: null,
+      sortie_tag_id: null,
       sp_effect_items: null,
     },
     "4762": {
@@ -4971,6 +5153,7 @@ export const ships: Ships = {
       sakuteki: [17, 39],
       lucky: [12, 59],
       sally_area: null,
+      sortie_tag_id: null,
       sp_effect_items: null,
     },
     "4771": {
@@ -4998,6 +5181,7 @@ export const ships: Ships = {
       sakuteki: [44, 46],
       lucky: [18, 77],
       sally_area: null,
+      sortie_tag_id: null,
       sp_effect_items: null,
     },
     "4783": {
@@ -5025,6 +5209,7 @@ export const ships: Ships = {
       sakuteki: [6, 19],
       lucky: [10, 49],
       sally_area: null,
+      sortie_tag_id: null,
       sp_effect_items: null,
     },
     "4795": {
@@ -5052,6 +5237,7 @@ export const ships: Ships = {
       sakuteki: [5, 19],
       lucky: [10, 49],
       sally_area: null,
+      sortie_tag_id: null,
       sp_effect_items: null,
     },
     "4807": {
@@ -5079,6 +5265,7 @@ export const ships: Ships = {
       sakuteki: [45, 70],
       lucky: [20, 89],
       sally_area: null,
+      sortie_tag_id: null,
       sp_effect_items: null,
     },
     "4820": {
@@ -5106,6 +5293,7 @@ export const ships: Ships = {
       sakuteki: [15, 44],
       lucky: [20, 69],
       sally_area: null,
+      sortie_tag_id: null,
       sp_effect_items: null,
     },
     "4827": {
@@ -5133,6 +5321,7 @@ export const ships: Ships = {
       sakuteki: [46, 54],
       lucky: [14, 72],
       sally_area: null,
+      sortie_tag_id: null,
       sp_effect_items: null,
     },
     "4830": {
@@ -5160,6 +5349,7 @@ export const ships: Ships = {
       sakuteki: [20, 46],
       lucky: [6, 39],
       sally_area: null,
+      sortie_tag_id: null,
       sp_effect_items: null,
     },
     "4835": {
@@ -5187,6 +5377,7 @@ export const ships: Ships = {
       sakuteki: [15, 44],
       lucky: [20, 69],
       sally_area: null,
+      sortie_tag_id: null,
       sp_effect_items: null,
     },
     "4842": {
@@ -5214,6 +5405,7 @@ export const ships: Ships = {
       sakuteki: [9, 24],
       lucky: [28, 88],
       sally_area: null,
+      sortie_tag_id: null,
       sp_effect_items: null,
     },
     "4845": {
@@ -5241,6 +5433,7 @@ export const ships: Ships = {
       sakuteki: [7, 20],
       lucky: [14, 74],
       sally_area: null,
+      sortie_tag_id: null,
       sp_effect_items: null,
     },
     "4850": {
@@ -5268,6 +5461,7 @@ export const ships: Ships = {
       sakuteki: [45, 54],
       lucky: [10, 57],
       sally_area: null,
+      sortie_tag_id: null,
       sp_effect_items: null,
     },
     "4854": {
@@ -5295,6 +5489,7 @@ export const ships: Ships = {
       sakuteki: [9, 24],
       lucky: [28, 88],
       sally_area: null,
+      sortie_tag_id: null,
       sp_effect_items: null,
     },
     "4864": {
@@ -5322,6 +5517,7 @@ export const ships: Ships = {
       sakuteki: [32, 34],
       lucky: [44, 77],
       sally_area: null,
+      sortie_tag_id: null,
       sp_effect_items: null,
     },
     "4866": {
@@ -5349,6 +5545,7 @@ export const ships: Ships = {
       sakuteki: [10, 21],
       lucky: [30, 80],
       sally_area: null,
+      sortie_tag_id: null,
       sp_effect_items: null,
     },
     "4867": {
@@ -5376,6 +5573,7 @@ export const ships: Ships = {
       sakuteki: [8, 28],
       lucky: [30, 63],
       sally_area: null,
+      sortie_tag_id: null,
       sp_effect_items: null,
     },
     "4884": {
@@ -5403,6 +5601,7 @@ export const ships: Ships = {
       sakuteki: [14, 50],
       lucky: [22, 82],
       sally_area: null,
+      sortie_tag_id: null,
       sp_effect_items: null,
     },
     "4885": {
@@ -5430,6 +5629,7 @@ export const ships: Ships = {
       sakuteki: [17, 46],
       lucky: [6, 39],
       sally_area: null,
+      sortie_tag_id: null,
       sp_effect_items: null,
     },
     "4909": {
@@ -5457,6 +5657,7 @@ export const ships: Ships = {
       sakuteki: [7, 20],
       lucky: [14, 90],
       sally_area: null,
+      sortie_tag_id: null,
       sp_effect_items: null,
     },
     "4922": {
@@ -5484,6 +5685,7 @@ export const ships: Ships = {
       sakuteki: [33, 61],
       lucky: [10, 69],
       sally_area: null,
+      sortie_tag_id: null,
       sp_effect_items: null,
     },
     "4924": {
@@ -5511,6 +5713,7 @@ export const ships: Ships = {
       sakuteki: [91, 82],
       lucky: [12, 77],
       sally_area: null,
+      sortie_tag_id: null,
       sp_effect_items: null,
     },
     "4928": {
@@ -5538,6 +5741,7 @@ export const ships: Ships = {
       sakuteki: [45, 70],
       lucky: [20, 89],
       sally_area: null,
+      sortie_tag_id: null,
       sp_effect_items: null,
     },
     "4941": {
@@ -5565,6 +5769,7 @@ export const ships: Ships = {
       sakuteki: [14, 50],
       lucky: [22, 82],
       sally_area: null,
+      sortie_tag_id: null,
       sp_effect_items: null,
     },
     "4980": {
@@ -5592,6 +5797,7 @@ export const ships: Ships = {
       sakuteki: [7, 20],
       lucky: [14, 74],
       sally_area: null,
+      sortie_tag_id: null,
       sp_effect_items: null,
     },
     "4991": {
@@ -5619,6 +5825,7 @@ export const ships: Ships = {
       sakuteki: [23, 33],
       lucky: [43, 93],
       sally_area: null,
+      sortie_tag_id: null,
       sp_effect_items: null,
     },
     "5001": {
@@ -5646,6 +5853,7 @@ export const ships: Ships = {
       sakuteki: [35, 59],
       lucky: [13, 49],
       sally_area: null,
+      sortie_tag_id: null,
       sp_effect_items: null,
     },
     "5002": {
@@ -5673,6 +5881,7 @@ export const ships: Ships = {
       sakuteki: [24, 80],
       lucky: [24, 69],
       sally_area: null,
+      sortie_tag_id: null,
       sp_effect_items: null,
     },
     "5011": {
@@ -5700,6 +5909,7 @@ export const ships: Ships = {
       sakuteki: [6, 13],
       lucky: [47, 88],
       sally_area: null,
+      sortie_tag_id: null,
       sp_effect_items: null,
     },
     "5018": {
@@ -5727,6 +5937,7 @@ export const ships: Ships = {
       sakuteki: [12, 45],
       lucky: [10, 49],
       sally_area: null,
+      sortie_tag_id: null,
       sp_effect_items: null,
     },
     "5043": {
@@ -5754,6 +5965,7 @@ export const ships: Ships = {
       sakuteki: [48, 60],
       lucky: [11, 58],
       sally_area: null,
+      sortie_tag_id: null,
       sp_effect_items: null,
     },
     "5048": {
@@ -5781,6 +5993,7 @@ export const ships: Ships = {
       sakuteki: [12, 45],
       lucky: [10, 49],
       sally_area: null,
+      sortie_tag_id: null,
       sp_effect_items: null,
     },
     "5525": {
@@ -5808,6 +6021,7 @@ export const ships: Ships = {
       sakuteki: [19, 49],
       lucky: [12, 59],
       sally_area: null,
+      sortie_tag_id: null,
       sp_effect_items: null,
     },
     "5726": {
@@ -5835,6 +6049,7 @@ export const ships: Ships = {
       sakuteki: [61, 62],
       lucky: [19, 68],
       sally_area: null,
+      sortie_tag_id: null,
       sp_effect_items: null,
     },
     "5773": {
@@ -5862,6 +6077,7 @@ export const ships: Ships = {
       sakuteki: [28, 39],
       lucky: [12, 59],
       sally_area: null,
+      sortie_tag_id: null,
       sp_effect_items: null,
     },
     "5871": {
@@ -5889,6 +6105,7 @@ export const ships: Ships = {
       sakuteki: [41, 49],
       lucky: [13, 69],
       sally_area: null,
+      sortie_tag_id: null,
       sp_effect_items: null,
     },
     "6010": {
@@ -5916,6 +6133,7 @@ export const ships: Ships = {
       sakuteki: [69, 79],
       lucky: [12, 59],
       sally_area: null,
+      sortie_tag_id: null,
       sp_effect_items: null,
     },
     "6050": {
@@ -5943,6 +6161,7 @@ export const ships: Ships = {
       sakuteki: [5, 19],
       lucky: [12, 49],
       sally_area: null,
+      sortie_tag_id: null,
       sp_effect_items: null,
     },
     "6133": {
@@ -5970,6 +6189,7 @@ export const ships: Ships = {
       sakuteki: [8, 39],
       lucky: [10, 49],
       sally_area: null,
+      sortie_tag_id: null,
       sp_effect_items: null,
     },
     "6136": {
@@ -5997,6 +6217,7 @@ export const ships: Ships = {
       sakuteki: [13, 39],
       lucky: [10, 49],
       sally_area: null,
+      sortie_tag_id: null,
       sp_effect_items: null,
     },
     "7067": {
@@ -6024,6 +6245,7 @@ export const ships: Ships = {
       sakuteki: [3, 14],
       lucky: [12, 59],
       sally_area: null,
+      sortie_tag_id: null,
       sp_effect_items: null,
     },
     "7159": {
@@ -6051,6 +6273,7 @@ export const ships: Ships = {
       sakuteki: [28, 42],
       lucky: [14, 69],
       sally_area: null,
+      sortie_tag_id: null,
       sp_effect_items: null,
     },
     "7193": {
@@ -6078,6 +6301,7 @@ export const ships: Ships = {
       sakuteki: [28, 47],
       lucky: [6, 44],
       sally_area: null,
+      sortie_tag_id: null,
       sp_effect_items: null,
     },
     "7375": {
@@ -6105,6 +6329,7 @@ export const ships: Ships = {
       sakuteki: [3, 6],
       lucky: [12, 49],
       sally_area: null,
+      sortie_tag_id: null,
       sp_effect_items: null,
     },
     "7464": {
@@ -6132,6 +6357,7 @@ export const ships: Ships = {
       sakuteki: [11, 41],
       lucky: [11, 55],
       sally_area: null,
+      sortie_tag_id: null,
       sp_effect_items: null,
     },
     "7535": {
@@ -6159,6 +6385,7 @@ export const ships: Ships = {
       sakuteki: [16, 39],
       lucky: [12, 49],
       sally_area: null,
+      sortie_tag_id: null,
       sp_effect_items: null,
     },
     "7547": {
@@ -6186,6 +6413,7 @@ export const ships: Ships = {
       sakuteki: [28, 39],
       lucky: [12, 59],
       sally_area: null,
+      sortie_tag_id: null,
       sp_effect_items: null,
     },
     "7701": {
@@ -6213,6 +6441,7 @@ export const ships: Ships = {
       sakuteki: [27, 39],
       lucky: [12, 59],
       sally_area: null,
+      sortie_tag_id: null,
       sp_effect_items: null,
     },
     "8108": {
@@ -6240,6 +6469,7 @@ export const ships: Ships = {
       sakuteki: [29, 39],
       lucky: [24, 79],
       sally_area: null,
+      sortie_tag_id: null,
       sp_effect_items: null,
     },
     "8124": {
@@ -6267,6 +6497,7 @@ export const ships: Ships = {
       sakuteki: [12, 20],
       lucky: [30, 60],
       sally_area: null,
+      sortie_tag_id: null,
       sp_effect_items: null,
     },
     "8450": {
@@ -6294,6 +6525,7 @@ export const ships: Ships = {
       sakuteki: [12, 24],
       lucky: [9, 49],
       sally_area: null,
+      sortie_tag_id: null,
       sp_effect_items: null,
     },
     "8515": {
@@ -6321,6 +6553,7 @@ export const ships: Ships = {
       sakuteki: [50, 50],
       lucky: [25, 79],
       sally_area: null,
+      sortie_tag_id: null,
       sp_effect_items: null,
     },
     "8572": {
@@ -6348,6 +6581,7 @@ export const ships: Ships = {
       sakuteki: [32, 70],
       lucky: [17, 79],
       sally_area: null,
+      sortie_tag_id: null,
       sp_effect_items: null,
     },
     "8700": {
@@ -6375,6 +6609,7 @@ export const ships: Ships = {
       sakuteki: [34, 39],
       lucky: [12, 49],
       sally_area: null,
+      sortie_tag_id: null,
       sp_effect_items: null,
     },
     "9226": {
@@ -6402,6 +6637,7 @@ export const ships: Ships = {
       sakuteki: [4, 17],
       lucky: [10, 49],
       sally_area: null,
+      sortie_tag_id: null,
       sp_effect_items: null,
     },
     "9393": {
@@ -6429,6 +6665,7 @@ export const ships: Ships = {
       sakuteki: [3, 14],
       lucky: [18, 78],
       sally_area: null,
+      sortie_tag_id: null,
       sp_effect_items: null,
     },
     "9395": {
@@ -6456,6 +6693,7 @@ export const ships: Ships = {
       sakuteki: [1, 9],
       lucky: [7, 77],
       sally_area: null,
+      sortie_tag_id: null,
       sp_effect_items: null,
     },
     "9432": {
@@ -6483,6 +6721,7 @@ export const ships: Ships = {
       sakuteki: [5, 24],
       lucky: [33, 73],
       sally_area: null,
+      sortie_tag_id: null,
       sp_effect_items: null,
     },
     "9434": {
@@ -6510,6 +6749,7 @@ export const ships: Ships = {
       sakuteki: [35, 42],
       lucky: [12, 49],
       sally_area: null,
+      sortie_tag_id: null,
       sp_effect_items: null,
     },
     "9438": {
@@ -6537,6 +6777,7 @@ export const ships: Ships = {
       sakuteki: [12, 42],
       lucky: [24, 89],
       sally_area: null,
+      sortie_tag_id: null,
       sp_effect_items: null,
     },
     "9462": {
@@ -6564,6 +6805,7 @@ export const ships: Ships = {
       sakuteki: [13, 43],
       lucky: [33, 90],
       sally_area: null,
+      sortie_tag_id: null,
       sp_effect_items: null,
     },
     "10322": {
@@ -6591,6 +6833,7 @@ export const ships: Ships = {
       sakuteki: [75, 59],
       lucky: [22, 108],
       sally_area: null,
+      sortie_tag_id: null,
       sp_effect_items: null,
     },
     "10526": {
@@ -6618,6 +6861,7 @@ export const ships: Ships = {
       sakuteki: [2, 11],
       lucky: [18, 76],
       sally_area: null,
+      sortie_tag_id: null,
       sp_effect_items: null,
     },
     "10592": {
@@ -6645,6 +6889,7 @@ export const ships: Ships = {
       sakuteki: [7, 19],
       lucky: [14, 49],
       sally_area: null,
+      sortie_tag_id: null,
       sp_effect_items: null,
     },
     "10703": {
@@ -6672,6 +6917,7 @@ export const ships: Ships = {
       sakuteki: [2, 11],
       lucky: [18, 76],
       sally_area: null,
+      sortie_tag_id: null,
       sp_effect_items: null,
     },
     "10806": {
@@ -6699,6 +6945,7 @@ export const ships: Ships = {
       sakuteki: [6, 19],
       lucky: [12, 49],
       sally_area: null,
+      sortie_tag_id: null,
       sp_effect_items: null,
     },
     "10815": {
@@ -6726,6 +6973,7 @@ export const ships: Ships = {
       sakuteki: [33, 61],
       lucky: [10, 69],
       sally_area: null,
+      sortie_tag_id: null,
       sp_effect_items: null,
     },
     "10870": {
@@ -6753,6 +7001,7 @@ export const ships: Ships = {
       sakuteki: [2, 11],
       lucky: [17, 77],
       sally_area: null,
+      sortie_tag_id: null,
       sp_effect_items: null,
     },
     "11151": {
@@ -6780,6 +7029,7 @@ export const ships: Ships = {
       sakuteki: [20, 33],
       lucky: [30, 89],
       sally_area: null,
+      sortie_tag_id: null,
       sp_effect_items: null,
     },
     "11166": {
@@ -6807,6 +7057,7 @@ export const ships: Ships = {
       sakuteki: [77, 58],
       lucky: [14, 88],
       sally_area: null,
+      sortie_tag_id: null,
       sp_effect_items: null,
     },
     "11264": {
@@ -6834,6 +7085,7 @@ export const ships: Ships = {
       sakuteki: [9, 29],
       lucky: [10, 59],
       sally_area: null,
+      sortie_tag_id: null,
       sp_effect_items: null,
     },
     "11303": {
@@ -6861,6 +7113,7 @@ export const ships: Ships = {
       sakuteki: [9, 29],
       lucky: [10, 59],
       sally_area: null,
+      sortie_tag_id: null,
       sp_effect_items: null,
     },
     "11309": {
@@ -6888,6 +7141,7 @@ export const ships: Ships = {
       sakuteki: [20, 33],
       lucky: [30, 89],
       sally_area: null,
+      sortie_tag_id: null,
       sp_effect_items: null,
     },
     "11417": {
@@ -6915,6 +7169,7 @@ export const ships: Ships = {
       sakuteki: [9, 29],
       lucky: [10, 59],
       sally_area: null,
+      sortie_tag_id: null,
       sp_effect_items: null,
     },
     "11787": {
@@ -6942,6 +7197,7 @@ export const ships: Ships = {
       sakuteki: [34, 69],
       lucky: [30, 79],
       sally_area: null,
+      sortie_tag_id: null,
       sp_effect_items: null,
     },
     "11866": {
@@ -6969,6 +7225,7 @@ export const ships: Ships = {
       sakuteki: [9, 40],
       lucky: [12, 55],
       sally_area: null,
+      sortie_tag_id: null,
       sp_effect_items: null,
     },
     "11876": {
@@ -6996,6 +7253,7 @@ export const ships: Ships = {
       sakuteki: [6, 19],
       lucky: [13, 72],
       sally_area: null,
+      sortie_tag_id: null,
       sp_effect_items: null,
     },
     "12064": {
@@ -7023,6 +7281,7 @@ export const ships: Ships = {
       sakuteki: [34, 69],
       lucky: [30, 79],
       sally_area: null,
+      sortie_tag_id: null,
       sp_effect_items: null,
     },
     "12114": {
@@ -7050,6 +7309,7 @@ export const ships: Ships = {
       sakuteki: [7, 19],
       lucky: [10, 49],
       sally_area: null,
+      sortie_tag_id: null,
       sp_effect_items: null,
     },
     "12139": {
@@ -7077,6 +7337,7 @@ export const ships: Ships = {
       sakuteki: [8, 36],
       lucky: [33, 103],
       sally_area: null,
+      sortie_tag_id: null,
       sp_effect_items: null,
     },
     "12140": {
@@ -7104,6 +7365,7 @@ export const ships: Ships = {
       sakuteki: [40, 72],
       lucky: [8, 58],
       sally_area: null,
+      sortie_tag_id: null,
       sp_effect_items: null,
     },
     "12145": {
@@ -7131,6 +7393,7 @@ export const ships: Ships = {
       sakuteki: [22, 68],
       lucky: [17, 79],
       sally_area: null,
+      sortie_tag_id: null,
       sp_effect_items: null,
     },
     "12147": {
@@ -7158,6 +7421,7 @@ export const ships: Ships = {
       sakuteki: [32, 70],
       lucky: [17, 79],
       sally_area: null,
+      sortie_tag_id: null,
       sp_effect_items: null,
     },
     "12158": {
@@ -7185,6 +7449,7 @@ export const ships: Ships = {
       sakuteki: [40, 72],
       lucky: [8, 58],
       sally_area: null,
+      sortie_tag_id: null,
       sp_effect_items: null,
     },
     "12171": {
@@ -7212,6 +7477,7 @@ export const ships: Ships = {
       sakuteki: [7, 20],
       lucky: [12, 59],
       sally_area: null,
+      sortie_tag_id: null,
       sp_effect_items: null,
     },
     "12172": {
@@ -7239,6 +7505,7 @@ export const ships: Ships = {
       sakuteki: [6, 29],
       lucky: [22, 77],
       sally_area: null,
+      sortie_tag_id: null,
       sp_effect_items: null,
     },
     "12176": {
@@ -7266,6 +7533,7 @@ export const ships: Ships = {
       sakuteki: [24, 48],
       lucky: [20, 59],
       sally_area: null,
+      sortie_tag_id: null,
       sp_effect_items: null,
     },
     "12214": {
@@ -7293,6 +7561,7 @@ export const ships: Ships = {
       sakuteki: [12, 48],
       lucky: [15, 75],
       sally_area: null,
+      sortie_tag_id: null,
       sp_effect_items: null,
     },
     "12218": {
@@ -7320,6 +7589,7 @@ export const ships: Ships = {
       sakuteki: [40, 72],
       lucky: [8, 58],
       sally_area: null,
+      sortie_tag_id: null,
       sp_effect_items: null,
     },
     "12225": {
@@ -7347,6 +7617,7 @@ export const ships: Ships = {
       sakuteki: [20, 64],
       lucky: [22, 82],
       sally_area: null,
+      sortie_tag_id: null,
       sp_effect_items: null,
     },
     "12233": {
@@ -7374,6 +7645,7 @@ export const ships: Ships = {
       sakuteki: [3, 14],
       lucky: [18, 78],
       sally_area: null,
+      sortie_tag_id: null,
       sp_effect_items: null,
     },
     "12252": {
@@ -7401,6 +7673,7 @@ export const ships: Ships = {
       sakuteki: [3, 14],
       lucky: [12, 59],
       sally_area: null,
+      sortie_tag_id: null,
       sp_effect_items: null,
     },
     "12258": {
@@ -7428,6 +7701,7 @@ export const ships: Ships = {
       sakuteki: [5, 19],
       lucky: [8, 49],
       sally_area: null,
+      sortie_tag_id: null,
       sp_effect_items: null,
     },
     "12260": {
@@ -7455,6 +7729,7 @@ export const ships: Ships = {
       sakuteki: [3, 15],
       lucky: [20, 80],
       sally_area: null,
+      sortie_tag_id: null,
       sp_effect_items: null,
     },
     "12261": {
@@ -7482,6 +7757,7 @@ export const ships: Ships = {
       sakuteki: [5, 19],
       lucky: [10, 49],
       sally_area: null,
+      sortie_tag_id: null,
       sp_effect_items: null,
     },
     "12266": {
@@ -7509,6 +7785,7 @@ export const ships: Ships = {
       sakuteki: [7, 19],
       lucky: [14, 49],
       sally_area: null,
+      sortie_tag_id: null,
       sp_effect_items: null,
     },
     "12270": {
@@ -7536,6 +7813,7 @@ export const ships: Ships = {
       sakuteki: [5, 19],
       lucky: [7, 49],
       sally_area: null,
+      sortie_tag_id: null,
       sp_effect_items: null,
     },
     "12304": {
@@ -7563,6 +7841,7 @@ export const ships: Ships = {
       sakuteki: [7, 19],
       lucky: [14, 49],
       sally_area: null,
+      sortie_tag_id: null,
       sp_effect_items: null,
     },
     "12315": {
@@ -7590,6 +7869,7 @@ export const ships: Ships = {
       sakuteki: [8, 19],
       lucky: [14, 49],
       sally_area: null,
+      sortie_tag_id: null,
       sp_effect_items: null,
     },
     "12423": {
@@ -7617,6 +7897,7 @@ export const ships: Ships = {
       sakuteki: [4, 17],
       lucky: [17, 73],
       sally_area: null,
+      sortie_tag_id: null,
       sp_effect_items: null,
     },
     "12633": {
@@ -7644,6 +7925,7 @@ export const ships: Ships = {
       sakuteki: [6, 19],
       lucky: [50, 99],
       sally_area: null,
+      sortie_tag_id: null,
       sp_effect_items: null,
     },
     "12693": {
@@ -7671,6 +7953,7 @@ export const ships: Ships = {
       sakuteki: [7, 19],
       lucky: [10, 49],
       sally_area: null,
+      sortie_tag_id: null,
       sp_effect_items: null,
     },
     "12792": {
@@ -7698,6 +7981,7 @@ export const ships: Ships = {
       sakuteki: [6, 19],
       lucky: [50, 99],
       sally_area: null,
+      sortie_tag_id: null,
       sp_effect_items: null,
     },
     "12823": {
@@ -7725,6 +8009,7 @@ export const ships: Ships = {
       sakuteki: [8, 19],
       lucky: [13, 50],
       sally_area: null,
+      sortie_tag_id: null,
       sp_effect_items: null,
     },
     "12894": {
@@ -7752,6 +8037,7 @@ export const ships: Ships = {
       sakuteki: [24, 67],
       lucky: [17, 77],
       sally_area: null,
+      sortie_tag_id: null,
       sp_effect_items: null,
     },
     "13047": {
@@ -7779,6 +8065,7 @@ export const ships: Ships = {
       sakuteki: [5, 19],
       lucky: [10, 49],
       sally_area: null,
+      sortie_tag_id: null,
       sp_effect_items: null,
     },
     "13053": {
@@ -7806,6 +8093,7 @@ export const ships: Ships = {
       sakuteki: [14, 39],
       lucky: [12, 59],
       sally_area: null,
+      sortie_tag_id: null,
       sp_effect_items: null,
     },
     "13058": {
@@ -7833,6 +8121,7 @@ export const ships: Ships = {
       sakuteki: [6, 19],
       lucky: [10, 49],
       sally_area: null,
+      sortie_tag_id: null,
       sp_effect_items: null,
     },
     "13067": {
@@ -7860,6 +8149,7 @@ export const ships: Ships = {
       sakuteki: [5, 15],
       lucky: [17, 67],
       sally_area: null,
+      sortie_tag_id: null,
       sp_effect_items: null,
     },
     "13081": {
@@ -7887,6 +8177,7 @@ export const ships: Ships = {
       sakuteki: [5, 17],
       lucky: [15, 69],
       sally_area: null,
+      sortie_tag_id: null,
       sp_effect_items: null,
     },
     "13192": {
@@ -7914,6 +8205,7 @@ export const ships: Ships = {
       sakuteki: [40, 60],
       lucky: [22, 72],
       sally_area: null,
+      sortie_tag_id: null,
       sp_effect_items: null,
     },
     "13198": {
@@ -7941,6 +8233,7 @@ export const ships: Ships = {
       sakuteki: [3, 13],
       lucky: [47, 88],
       sally_area: null,
+      sortie_tag_id: null,
       sp_effect_items: null,
     },
     "13199": {
@@ -7968,6 +8261,7 @@ export const ships: Ships = {
       sakuteki: [3, 15],
       lucky: [11, 54],
       sally_area: null,
+      sortie_tag_id: null,
       sp_effect_items: null,
     },
     "13329": {
@@ -7995,6 +8289,7 @@ export const ships: Ships = {
       sakuteki: [13, 56],
       lucky: [17, 57],
       sally_area: null,
+      sortie_tag_id: null,
       sp_effect_items: null,
     },
     "13450": {
@@ -8022,6 +8317,7 @@ export const ships: Ships = {
       sakuteki: [44, 69],
       lucky: [40, 89],
       sally_area: null,
+      sortie_tag_id: null,
       sp_effect_items: null,
     },
     "13479": {
@@ -8049,6 +8345,7 @@ export const ships: Ships = {
       sakuteki: [8, 39],
       lucky: [15, 69],
       sally_area: null,
+      sortie_tag_id: null,
       sp_effect_items: null,
     },
     "13613": {
@@ -8076,6 +8373,7 @@ export const ships: Ships = {
       sakuteki: [44, 69],
       lucky: [40, 89],
       sally_area: null,
+      sortie_tag_id: null,
       sp_effect_items: null,
     },
     "13645": {
@@ -8103,6 +8401,7 @@ export const ships: Ships = {
       sakuteki: [7, 21],
       lucky: [10, 49],
       sally_area: null,
+      sortie_tag_id: null,
       sp_effect_items: null,
     },
     "13663": {
@@ -8130,6 +8429,7 @@ export const ships: Ships = {
       sakuteki: [13, 56],
       lucky: [17, 57],
       sally_area: null,
+      sortie_tag_id: null,
       sp_effect_items: null,
     },
     "13682": {
@@ -8157,6 +8457,7 @@ export const ships: Ships = {
       sakuteki: [38, 69],
       lucky: [10, 49],
       sally_area: null,
+      sortie_tag_id: null,
       sp_effect_items: null,
     },
     "13929": {
@@ -8184,6 +8485,7 @@ export const ships: Ships = {
       sakuteki: [29, 31],
       lucky: [46, 90],
       sally_area: null,
+      sortie_tag_id: null,
       sp_effect_items: null,
     },
     "14019": {
@@ -8211,6 +8513,7 @@ export const ships: Ships = {
       sakuteki: [2, 11],
       lucky: [18, 76],
       sally_area: null,
+      sortie_tag_id: null,
       sp_effect_items: null,
     },
     "14047": {
@@ -8238,6 +8541,7 @@ export const ships: Ships = {
       sakuteki: [9, 31],
       lucky: [46, 90],
       sally_area: null,
+      sortie_tag_id: null,
       sp_effect_items: null,
     },
     "14124": {
@@ -8265,6 +8569,7 @@ export const ships: Ships = {
       sakuteki: [2, 11],
       lucky: [17, 77],
       sally_area: null,
+      sortie_tag_id: null,
       sp_effect_items: null,
     },
     "14178": {
@@ -8292,6 +8597,7 @@ export const ships: Ships = {
       sakuteki: [8, 19],
       lucky: [13, 50],
       sally_area: null,
+      sortie_tag_id: null,
       sp_effect_items: null,
     },
     "14286": {
@@ -8319,6 +8625,7 @@ export const ships: Ships = {
       sakuteki: [3, 15],
       lucky: [11, 54],
       sally_area: null,
+      sortie_tag_id: null,
       sp_effect_items: null,
     },
     "14327": {
@@ -8346,6 +8653,7 @@ export const ships: Ships = {
       sakuteki: [34, 69],
       lucky: [30, 79],
       sally_area: null,
+      sortie_tag_id: null,
       sp_effect_items: null,
     },
     "14348": {
@@ -8373,6 +8681,7 @@ export const ships: Ships = {
       sakuteki: [15, 50],
       lucky: [12, 55],
       sally_area: null,
+      sortie_tag_id: null,
       sp_effect_items: null,
     },
     "14351": {
@@ -8400,6 +8709,7 @@ export const ships: Ships = {
       sakuteki: [6, 19],
       lucky: [13, 72],
       sally_area: null,
+      sortie_tag_id: null,
       sp_effect_items: null,
     },
     "14357": {
@@ -8427,6 +8737,7 @@ export const ships: Ships = {
       sakuteki: [9, 24],
       lucky: [10, 50],
       sally_area: null,
+      sortie_tag_id: null,
       sp_effect_items: null,
     },
     "14360": {
@@ -8454,6 +8765,7 @@ export const ships: Ships = {
       sakuteki: [6, 19],
       lucky: [50, 99],
       sally_area: null,
+      sortie_tag_id: null,
       sp_effect_items: null,
     },
     "14505": {
@@ -8481,6 +8793,7 @@ export const ships: Ships = {
       sakuteki: [7, 19],
       lucky: [13, 49],
       sally_area: null,
+      sortie_tag_id: null,
       sp_effect_items: null,
     },
     "14578": {
@@ -8508,6 +8821,7 @@ export const ships: Ships = {
       sakuteki: [7, 19],
       lucky: [13, 49],
       sally_area: null,
+      sortie_tag_id: null,
       sp_effect_items: null,
     },
     "14672": {
@@ -8535,6 +8849,7 @@ export const ships: Ships = {
       sakuteki: [6, 19],
       lucky: [13, 54],
       sally_area: null,
+      sortie_tag_id: null,
       sp_effect_items: null,
     },
     "14675": {
@@ -8562,6 +8877,7 @@ export const ships: Ships = {
       sakuteki: [42, 74],
       lucky: [8, 39],
       sally_area: null,
+      sortie_tag_id: null,
       sp_effect_items: null,
     },
     "14758": {
@@ -8589,6 +8905,7 @@ export const ships: Ships = {
       sakuteki: [4, 17],
       lucky: [25, 74],
       sally_area: null,
+      sortie_tag_id: null,
       sp_effect_items: null,
     },
     "14771": {
@@ -8616,6 +8933,7 @@ export const ships: Ships = {
       sakuteki: [6, 19],
       lucky: [13, 72],
       sally_area: null,
+      sortie_tag_id: null,
       sp_effect_items: null,
     },
     "14773": {
@@ -8643,6 +8961,7 @@ export const ships: Ships = {
       sakuteki: [15, 50],
       lucky: [12, 55],
       sally_area: null,
+      sortie_tag_id: null,
       sp_effect_items: null,
     },
     "14788": {
@@ -8670,6 +8989,7 @@ export const ships: Ships = {
       sakuteki: [8, 19],
       lucky: [18, 59],
       sally_area: null,
+      sortie_tag_id: null,
       sp_effect_items: null,
     },
     "14813": {
@@ -8697,6 +9017,7 @@ export const ships: Ships = {
       sakuteki: [6, 24],
       lucky: [6, 39],
       sally_area: null,
+      sortie_tag_id: null,
       sp_effect_items: null,
     },
     "14885": {
@@ -8724,6 +9045,7 @@ export const ships: Ships = {
       sakuteki: [5, 24],
       lucky: [33, 73],
       sally_area: null,
+      sortie_tag_id: null,
       sp_effect_items: null,
     },
     "15369": {
@@ -8751,6 +9073,7 @@ export const ships: Ships = {
       sakuteki: [5, 19],
       lucky: [10, 49],
       sally_area: null,
+      sortie_tag_id: null,
       sp_effect_items: null,
     },
     "15403": {
@@ -8778,6 +9101,7 @@ export const ships: Ships = {
       sakuteki: [7, 21],
       lucky: [10, 49],
       sally_area: null,
+      sortie_tag_id: null,
       sp_effect_items: null,
     },
     "15408": {
@@ -8805,6 +9129,7 @@ export const ships: Ships = {
       sakuteki: [4, 19],
       lucky: [7, 49],
       sally_area: null,
+      sortie_tag_id: null,
       sp_effect_items: null,
     },
     "15412": {
@@ -8832,6 +9157,7 @@ export const ships: Ships = {
       sakuteki: [7, 14],
       lucky: [40, 80],
       sally_area: null,
+      sortie_tag_id: null,
       sp_effect_items: null,
     },
     "15418": {
@@ -8859,6 +9185,7 @@ export const ships: Ships = {
       sakuteki: [12, 24],
       lucky: [11, 49],
       sally_area: null,
+      sortie_tag_id: null,
       sp_effect_items: null,
     },
     "15419": {
@@ -8886,6 +9213,7 @@ export const ships: Ships = {
       sakuteki: [9, 24],
       lucky: [10, 50],
       sally_area: null,
+      sortie_tag_id: null,
       sp_effect_items: null,
     },
     "15428": {
@@ -8913,6 +9241,7 @@ export const ships: Ships = {
       sakuteki: [2, 12],
       lucky: [55, 110],
       sally_area: null,
+      sortie_tag_id: null,
       sp_effect_items: null,
     },
     "15437": {
@@ -8940,6 +9269,7 @@ export const ships: Ships = {
       sakuteki: [2, 9],
       lucky: [8, 58],
       sally_area: null,
+      sortie_tag_id: null,
       sp_effect_items: null,
     },
     "15438": {
@@ -8967,6 +9297,7 @@ export const ships: Ships = {
       sakuteki: [12, 44],
       lucky: [13, 60],
       sally_area: null,
+      sortie_tag_id: null,
       sp_effect_items: null,
     },
     "15443": {
@@ -8994,6 +9325,7 @@ export const ships: Ships = {
       sakuteki: [11, 24],
       lucky: [11, 49],
       sally_area: null,
+      sortie_tag_id: null,
       sp_effect_items: null,
     },
     "15449": {
@@ -9021,6 +9353,7 @@ export const ships: Ships = {
       sakuteki: [4, 14],
       lucky: [35, 78],
       sally_area: null,
+      sortie_tag_id: null,
       sp_effect_items: null,
     },
     "15454": {
@@ -9048,6 +9381,7 @@ export const ships: Ships = {
       sakuteki: [4, 19],
       lucky: [7, 49],
       sally_area: null,
+      sortie_tag_id: null,
       sp_effect_items: null,
     },
     "15457": {
@@ -9075,6 +9409,7 @@ export const ships: Ships = {
       sakuteki: [2, 13],
       lucky: [19, 85],
       sally_area: null,
+      sortie_tag_id: null,
       sp_effect_items: null,
     },
     "15461": {
@@ -9102,6 +9437,7 @@ export const ships: Ships = {
       sakuteki: [4, 14],
       lucky: [35, 78],
       sally_area: null,
+      sortie_tag_id: null,
       sp_effect_items: null,
     },
     "15468": {
@@ -9129,6 +9465,7 @@ export const ships: Ships = {
       sakuteki: [2, 13],
       lucky: [19, 85],
       sally_area: null,
+      sortie_tag_id: null,
       sp_effect_items: null,
     },
     "15487": {
@@ -9156,6 +9493,7 @@ export const ships: Ships = {
       sakuteki: [13, 53],
       lucky: [3, 33],
       sally_area: null,
+      sortie_tag_id: null,
       sp_effect_items: null,
     },
     "15500": {
@@ -9183,6 +9521,7 @@ export const ships: Ships = {
       sakuteki: [13, 53],
       lucky: [3, 33],
       sally_area: null,
+      sortie_tag_id: null,
       sp_effect_items: null,
     },
     "15516": {
@@ -9210,6 +9549,7 @@ export const ships: Ships = {
       sakuteki: [2, 13],
       lucky: [19, 85],
       sally_area: null,
+      sortie_tag_id: null,
       sp_effect_items: null,
     },
     "15531": {
@@ -9237,6 +9577,7 @@ export const ships: Ships = {
       sakuteki: [4, 14],
       lucky: [35, 78],
       sally_area: null,
+      sortie_tag_id: null,
       sp_effect_items: null,
     },
     "15538": {
@@ -9264,6 +9605,7 @@ export const ships: Ships = {
       sakuteki: [4, 19],
       lucky: [7, 49],
       sally_area: null,
+      sortie_tag_id: null,
       sp_effect_items: null,
     },
     "15540": {
@@ -9291,6 +9633,7 @@ export const ships: Ships = {
       sakuteki: [3, 14],
       lucky: [37, 78],
       sally_area: null,
+      sortie_tag_id: null,
       sp_effect_items: null,
     },
     "15546": {
@@ -9318,6 +9661,7 @@ export const ships: Ships = {
       sakuteki: [8, 25],
       lucky: [16, 72],
       sally_area: null,
+      sortie_tag_id: null,
       sp_effect_items: null,
     },
     "15574": {
@@ -9345,6 +9689,7 @@ export const ships: Ships = {
       sakuteki: [2, 13],
       lucky: [19, 85],
       sally_area: null,
+      sortie_tag_id: null,
       sp_effect_items: null,
     },
     "15576": {
@@ -9372,6 +9717,7 @@ export const ships: Ships = {
       sakuteki: [9, 24],
       lucky: [10, 50],
       sally_area: null,
+      sortie_tag_id: null,
       sp_effect_items: null,
     },
     "15585": {
@@ -9399,6 +9745,7 @@ export const ships: Ships = {
       sakuteki: [2, 13],
       lucky: [19, 85],
       sally_area: null,
+      sortie_tag_id: null,
       sp_effect_items: null,
     },
     "15671": {
@@ -9426,6 +9773,7 @@ export const ships: Ships = {
       sakuteki: [4, 14],
       lucky: [35, 78],
       sally_area: null,
+      sortie_tag_id: null,
       sp_effect_items: null,
     },
     "15681": {
@@ -9453,6 +9801,7 @@ export const ships: Ships = {
       sakuteki: [3, 9],
       lucky: [8, 58],
       sally_area: null,
+      sortie_tag_id: null,
       sp_effect_items: null,
     },
     "15735": {
@@ -9480,6 +9829,7 @@ export const ships: Ships = {
       sakuteki: [32, 33],
       lucky: [18, 77],
       sally_area: null,
+      sortie_tag_id: null,
       sp_effect_items: null,
     },
     "15794": {
@@ -9507,6 +9857,7 @@ export const ships: Ships = {
       sakuteki: [5, 18],
       lucky: [6, 44],
       sally_area: null,
+      sortie_tag_id: null,
       sp_effect_items: null,
     },
     "15802": {
@@ -9534,6 +9885,7 @@ export const ships: Ships = {
       sakuteki: [1, 3],
       lucky: [17, 29],
       sally_area: null,
+      sortie_tag_id: null,
       sp_effect_items: null,
     },
     "16008": {
@@ -9561,6 +9913,7 @@ export const ships: Ships = {
       sakuteki: [11, 23],
       lucky: [8, 48],
       sally_area: null,
+      sortie_tag_id: null,
       sp_effect_items: null,
     },
     "16010": {
@@ -9588,6 +9941,7 @@ export const ships: Ships = {
       sakuteki: [6, 39],
       lucky: [12, 49],
       sally_area: null,
+      sortie_tag_id: null,
       sp_effect_items: null,
     },
     "16013": {
@@ -9615,6 +9969,7 @@ export const ships: Ships = {
       sakuteki: [6, 39],
       lucky: [12, 49],
       sally_area: null,
+      sortie_tag_id: null,
       sp_effect_items: null,
     },
     "16015": {
@@ -9642,6 +9997,7 @@ export const ships: Ships = {
       sakuteki: [10, 22],
       lucky: [6, 46],
       sally_area: null,
+      sortie_tag_id: null,
       sp_effect_items: null,
     },
     "16053": {
@@ -9669,6 +10025,7 @@ export const ships: Ships = {
       sakuteki: [2, 11],
       lucky: [18, 76],
       sally_area: null,
+      sortie_tag_id: null,
       sp_effect_items: null,
     },
     "16078": {
@@ -9696,6 +10053,7 @@ export const ships: Ships = {
       sakuteki: [8, 39],
       lucky: [15, 69],
       sally_area: null,
+      sortie_tag_id: null,
       sp_effect_items: null,
     },
     "16134": {
@@ -9723,6 +10081,7 @@ export const ships: Ships = {
       sakuteki: [2, 11],
       lucky: [17, 77],
       sally_area: null,
+      sortie_tag_id: null,
       sp_effect_items: null,
     },
     "16146": {
@@ -9750,6 +10109,7 @@ export const ships: Ships = {
       sakuteki: [2, 11],
       lucky: [17, 77],
       sally_area: null,
+      sortie_tag_id: null,
       sp_effect_items: null,
     },
     "16178": {
@@ -9777,6 +10137,7 @@ export const ships: Ships = {
       sakuteki: [2, 11],
       lucky: [18, 76],
       sally_area: null,
+      sortie_tag_id: null,
       sp_effect_items: null,
     },
     "16204": {
@@ -9804,6 +10165,7 @@ export const ships: Ships = {
       sakuteki: [36, 60],
       lucky: [12, 60],
       sally_area: null,
+      sortie_tag_id: null,
       sp_effect_items: null,
     },
     "16227": {
@@ -9831,6 +10193,7 @@ export const ships: Ships = {
       sakuteki: [8, 19],
       lucky: [18, 59],
       sally_area: null,
+      sortie_tag_id: null,
       sp_effect_items: null,
     },
     "16233": {
@@ -9858,6 +10221,7 @@ export const ships: Ships = {
       sakuteki: [2, 13],
       lucky: [19, 85],
       sally_area: null,
+      sortie_tag_id: null,
       sp_effect_items: null,
     },
     "16261": {
@@ -9885,6 +10249,7 @@ export const ships: Ships = {
       sakuteki: [2, 11],
       lucky: [17, 77],
       sally_area: null,
+      sortie_tag_id: null,
       sp_effect_items: null,
     },
     "16288": {
@@ -9912,6 +10277,7 @@ export const ships: Ships = {
       sakuteki: [2, 11],
       lucky: [18, 76],
       sally_area: null,
+      sortie_tag_id: null,
       sp_effect_items: null,
     },
     "16344": {
@@ -9939,6 +10305,7 @@ export const ships: Ships = {
       sakuteki: [2, 11],
       lucky: [18, 76],
       sally_area: null,
+      sortie_tag_id: null,
       sp_effect_items: null,
     },
     "16365": {
@@ -9966,6 +10333,7 @@ export const ships: Ships = {
       sakuteki: [3, 15],
       lucky: [7, 49],
       sally_area: null,
+      sortie_tag_id: null,
       sp_effect_items: null,
     },
     "16519": {
@@ -9993,6 +10361,7 @@ export const ships: Ships = {
       sakuteki: [11, 40],
       lucky: [17, 47],
       sally_area: null,
+      sortie_tag_id: null,
       sp_effect_items: null,
     },
     "16533": {
@@ -10020,6 +10389,7 @@ export const ships: Ships = {
       sakuteki: [36, 60],
       lucky: [12, 60],
       sally_area: null,
+      sortie_tag_id: null,
       sp_effect_items: null,
     },
     "16578": {
@@ -10047,6 +10417,7 @@ export const ships: Ships = {
       sakuteki: [45, 69],
       lucky: [40, 89],
       sally_area: null,
+      sortie_tag_id: null,
       sp_effect_items: null,
     },
     "16582": {
@@ -10074,6 +10445,7 @@ export const ships: Ships = {
       sakuteki: [39, 59],
       lucky: [20, 79],
       sally_area: null,
+      sortie_tag_id: null,
       sp_effect_items: null,
     },
     "16583": {
@@ -10101,6 +10473,7 @@ export const ships: Ships = {
       sakuteki: [45, 69],
       lucky: [40, 89],
       sally_area: null,
+      sortie_tag_id: null,
       sp_effect_items: null,
     },
   },
